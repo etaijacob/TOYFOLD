@@ -1,0 +1,10412 @@
+
+
+opened file: ../seqSeeker/my_all_possible_15mer_2D_lattice_configurations.bindb for DB
+Sequence length: 15 Size of DB: 86127
+Finished ctor With no prob.
+
+#0
+
+statistics:
+E: -0.981281, V: 0.989437
+Max: 2, Min: -6.5, Low Range counter: 8
+minStructIndex: 80082
+
+Low range SDV: -5.5053
+-5.5053 8
+-6.00265 3
+-6.16843 3
+-6.25132 1
+-6.30106 1
+-6.33422 1
+-6.3579 1
+-6.37566 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:0.1
+
+[15]+PP-H+HPHHPPHH-
+
++P   
+-PPH 
+H+HHP
+ -HHP
+
+$structure
+( 1)( 2)            
+( 4)( 3)( 8)( 9)    
+( 5)( 6)( 7)(10)(11)
+    (15)(14)(13)(12)
+$
+
+
+
+---------------------------------------------
+
+#1
+
+statistics:
+E: -0.500839, V: 0.411854
+Max: 1, Min: -3.75, Low Range counter: 13
+minStructIndex: 47029
+
+Low range SDV: -3.10824
+-3.10824 18
+-3.42912 13
+-3.53608 4
+-3.58956 4
+-3.62165 4
+-3.64304 4
+-3.65832 4
+-3.66978 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:1.1
+
+[15]+HPHHHPP-HPHP+-
+
+ PH 
+-+P 
+P-H+
+PHHH
+  HP
+
+$structure
+    (13)(12)    
+(15)(14)(11)    
+( 8)( 9)(10)( 1)
+( 7)( 6)( 5)( 2)
+        ( 4)( 3)
+$
+
+SN:1.2
+
+[15]+HPHHHPP-HPHP+-
+
+ PH  
+-+P  
+P-H  
+PHHH+
+  HP 
+
+$structure
+    (13)(12)        
+(15)(14)(11)        
+( 8)( 9)(10)        
+( 7)( 6)( 5)( 2)( 1)
+        ( 4)( 3)    
+$
+SN:1.3
+
+[15]+HPHHHPP-HPHP+-
+
+ PH 
+-+P 
+P-H 
+PHHH
+  HP
+  + 
+
+$structure
+    (13)(12)    
+(15)(14)(11)    
+( 8)( 9)(10)    
+( 7)( 6)( 5)( 4)
+        ( 2)( 3)
+        ( 1)    
+$
+SN:1.4
+
+[15]+HPHHHPP-HPHP+-
+
+ PH 
+-+P 
+P-H 
+PHHH
+ +HP
+
+$structure
+    (13)(12)    
+(15)(14)(11)    
+( 8)( 9)(10)    
+( 7)( 6)( 5)( 4)
+    ( 1)( 2)( 3)
+$
+
+
+---------------------------------------------
+
+#2
+
+statistics:
+E: -0.75103, V: 0.90252
+Max: 1, Min: -4.75, Low Range counter: 203
+minStructIndex: 15582
+
+Low range SDV: -3.79999
+-3.79999 203
+-4.27499 46
+-4.43333 46
+-4.5125 15
+-4.56 15
+-4.59166 15
+-4.61428 15
+-4.63125 15
+
+Additional minimal structures: 14
+Min structures:
+
+SN:2.1
+
+[15]+P-+HPPHHHPHHP-
+
+PHHH
+PHHP
+-+H 
+P-P 
++   
+
+$structure
+( 7)( 8)( 9)(10)
+( 6)( 5)(12)(11)
+( 3)( 4)(13)    
+( 2)(15)(14)    
+( 1)            
+$
+
+SN:2.2
+
+[15]+P-+HPPHHHPHHP-
+
+ PHHH
+ PHHP
+ -+H 
++P-P 
+
+$structure
+    ( 7)( 8)( 9)(10)
+    ( 6)( 5)(12)(11)
+    ( 3)( 4)(13)    
+( 1)( 2)(15)(14)    
+$
+SN:2.3
+
+[15]+P-+HPPHHHPHHP-
+
+ PHHH
++PHHP
+P-+H 
+  -P 
+
+$structure
+    ( 7)( 8)( 9)(10)
+( 1)( 6)( 5)(12)(11)
+( 2)( 3)( 4)(13)    
+        (15)(14)    
+$
+SN:2.4
+
+[15]+P-+HPPHHHPHHP-
+
+PHH 
+PHHP
+-+HH
+P-P 
++   
+
+$structure
+( 7)( 8)( 9)    
+( 6)( 5)(10)(11)
+( 3)( 4)(13)(12)
+( 2)(15)(14)    
+( 1)            
+$
+SN:2.5
+
+[15]+P-+HPPHHHPHHP-
+
+ PHH 
+ PHHP
+ -+HH
++P-P 
+
+$structure
+    ( 7)( 8)( 9)    
+    ( 6)( 5)(10)(11)
+    ( 3)( 4)(13)(12)
+( 1)( 2)(15)(14)    
+$
+SN:2.6
+
+[15]+P-+HPPHHHPHHP-
+
+ PHH 
++PHHP
+P-+HH
+  -P 
+
+$structure
+    ( 7)( 8)( 9)    
+( 1)( 6)( 5)(10)(11)
+( 2)( 3)( 4)(13)(12)
+        (15)(14)    
+$
+SN:2.7
+
+[15]+P-+HPPHHHPHHP-
+
+ HHHHP
+-PPHHP
+ +P-+ 
+
+$structure
+    (13)(12)( 9)( 8)( 7)
+(15)(14)(11)(10)( 5)( 6)
+    ( 1)( 2)( 3)( 4)    
+$
+SN:2.8
+
+[15]+P-+HPPHHHPHHP-
+
+PHH 
+PHH 
+-+PH
+P-PH
++   
+
+$structure
+( 7)( 8)( 9)    
+( 6)( 5)(10)    
+( 3)( 4)(11)(12)
+( 2)(15)(14)(13)
+( 1)            
+$
+SN:2.9
+
+[15]+P-+HPPHHHPHHP-
+
+ PHH 
+ PHH 
+ -+PH
++P-PH
+
+$structure
+    ( 7)( 8)( 9)    
+    ( 6)( 5)(10)    
+    ( 3)( 4)(11)(12)
+( 1)( 2)(15)(14)(13)
+$
+SN:2.10
+
+[15]+P-+HPPHHHPHHP-
+
+ PHH 
++PHH 
+P-+PH
+  -PH
+
+$structure
+    ( 7)( 8)( 9)    
+( 1)( 6)( 5)(10)    
+( 2)( 3)( 4)(11)(12)
+        (15)(14)(13)
+$
+SN:2.11
+
+[15]+P-+HPPHHHPHHP-
+
+  PP
+ +HH
+ -HH
++PPH
+ -PH
+
+$structure
+        ( 6)( 7)
+    ( 4)( 5)( 8)
+    ( 3)(10)( 9)
+( 1)( 2)(11)(12)
+    (15)(14)(13)
+$
+SN:2.12
+
+[15]+P-+HPPHHHPHHP-
+
+  HP
+-PHH
++HHH
+-PP 
+P+  
+
+$structure
+        (12)(11)
+(15)(14)(13)(10)
+( 4)( 5)( 8)( 9)
+( 3)( 6)( 7)    
+( 2)( 1)        
+$
+SN:2.13
+
+[15]+P-+HPPHHHPHHP-
+
+-P+HP
++-PHH
+HPPHH
+
+$structure
+( 3)( 2)( 1)(12)(11)
+( 4)(15)(14)(13)(10)
+( 5)( 6)( 7)( 8)( 9)
+$
+SN:2.14
+
+[15]+P-+HPPHHHPHHP-
+
+P+   
+-PP  
++HHHH
+-PHHP
+
+$structure
+( 2)( 1)            
+( 3)( 6)( 7)        
+( 4)( 5)( 8)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+SN:2.15
+
+[15]+P-+HPPHHHPHHP-
+
+HPPHHH
++-PHHP
+-P+   
+
+$structure
+( 5)( 6)( 7)( 8)( 9)(10)
+( 4)(15)(14)(13)(12)(11)
+( 3)( 2)( 1)            
+$
+
+
+---------------------------------------------
+
+#3
+
+statistics:
+E: -0.842454, V: 0.792207
+Max: 2, Min: -5.5, Low Range counter: 35
+minStructIndex: 70046
+
+Low range SDV: -4.60994
+-4.60994 35
+-5.05497 3
+-5.20331 3
+-5.27749 1
+-5.32199 1
+-5.35166 1
+-5.37285 1
+-5.38874 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:3.1
+
+[15]+HPHHPP-P+HHPH-
+
++HPH
+-PPH
+P+HH
+ -HP
+
+$structure
+( 1)( 2)( 3)( 4)
+( 8)( 7)( 6)( 5)
+( 9)(10)(11)(12)
+    (15)(14)(13)
+$
+
+
+
+---------------------------------------------
+
+#4
+
+statistics:
+E: -1.01989, V: 0.893204
+Max: 2, Min: -6.5, Low Range counter: 1
+minStructIndex: 85037
+
+Low range SDV: -5.55491
+-5.55491 1
+-6.02745 1
+-6.18497 1
+-6.26373 1
+-6.31098 1
+-6.34248 1
+-6.36499 1
+-6.38186 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:4.1
+
+[15]+PH-P+PHHPHHHP-
+
+ +P  
+P-H  
++PHHP
+-PHHH
+
+$structure
+    ( 1)( 2)        
+( 5)( 4)( 3)        
+( 6)( 7)( 8)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+
+---------------------------------------------
+
+#5
+
+statistics:
+E: -0.879596, V: 0.686916
+Max: 1, Min: -5, Low Range counter: 19
+minStructIndex: 33217
+
+Low range SDV: -4.1712
+-4.1712 28
+-4.5856 11
+-4.72373 11
+-4.7928 2
+-4.83424 2
+-4.86187 2
+-4.8816 2
+-4.8964 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:5.1
+
+[15]+PHPHP-HH+HPHP-
+
+  HPH
+P-+-P
+HHH  
+PH   
++P   
+
+$structure
+        (11)(12)(13)
+( 6)( 7)(10)(15)(14)
+( 5)( 8)( 9)        
+( 4)( 3)            
+( 1)( 2)            
+$
+
+SN:5.2
+
+[15]+PHPHP-HH+HPHP-
+
+   HPH
+  H+-P
+PHH-  
++PHP  
+
+$structure
+            (11)(12)(13)
+        ( 9)(10)(15)(14)
+( 2)( 3)( 8)( 7)        
+( 1)( 4)( 5)( 6)        
+$
+
+
+---------------------------------------------
+
+#6
+
+statistics:
+E: -0.370827, V: 0.684138
+Max: 2, Min: -4.5, Low Range counter: 42
+minStructIndex: 9975
+
+Low range SDV: -3.67287
+-3.67287 79
+-4.08644 20
+-4.22429 20
+-4.29322 3
+-4.33457 3
+-4.36215 3
+-4.38184 3
+-4.39661 3
+
+Additional minimal structures: 2
+Min structures:
+
+SN:6.1
+
+[15]+-H+HHHPPPHHPP-
+
+HHH+
+PHHH
+PPP-
+ -P+
+
+$structure
+( 7)( 6)( 5)( 4)
+( 8)(11)(12)( 3)
+( 9)(10)(13)( 2)
+    (15)(14)( 1)
+$
+
+SN:6.2
+
+[15]+-H+HHHPPPHHPP-
+
++PP
+-HP
+HHH
++HH
+-PP
+
+$structure
+( 1)( 8)( 9)
+( 2)( 7)(10)
+( 3)( 6)(11)
+( 4)( 5)(12)
+(15)(14)(13)
+$
+SN:6.3
+
+[15]+-H+HHHPPPHHPP-
+
+-+PP
+HHHP
++HHH
+-PP 
+
+$structure
+( 2)( 1)( 8)( 9)
+( 3)( 6)( 7)(10)
+( 4)( 5)(12)(11)
+(15)(14)(13)    
+$
+
+
+---------------------------------------------
+
+#7
+
+statistics:
+E: -0.503486, V: 0.998068
+Max: 2, Min: -6.75, Low Range counter: 3
+minStructIndex: 73891
+
+Low range SDV: -5.75097
+-5.75097 3
+-6.25048 2
+-6.41699 2
+-6.50024 2
+-6.55019 2
+-6.58349 2
+-6.60728 2
+-6.62512 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:7.1
+
+[15]+HHPP+PHHHP-HP-
+
+  -P
+-PHH
++PHH
+PPHH
+   +
+
+$structure
+        (12)(11)
+(15)(14)(13)(10)
+( 6)( 7)( 8)( 9)
+( 5)( 4)( 3)( 2)
+            ( 1)
+$
+
+SN:7.2
+
+[15]+HHPP+PHHHP-HP-
+
+  -P 
+-PHH 
++PHH 
+PPHH+
+
+$structure
+        (12)(11)    
+(15)(14)(13)(10)    
+( 6)( 7)( 8)( 9)    
+( 5)( 4)( 3)( 2)( 1)
+$
+
+
+---------------------------------------------
+
+#8
+
+statistics:
+E: -0.900963, V: 0.886111
+Max: 2, Min: -5.5, Low Range counter: 22
+minStructIndex: 3119
+
+Low range SDV: -4.55867
+-4.55867 22
+-5.02933 9
+-5.18622 9
+-5.26467 2
+-5.31173 2
+-5.34311 2
+-5.36552 2
+-5.38233 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:8.1
+
+[15]+HH-P+HPHPHHPP-
+
+ +PH
+HHHH
+-HPP
+P+-P
+
+$structure
+    ( 1)(10)(11)
+( 3)( 2)( 9)(12)
+( 4)( 7)( 8)(13)
+( 5)( 6)(15)(14)
+$
+
+SN:8.2
+
+[15]+HH-P+HPHPHHPP-
+
+HH  
+-+  
+PPHP
++HHH
+-PP 
+
+$structure
+( 3)( 2)        
+( 4)( 1)        
+( 5)( 8)( 9)(10)
+( 6)( 7)(12)(11)
+(15)(14)(13)    
+$
+
+
+---------------------------------------------
+
+#9
+
+statistics:
+E: -0.398975, V: 0.444978
+Max: 1, Min: -4.5, Low Range counter: 8
+minStructIndex: 31151
+
+Low range SDV: -3.83293
+-3.83293 24
+-4.16647 8
+-4.27764 1
+-4.33323 1
+-4.36659 1
+-4.38882 1
+-4.4047 1
+-4.41662 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:9.1
+
+[15]+PHPH+HPHP-PHH-
+
+HP  
+P-PH
+H+-H
+ HPH
+  +P
+
+$structure
+( 9)(10)        
+( 8)(11)(12)(13)
+( 7)( 6)(15)(14)
+    ( 5)( 4)( 3)
+        ( 1)( 2)
+$
+
+
+
+---------------------------------------------
+
+#10
+
+statistics:
+E: -0.465458, V: 0.305462
+Max: 0, Min: -4.25, Low Range counter: 19
+minStructIndex: 14284
+
+Low range SDV: -3.69731
+-3.69731 51
+-3.97366 19
+-4.06577 2
+-4.11183 2
+-4.13946 2
+-4.15789 2
+-4.17104 2
+-4.18091 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:10.1
+
+[15]+HHH-P+PPPHHHP-
+
+  P+
+  PP
+  P-
+ HHH
+ HHH
+-P+ 
+
+$structure
+        ( 8)( 7)
+        ( 9)( 6)
+        (10)( 5)
+    (12)(11)( 4)
+    (13)( 2)( 3)
+(15)(14)( 1)    
+$
+
+SN:10.2
+
+[15]+HHH-P+PPPHHHP-
+
+P+ 
+PP 
+P- 
+HHH
+HHH
+-P+
+
+$structure
+( 8)( 7)    
+( 9)( 6)    
+(10)( 5)    
+(11)( 4)( 3)
+(12)(13)( 2)
+(15)(14)( 1)
+$
+
+
+---------------------------------------------
+
+#11
+
+statistics:
+E: -0.92334, V: 0.776086
+Max: 1, Min: -5.75, Low Range counter: 33
+minStructIndex: 45250
+
+Low range SDV: -4.86904
+-4.86904 33
+-5.30952 4
+-5.45635 4
+-5.52976 4
+-5.57381 4
+-5.60317 4
+-5.62415 4
+-5.63988 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:11.1
+
+[15]++P-HHHHHPPPHP-
+
+ HP
+-PP
++PP
++-H
+ HH
+ HH
+
+$structure
+    (13)(12)
+(15)(14)(11)
+( 2)( 3)(10)
+( 1)( 4)( 9)
+    ( 5)( 8)
+    ( 6)( 7)
+$
+
+SN:11.2
+
+[15]++P-HHHHHPPPHP-
+
+ HP 
+-PP 
++PP 
++-HH
+ HHH
+
+$structure
+    (13)(12)    
+(15)(14)(11)    
+( 2)( 3)(10)    
+( 1)( 4)( 9)( 8)
+    ( 5)( 6)( 7)
+$
+SN:11.3
+
+[15]++P-HHHHHPPPHP-
+
+ HP 
+-PP 
++PPH
++-HH
+  HH
+
+$structure
+    (13)(12)    
+(15)(14)(11)    
+( 2)( 3)(10)( 9)
+( 1)( 4)( 5)( 8)
+        ( 6)( 7)
+$
+SN:11.4
+
+[15]++P-HHHHHPPPHP-
+
+ HP  
+-PP  
++PPHH
++-HHH
+
+$structure
+    (13)(12)        
+(15)(14)(11)        
+( 2)( 3)(10)( 9)( 8)
+( 1)( 4)( 5)( 6)( 7)
+$
+
+
+---------------------------------------------
+
+#12
+
+statistics:
+E: -0.902176, V: 0.708989
+Max: 0, Min: -5.75, Low Range counter: 9
+minStructIndex: 54646
+
+Low range SDV: -4.90798
+-4.90798 26
+-5.32899 1
+-5.46933 1
+-5.5395 1
+-5.5816 1
+-5.60966 1
+-5.62971 1
+-5.64475 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:12.1
+
+[15]+HPPHHHH+HPPP--
+
+ PPP
+--+H
+ +HH
+ HHH
+ PP 
+
+$structure
+    (13)(12)(11)
+(15)(14)( 9)(10)
+    ( 1)( 8)( 7)
+    ( 2)( 5)( 6)
+    ( 3)( 4)    
+$
+
+
+
+---------------------------------------------
+
+#13
+
+statistics:
+E: -0.951717, V: 0.804644
+Max: 1, Min: -5.25, Low Range counter: 61
+minStructIndex: 33932
+
+Low range SDV: -4.35298
+-4.35298 61
+-4.80149 10
+-4.95099 10
+-5.02575 7
+-5.0706 7
+-5.1005 7
+-5.12185 7
+-5.13787 7
+
+Additional minimal structures: 6
+Min structures:
+
+SN:13.1
+
+[15]+PP-HHHPHPHP+H-
+
+   PP
+HP+-+
+P-HH 
+HPHH 
+
+$structure
+            ( 3)( 2)
+(11)(12)(13)( 4)( 1)
+(10)(15)(14)( 5)    
+( 9)( 8)( 7)( 6)    
+$
+
+SN:13.2
+
+[15]+PP-HHHPHPHP+H-
+
+   +P
+HP+-P
+P-HH 
+HPHH 
+
+$structure
+            ( 1)( 2)
+(11)(12)(13)( 4)( 3)
+(10)(15)(14)( 5)    
+( 9)( 8)( 7)( 6)    
+$
+SN:13.3
+
+[15]+PP-HHHPHPHP+H-
+
+ +P 
+-HH 
+PHP 
+HHPP
+ H-+
+
+$structure
+    (13)(12)    
+(15)(14)(11)    
+( 8)( 9)(10)    
+( 7)( 6)( 3)( 2)
+    ( 5)( 4)( 1)
+$
+SN:13.4
+
+[15]+PP-HHHPHPHP+H-
+
+ +P  
+-HH  
+PHPPP
+HHH-+
+
+$structure
+    (13)(12)        
+(15)(14)(11)        
+( 8)( 9)(10)( 3)( 2)
+( 7)( 6)( 5)( 4)( 1)
+$
+SN:13.5
+
+[15]+PP-HHHPHPHP+H-
+
+ +P 
+-HHP
+ HHH
++-HP
+PP  
+
+$structure
+    (13)(12)    
+(15)(14)(11)(10)
+    ( 5)( 6)( 9)
+( 1)( 4)( 7)( 8)
+( 2)( 3)        
+$
+SN:13.6
+
+[15]+PP-HHHPHPHP+H-
+
+ +P 
+-HHP
+ HHH
+P-HP
+P+  
+
+$structure
+    (13)(12)    
+(15)(14)(11)(10)
+    ( 5)( 6)( 9)
+( 3)( 4)( 7)( 8)
+( 2)( 1)        
+$
+SN:13.7
+
+[15]+PP-HHHPHPHP+H-
+
+PH   
+HHH-+
+PHPPP
+-H+  
+
+$structure
+( 8)( 7)            
+( 9)( 6)( 5)( 4)( 1)
+(10)(11)(12)( 3)( 2)
+(15)(14)(13)        
+$
+
+
+---------------------------------------------
+
+#14
+
+statistics:
+E: -1.38584, V: 1.15975
+Max: 1, Min: -6.5, Low Range counter: 62
+minStructIndex: 68506
+
+Low range SDV: -5.42309
+-5.42309 62
+-5.96154 8
+-6.14103 5
+-6.23077 5
+-6.28462 2
+-6.32051 2
+-6.34616 2
+-6.36539 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:14.1
+
+[15]+PP-PH+HHPHPHH-
+
+  PP
+H+-+
+HHP 
+PHP 
+-HH 
+
+$structure
+        ( 3)( 2)
+( 8)( 7)( 4)( 1)
+( 9)( 6)( 5)    
+(10)(11)(12)    
+(15)(14)(13)    
+$
+
+SN:14.2
+
+[15]+PP-PH+HHPHPHH-
+
+  +P
+H+-P
+HHP 
+PHP 
+-HH 
+
+$structure
+        ( 1)( 2)
+( 8)( 7)( 4)( 3)
+( 9)( 6)( 5)    
+(10)(11)(12)    
+(15)(14)(13)    
+$
+
+
+---------------------------------------------
+
+#15
+
+statistics:
+E: -0.493565, V: 0.301137
+Max: 0, Min: -3.25, Low Range counter: 57
+minStructIndex: 2009
+
+Low range SDV: -2.70124
+-2.70124 162
+-2.97562 57
+-3.06708 33
+-3.11281 33
+-3.14025 33
+-3.15854 33
+-3.17161 33
+-3.18141 33
+
+Additional minimal structures: 32
+Min structures:
+
+SN:15.1
+
+[15]+HHHPP-HPHPP+H-
+
+ HPH
+ PP-
+ PP 
+ +H 
+-HH 
+ +H 
+
+$structure
+    (10)( 9)( 8)
+    (11)( 6)( 7)
+    (12)( 5)    
+    (13)( 4)    
+(15)(14)( 3)    
+    ( 1)( 2)    
+$
+
+SN:15.2
+
+[15]+HHHPP-HPHPP+H-
+
+ HPH
+ PP-
+ PP 
+ +H 
+-HH 
+  H+
+
+$structure
+    (10)( 9)( 8)
+    (11)( 6)( 7)
+    (12)( 5)    
+    (13)( 4)    
+(15)(14)( 3)    
+        ( 2)( 1)
+$
+SN:15.3
+
+[15]+HHHPP-HPHPP+H-
+
+ HPH
+ PP-
+ PP 
+ +H+
+-HHH
+
+$structure
+    (10)( 9)( 8)
+    (11)( 6)( 7)
+    (12)( 5)    
+    (13)( 4)( 1)
+(15)(14)( 3)( 2)
+$
+SN:15.4
+
+[15]+HHHPP-HPHPP+H-
+
+ HPH
+ PP-
+ PP 
+ +H 
+-HHH
+   +
+
+$structure
+    (10)( 9)( 8)
+    (11)( 6)( 7)
+    (12)( 5)    
+    (13)( 4)    
+(15)(14)( 3)( 2)
+            ( 1)
+$
+SN:15.5
+
+[15]+HHHPP-HPHPP+H-
+
+ HPH 
+ PP- 
+ PP  
+ +H  
+-HHH+
+
+$structure
+    (10)( 9)( 8)    
+    (11)( 6)( 7)    
+    (12)( 5)        
+    (13)( 4)        
+(15)(14)( 3)( 2)( 1)
+$
+SN:15.6
+
+[15]+HHHPP-HPHPP+H-
+
+ H-
+HPP
+PPP
+ +H
+-HH
+ +H
+
+$structure
+    ( 8)( 7)
+(10)( 9)( 6)
+(11)(12)( 5)
+    (13)( 4)
+(15)(14)( 3)
+    ( 1)( 2)
+$
+SN:15.7
+
+[15]+HHHPP-HPHPP+H-
+
+ H- 
+HPP 
+PPP 
+ +H 
+-HH 
+  H+
+
+$structure
+    ( 8)( 7)    
+(10)( 9)( 6)    
+(11)(12)( 5)    
+    (13)( 4)    
+(15)(14)( 3)    
+        ( 2)( 1)
+$
+SN:15.8
+
+[15]+HHHPP-HPHPP+H-
+
+ H- 
+HPP 
+PPP 
+ +H+
+-HHH
+
+$structure
+    ( 8)( 7)    
+(10)( 9)( 6)    
+(11)(12)( 5)    
+    (13)( 4)( 1)
+(15)(14)( 3)( 2)
+$
+SN:15.9
+
+[15]+HHHPP-HPHPP+H-
+
+ H- 
+HPP 
+PPP 
+ +H 
+-HHH
+   +
+
+$structure
+    ( 8)( 7)    
+(10)( 9)( 6)    
+(11)(12)( 5)    
+    (13)( 4)    
+(15)(14)( 3)( 2)
+            ( 1)
+$
+SN:15.10
+
+[15]+HHHPP-HPHPP+H-
+
+ H-  
+HPP  
+PPP  
+ +H  
+-HHH+
+
+$structure
+    ( 8)( 7)        
+(10)( 9)( 6)        
+(11)(12)( 5)        
+    (13)( 4)        
+(15)(14)( 3)( 2)( 1)
+$
+SN:15.11
+
+[15]+HHHPP-HPHPP+H-
+
+  HPH
+  PP-
+ +PP 
+-HHH 
+  H  
+  +  
+
+$structure
+        (10)( 9)( 8)
+        (11)( 6)( 7)
+    (13)(12)( 5)    
+(15)(14)( 3)( 4)    
+        ( 2)        
+        ( 1)        
+$
+SN:15.12
+
+[15]+HHHPP-HPHPP+H-
+
+  HPH
+  PP-
+ +PP 
+-HHH 
+ +H  
+
+$structure
+        (10)( 9)( 8)
+        (11)( 6)( 7)
+    (13)(12)( 5)    
+(15)(14)( 3)( 4)    
+    ( 1)( 2)        
+$
+SN:15.13
+
+[15]+HHHPP-HPHPP+H-
+
+  HPH
+  PP-
+ +PP 
+-HHH 
+  H+ 
+
+$structure
+        (10)( 9)( 8)
+        (11)( 6)( 7)
+    (13)(12)( 5)    
+(15)(14)( 3)( 4)    
+        ( 2)( 1)    
+$
+SN:15.14
+
+[15]+HHHPP-HPHPP+H-
+
+  PH 
+ +PPH
+-HPP-
+ HH  
+ H   
+ +   
+
+$structure
+        (11)(10)    
+    (13)(12)( 9)( 8)
+(15)(14)( 5)( 6)( 7)
+    ( 3)( 4)        
+    ( 2)            
+    ( 1)            
+$
+SN:15.15
+
+[15]+HHHPP-HPHPP+H-
+
+  PH 
+ +PPH
+-HPP-
+ HH  
++H   
+
+$structure
+        (11)(10)    
+    (13)(12)( 9)( 8)
+(15)(14)( 5)( 6)( 7)
+    ( 3)( 4)        
+( 1)( 2)            
+$
+SN:15.16
+
+[15]+HHHPP-HPHPP+H-
+
+  PH 
+ +PPH
+-HPP-
+ HH  
+ H+  
+
+$structure
+        (11)(10)    
+    (13)(12)( 9)( 8)
+(15)(14)( 5)( 6)( 7)
+    ( 3)( 4)        
+    ( 2)( 1)        
+$
+SN:15.17
+
+[15]+HHHPP-HPHPP+H-
+
+  PH 
+ +PPH
+-HPP-
+HHH  
++    
+
+$structure
+        (11)(10)    
+    (13)(12)( 9)( 8)
+(15)(14)( 5)( 6)( 7)
+( 2)( 3)( 4)        
+( 1)                
+$
+SN:15.18
+
+[15]+HHHPP-HPHPP+H-
+
+   PH 
+  +PPH
+ -HPP-
++HHH  
+
+$structure
+            (11)(10)    
+        (13)(12)( 9)( 8)
+    (15)(14)( 5)( 6)( 7)
+( 1)( 2)( 3)( 4)        
+$
+SN:15.19
+
+[15]+HHHPP-HPHPP+H-
+
+ +PPH
+-HPPP
+ HH-H
+ H   
+ +   
+
+$structure
+    (13)(12)(11)(10)
+(15)(14)( 5)( 6)( 9)
+    ( 3)( 4)( 7)( 8)
+    ( 2)            
+    ( 1)            
+$
+SN:15.20
+
+[15]+HHHPP-HPHPP+H-
+
+ +PPH
+-HPPP
+ HH-H
++H   
+
+$structure
+    (13)(12)(11)(10)
+(15)(14)( 5)( 6)( 9)
+    ( 3)( 4)( 7)( 8)
+( 1)( 2)            
+$
+SN:15.21
+
+[15]+HHHPP-HPHPP+H-
+
+ +PPH
+-HPPP
+ HH-H
+ H+  
+
+$structure
+    (13)(12)(11)(10)
+(15)(14)( 5)( 6)( 9)
+    ( 3)( 4)( 7)( 8)
+    ( 2)( 1)        
+$
+SN:15.22
+
+[15]+HHHPP-HPHPP+H-
+
+ +PPH
+-HPPP
+HHH-H
++    
+
+$structure
+    (13)(12)(11)(10)
+(15)(14)( 5)( 6)( 9)
+( 2)( 3)( 4)( 7)( 8)
+( 1)                
+$
+SN:15.23
+
+[15]+HHHPP-HPHPP+H-
+
+  +PPH
+ -HPPP
++HHH-H
+
+$structure
+        (13)(12)(11)(10)
+    (15)(14)( 5)( 6)( 9)
+( 1)( 2)( 3)( 4)( 7)( 8)
+$
+SN:15.24
+
+[15]+HHHPP-HPHPP+H-
+
+   -H
++HPPP
+HHPPH
+-H+  
+
+$structure
+            ( 7)( 8)
+( 1)( 4)( 5)( 6)( 9)
+( 2)( 3)(12)(11)(10)
+(15)(14)(13)        
+$
+SN:15.25
+
+[15]+HHHPP-HPHPP+H-
+
+    -H
+  HPPP
++HHPPH
+ -H+  
+
+$structure
+                ( 7)( 8)
+        ( 4)( 5)( 6)( 9)
+( 1)( 2)( 3)(12)(11)(10)
+    (15)(14)(13)        
+$
+SN:15.26
+
+[15]+HHHPP-HPHPP+H-
+
+   PH 
+-H+PPH
+ HHPP-
+ H    
+ +    
+
+$structure
+            (11)(10)    
+(15)(14)(13)(12)( 9)( 8)
+    ( 3)( 4)( 5)( 6)( 7)
+    ( 2)                
+    ( 1)                
+$
+SN:15.27
+
+[15]+HHHPP-HPHPP+H-
+
+   PH 
+-H+PPH
+ HHPP-
++H    
+
+$structure
+            (11)(10)    
+(15)(14)(13)(12)( 9)( 8)
+    ( 3)( 4)( 5)( 6)( 7)
+( 1)( 2)                
+$
+SN:15.28
+
+[15]+HHHPP-HPHPP+H-
+
+   PH 
+-H+PPH
+ HHPP-
+ H+   
+
+$structure
+            (11)(10)    
+(15)(14)(13)(12)( 9)( 8)
+    ( 3)( 4)( 5)( 6)( 7)
+    ( 2)( 1)            
+$
+SN:15.29
+
+[15]+HHHPP-HPHPP+H-
+
+   PH 
+-H+PPH
+HHHPP-
++     
+
+$structure
+            (11)(10)    
+(15)(14)(13)(12)( 9)( 8)
+( 2)( 3)( 4)( 5)( 6)( 7)
+( 1)                    
+$
+SN:15.30
+
+[15]+HHHPP-HPHPP+H-
+
+ +    
+ H  -H
+ HHPPP
+-H+PPH
+
+$structure
+    ( 1)                
+    ( 2)        ( 7)( 8)
+    ( 3)( 4)( 5)( 6)( 9)
+(15)(14)(13)(12)(11)(10)
+$
+SN:15.31
+
+[15]+HHHPP-HPHPP+H-
+
++H  -H
+ HHPPP
+-H+PPH
+
+$structure
+( 1)( 2)        ( 7)( 8)
+    ( 3)( 4)( 5)( 6)( 9)
+(15)(14)(13)(12)(11)(10)
+$
+SN:15.32
+
+[15]+HHHPP-HPHPP+H-
+
+ H+ -H
+ HHPPP
+-H+PPH
+
+$structure
+    ( 2)( 1)    ( 7)( 8)
+    ( 3)( 4)( 5)( 6)( 9)
+(15)(14)(13)(12)(11)(10)
+$
+SN:15.33
+
+[15]+HHHPP-HPHPP+H-
+
++   -H
+HHHPPP
+-H+PPH
+
+$structure
+( 1)            ( 7)( 8)
+( 2)( 3)( 4)( 5)( 6)( 9)
+(15)(14)(13)(12)(11)(10)
+$
+
+
+---------------------------------------------
+
+#16
+
+statistics:
+E: -0.631736, V: 0.634744
+Max: 2, Min: -4.5, Low Range counter: 47
+minStructIndex: 26306
+
+Low range SDV: -3.70329
+-3.70329 133
+-4.10165 10
+-4.23443 10
+-4.30082 1
+-4.34066 1
+-4.36722 1
+-4.38618 1
+-4.40041 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:16.1
+
+[15]+HHHHPP-HPPPH+-
+
+HPP 
+-PPH
++P-+
+HH  
+HH  
+
+$structure
+( 9)(10)(11)    
+( 8)( 7)(12)(13)
+( 1)( 6)(15)(14)
+( 2)( 5)        
+( 3)( 4)        
+$
+
+
+
+---------------------------------------------
+
+#17
+
+statistics:
+E: -0.586988, V: 0.896264
+Max: 1, Min: -5.5, Low Range counter: 33
+minStructIndex: 4434
+
+Low range SDV: -4.55329
+-4.55329 33
+-5.02664 13
+-5.18443 13
+-5.26332 8
+-5.31066 8
+-5.34221 8
+-5.36476 8
+-5.38166 8
+
+Additional minimal structures: 7
+Min structures:
+
+SN:17.1
+
+[15]+PH+PPHPHHHH-P-
+
+ HHH
++PHH
+PPP-
+H+-P
+
+$structure
+    ( 9)(10)(11)
+( 1)( 8)( 7)(12)
+( 2)( 5)( 6)(13)
+( 3)( 4)(15)(14)
+$
+
+SN:17.2
+
+[15]+PH+PPHPHHHH-P-
+
+  PH
++PHH
+PPHH
+H+- 
+ -P 
+
+$structure
+        ( 8)( 9)
+( 1)( 6)( 7)(10)
+( 2)( 5)(12)(11)
+( 3)( 4)(13)    
+    (15)(14)    
+$
+SN:17.3
+
+[15]+PH+PPHPHHHH-P-
+
++    
+PPPHP
+H+-HH
+ -PHH
+
+$structure
+( 1)                
+( 2)( 5)( 6)( 7)( 8)
+( 3)( 4)(13)(12)( 9)
+    (15)(14)(11)(10)
+$
+SN:17.4
+
+[15]+PH+PPHPHHHH-P-
+
++PPPHP
+ H+-HH
+  -PHH
+
+$structure
+( 1)( 2)( 5)( 6)( 7)( 8)
+    ( 3)( 4)(13)(12)( 9)
+        (15)(14)(11)(10)
+$
+SN:17.5
+
+[15]+PH+PPHPHHHH-P-
+
++  PH
+PPPHH
+H+-HH
+ -P  
+
+$structure
+( 1)        ( 8)( 9)
+( 2)( 5)( 6)( 7)(10)
+( 3)( 4)(13)(12)(11)
+    (15)(14)        
+$
+SN:17.6
+
+[15]+PH+PPHPHHHH-P-
+
+    PH
++PPPHH
+ H+-HH
+  -P  
+
+$structure
+                ( 8)( 9)
+( 1)( 2)( 5)( 6)( 7)(10)
+    ( 3)( 4)(13)(12)(11)
+        (15)(14)        
+$
+SN:17.7
+
+[15]+PH+PPHPHHHH-P-
+
++PH  
+PPPHH
+H+-HH
+ -P  
+
+$structure
+( 1)( 6)( 7)        
+( 2)( 5)( 8)( 9)(10)
+( 3)( 4)(13)(12)(11)
+    (15)(14)        
+$
+SN:17.8
+
+[15]+PH+PPHPHHHH-P-
+
+HP+PH
++PPHH
+-P-HH
+
+$structure
+( 3)( 2)( 1)( 8)( 9)
+( 4)( 5)( 6)( 7)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+---------------------------------------------
+
+#18
+
+statistics:
+E: -1.19699, V: 0.924667
+Max: 1, Min: -6.25, Low Range counter: 21
+minStructIndex: 16981
+
+Low range SDV: -5.2884
+-5.2884 21
+-5.7692 11
+-5.92947 11
+-6.0096 4
+-6.05768 4
+-6.08973 4
+-6.11263 4
+-6.1298 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:18.1
+
+[15]++HPHHP-HPHPPH-
+
+ PH 
+ PP 
+-HH-
++HHP
++PH 
+
+$structure
+    (12)(11)    
+    (13)(10)    
+(15)(14)( 9)( 8)
+( 2)( 3)( 6)( 7)
+( 1)( 4)( 5)    
+$
+
+SN:18.2
+
+[15]++HPHHP-HPHPPH-
+
+ PP 
+-HHP
+ HHH
+ PP-
+ H++
+
+$structure
+    (13)(12)    
+(15)(14)(11)(10)
+    ( 5)( 6)( 9)
+    ( 4)( 7)( 8)
+    ( 3)( 2)( 1)
+$
+SN:18.3
+
+[15]++HPHHP-HPHPPH-
+
+ PP  
+-HHPH
++HHP-
++PH  
+
+$structure
+    (13)(12)        
+(15)(14)(11)(10)( 9)
+( 2)( 3)( 6)( 7)( 8)
+( 1)( 4)( 5)        
+$
+SN:18.4
+
+[15]++HPHHP-HPHPPH-
+
+ PP  
+-HHPH
+ HHP-
+ PH++
+
+$structure
+    (13)(12)        
+(15)(14)(11)(10)( 9)
+    ( 5)( 6)( 7)( 8)
+    ( 4)( 3)( 2)( 1)
+$
+
+
+---------------------------------------------
+
+#19
+
+statistics:
+E: -0.585734, V: 0.577896
+Max: 2, Min: -4.25, Low Range counter: 92
+minStructIndex: 20251
+
+Low range SDV: -3.48981
+-3.48981 137
+-3.8699 29
+-3.9966 29
+-4.05995 2
+-4.09796 2
+-4.1233 2
+-4.1414 2
+-4.15498 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:19.1
+
+[15]+-PHPHHPPPHHH+-
+
+ HHPP 
+ HHHP+
+-+PHP-
+
+$structure
+    (12)(11)(10)( 9)    
+    (13)( 6)( 7)( 8)( 1)
+(15)(14)( 5)( 4)( 3)( 2)
+$
+
+SN:19.2
+
+[15]+-PHPHHPPPHHH+-
+
+ -+ 
+ PPP
+ HHP
+ PHH
+-+HH
+
+$structure
+    ( 2)( 1)    
+    ( 3)( 8)( 9)
+    ( 4)( 7)(10)
+    ( 5)( 6)(11)
+(15)(14)(13)(12)
+$
+
+
+---------------------------------------------
+
+#20
+
+statistics:
+E: -1.0646, V: 0.933662
+Max: 1, Min: -6, Low Range counter: 33
+minStructIndex: 78377
+
+Low range SDV: -5.03374
+-5.03374 33
+-5.51687 3
+-5.67791 3
+-5.75843 3
+-5.80675 3
+-5.83896 3
+-5.86196 3
+-5.87922 3
+
+Additional minimal structures: 2
+Min structures:
+
+SN:20.1
+
+[15]+P-PH+PHHPHHHP-
+
+  +  
+P-PHP
+H+PHH
+ -PHH
+
+$structure
+        ( 1)        
+( 4)( 3)( 2)( 9)(10)
+( 5)( 6)( 7)( 8)(11)
+    (15)(14)(13)(12)
+$
+
+SN:20.2
+
+[15]+P-PH+PHHPHHHP-
+
+  +   
+P-P   
+H+PHHP
+ -PHHH
+
+$structure
+        ( 1)            
+( 4)( 3)( 2)            
+( 5)( 6)( 7)( 8)( 9)(10)
+    (15)(14)(13)(12)(11)
+$
+SN:20.3
+
+[15]+P-PH+PHHPHHHP-
+
+P-P+  
+H+PHHP
+ -PHHH
+
+$structure
+( 4)( 3)( 2)( 1)        
+( 5)( 6)( 7)( 8)( 9)(10)
+    (15)(14)(13)(12)(11)
+$
+
+
+---------------------------------------------
+
+#21
+
+statistics:
+E: -0.770989, V: 0.651792
+Max: 0, Min: -6, Low Range counter: 2
+minStructIndex: 9975
+
+Low range SDV: -5.19266
+-5.19266 6
+-5.59633 2
+-5.73089 2
+-5.79817 1
+-5.83853 1
+-5.86544 1
+-5.88467 1
+-5.89908 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:21.1
+
+[15]+PPHHH+HPPHHP--
+
++HHH
+HHHP
+PPPP
+ --+
+
+$structure
+( 7)( 6)( 5)( 4)
+( 8)(11)(12)( 3)
+( 9)(10)(13)( 2)
+    (15)(14)( 1)
+$
+
+
+
+---------------------------------------------
+
+#22
+
+statistics:
+E: -0.927288, V: 0.818499
+Max: 0.75, Min: -6, Low Range counter: 4
+minStructIndex: 46813
+
+Low range SDV: -5.09529
+-5.09529 4
+-5.54765 1
+-5.69843 1
+-5.77382 1
+-5.81906 1
+-5.84922 1
+-5.87076 1
+-5.88691 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:22.1
+
+[15]+HHPPP+HH-HPPH-
+
+ PP  
+-HHHH
+ H-+P
+ H+PP
+
+$structure
+    (13)(12)        
+(15)(14)(11)( 2)( 3)
+    ( 9)(10)( 1)( 4)
+    ( 8)( 7)( 6)( 5)
+$
+
+
+
+---------------------------------------------
+
+#23
+
+statistics:
+E: -1.00825, V: 0.775767
+Max: 1, Min: -5.25, Low Range counter: 58
+minStructIndex: 6478
+
+Low range SDV: -4.36922
+-4.36922 58
+-4.80961 16
+-4.95641 16
+-5.02981 6
+-5.07384 6
+-5.1032 6
+-5.12417 6
+-5.1399 6
+
+Additional minimal structures: 5
+Min structures:
+
+SN:23.1
+
+[15]+HPHHPHH+-PPHP-
+
+ P-+ 
+ P+H 
+ HHHP
+-PPHH
+
+$structure
+    (11)(10)( 9)    
+    (12)( 1)( 8)    
+    (13)( 2)( 7)( 6)
+(15)(14)( 3)( 4)( 5)
+$
+
+SN:23.2
+
+[15]+HPHHPHH+-PPHP-
+
+ P-+ 
+ P+HH
+ HHHP
+-PPH 
+
+$structure
+    (11)(10)( 9)    
+    (12)( 1)( 8)( 7)
+    (13)( 2)( 5)( 6)
+(15)(14)( 3)( 4)    
+$
+SN:23.3
+
+[15]+HPHHPHH+-PPHP-
+
+-+HHP
+PPHHH
+ -PPH
+    +
+
+$structure
+(10)( 9)( 8)( 7)( 6)
+(11)(12)(13)( 4)( 5)
+    (15)(14)( 3)( 2)
+                ( 1)
+$
+SN:23.4
+
+[15]+HPHHPHH+-PPHP-
+
+-+HHP 
+PPHHH 
+ -PPH+
+
+$structure
+(10)( 9)( 8)( 7)( 6)    
+(11)(12)(13)( 4)( 5)    
+    (15)(14)( 3)( 2)( 1)
+$
+SN:23.5
+
+[15]+HPHHPHH+-PPHP-
+
+  PH 
+ HHH+
+ PH+-
+-PHPP
+
+$structure
+        ( 6)( 7)    
+    ( 4)( 5)( 8)( 9)
+    ( 3)( 2)( 1)(10)
+(15)(14)(13)(12)(11)
+$
+SN:23.6
+
+[15]+HPHHPHH+-PPHP-
+
+ HP  
+ HHH+
+ PH+-
+-PHPP
+
+$structure
+    ( 5)( 6)        
+    ( 4)( 7)( 8)( 9)
+    ( 3)( 2)( 1)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+---------------------------------------------
+
+#24
+
+statistics:
+E: -0.824985, V: 0.632304
+Max: 1, Min: -5.5, Low Range counter: 6
+minStructIndex: 67538
+
+Low range SDV: -4.70482
+-4.70482 7
+-5.10241 4
+-5.23494 4
+-5.30121 2
+-5.34096 2
+-5.36747 2
+-5.3864 2
+-5.4006 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:24.1
+
+[15]+-PPHHHHHPPH+P-
+
+  HH
+ PHH
+ PHH
+-P+P
+ +-P
+
+$structure
+        ( 8)( 7)
+    (10)( 9)( 6)
+    (11)(12)( 5)
+(15)(14)(13)( 4)
+    ( 1)( 2)( 3)
+$
+
+SN:24.2
+
+[15]+-PPHHHHHPPH+P-
+
+ PHHH
+ PHHH
+-P+P 
+ +-P 
+
+$structure
+    (10)( 9)( 8)( 7)
+    (11)(12)( 5)( 6)
+(15)(14)(13)( 4)    
+    ( 1)( 2)( 3)    
+$
+
+
+---------------------------------------------
+
+#25
+
+statistics:
+E: -0.635997, V: 0.924786
+Max: 1, Min: -5.5, Low Range counter: 19
+minStructIndex: 47829
+
+Low range SDV: -4.53834
+-4.53834 19
+-5.01917 7
+-5.17945 7
+-5.25959 3
+-5.30767 3
+-5.33972 3
+-5.36262 3
+-5.37979 3
+
+Additional minimal structures: 2
+Min structures:
+
+SN:25.1
+
+[15]++PHPHPPHHH-PH-
+
+  ++ 
+ P-P 
+-HHHP
+  HHH
+   PP
+
+$structure
+        ( 1)( 2)    
+    (13)(12)( 3)    
+(15)(14)(11)( 4)( 5)
+        (10)( 9)( 6)
+            ( 8)( 7)
+$
+
+SN:25.2
+
+[15]++PHPHPPHHH-PH-
+
+  PP
+ PHH
+PHHH
+++- 
+-HP 
+
+$structure
+        ( 7)( 8)
+    ( 5)( 6)( 9)
+( 3)( 4)(11)(10)
+( 2)( 1)(12)    
+(15)(14)(13)    
+$
+SN:25.3
+
+[15]++PHPHPPHHH-PH-
+
+PHP  
+PHHP+
+ HH-+
+ -HP 
+
+$structure
+( 7)( 6)( 5)        
+( 8)( 9)( 4)( 3)( 2)
+    (10)(11)(12)( 1)
+    (15)(14)(13)    
+$
+
+
+---------------------------------------------
+
+#26
+
+statistics:
+E: -0.824715, V: 0.665639
+Max: 1, Min: -5, Low Range counter: 10
+minStructIndex: 46036
+
+Low range SDV: -4.18413
+-4.18413 52
+-4.59207 6
+-4.72804 6
+-4.79603 2
+-4.83683 2
+-4.86402 2
+-4.88345 2
+-4.89802 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:26.1
+
+[15]+HHPPHP-+HHPPH-
+
+ PPPP
+-HHHH
+  HPH
+  +-+
+
+$structure
+    (13)(12)( 5)( 4)
+(15)(14)(11)( 6)( 3)
+        (10)( 7)( 2)
+        ( 9)( 8)( 1)
+$
+
+SN:26.2
+
+[15]+HHPPHP-+HHPPH-
+
++HHP
+-PHP
++HHP
+ -HP
+
+$structure
+( 1)( 2)( 3)( 4)
+( 8)( 7)( 6)( 5)
+( 9)(10)(11)(12)
+    (15)(14)(13)
+$
+
+
+---------------------------------------------
+
+#27
+
+statistics:
+E: -1.0713, V: 0.919439
+Max: 1, Min: -5.5, Low Range counter: 110
+minStructIndex: 28605
+
+Low range SDV: -4.54113
+-4.54113 110
+-5.02056 21
+-5.18038 21
+-5.26028 4
+-5.30823 4
+-5.34019 4
+-5.36302 4
+-5.38014 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:27.1
+
+[15]+PPH-HHPPHH+PH-
+
+   +
+HHPP
++PPP
+-HHH
+  H-
+
+$structure
+            ( 1)
+(11)(10)( 9)( 2)
+(12)(13)( 8)( 3)
+(15)(14)( 7)( 4)
+        ( 6)( 5)
+$
+
+SN:27.2
+
+[15]+PPH-HHPPHH+PH-
+
+HHPP+
++PPP 
+-HHH 
+  H- 
+
+$structure
+(11)(10)( 9)( 2)( 1)
+(12)(13)( 8)( 3)    
+(15)(14)( 7)( 4)    
+        ( 6)( 5)    
+$
+SN:27.3
+
+[15]+PPH-HHPPHH+PH-
+
+PHHP 
+PH-P+
+HH+P 
+  -H 
+
+$structure
+( 8)( 7)( 4)( 3)    
+( 9)( 6)( 5)( 2)( 1)
+(10)(11)(12)(13)    
+        (15)(14)    
+$
+SN:27.4
+
+[15]+PPH-HHPPHH+PH-
+
+   HP 
+PHH-P+
+PHH+P 
+   -H 
+
+$structure
+            ( 4)( 3)    
+( 8)( 7)( 6)( 5)( 2)( 1)
+( 9)(10)(11)(12)(13)    
+            (15)(14)    
+$
+
+
+---------------------------------------------
+
+#28
+
+statistics:
+E: -0.726468, V: 0.451206
+Max: 0, Min: -4.5, Low Range counter: 24
+minStructIndex: 1045
+
+Low range SDV: -3.82828
+-3.82828 30
+-4.16414 24
+-4.27609 12
+-4.33207 12
+-4.36566 12
+-4.38805 12
+-4.40404 12
+-4.41604 12
+
+Additional minimal structures: 11
+Min structures:
+
+SN:28.1
+
+[15]+HHP+P-HPPHHHP-
+
+  PP
+P-HH
++PHH
+ +HH
+  -P
+
+$structure
+        ( 9)(10)
+( 6)( 7)( 8)(11)
+( 5)( 4)( 3)(12)
+    ( 1)( 2)(13)
+        (15)(14)
+$
+
+SN:28.2
+
+[15]+HHP+P-HPPHHHP-
+
+ PP  
+ HH-P
+ HHP+
+ HH  
+-P+  
+
+$structure
+    (10)( 9)        
+    (11)( 8)( 7)( 6)
+    (12)( 3)( 4)( 5)
+    (13)( 2)        
+(15)(14)( 1)        
+$
+SN:28.3
+
+[15]+HHP+P-HPPHHHP-
+
+ PP  
+ HH-P
+ HHP+
+ HH+ 
+-P   
+
+$structure
+    (10)( 9)        
+    (11)( 8)( 7)( 6)
+    (12)( 3)( 4)( 5)
+    (13)( 2)( 1)    
+(15)(14)            
+$
+SN:28.4
+
+[15]+HHP+P-HPPHHHP-
+
+  PP 
+ HHH-
+ HHHP
+-P+P+
+
+$structure
+        (10)( 9)    
+    (12)(11)( 8)( 7)
+    (13)( 2)( 3)( 6)
+(15)(14)( 1)( 4)( 5)
+$
+SN:28.5
+
+[15]+HHP+P-HPPHHHP-
+
+  PP  
+ HHH-P
+ HHHP+
+-P+   
+
+$structure
+        (10)( 9)        
+    (12)(11)( 8)( 7)( 6)
+    (13)( 2)( 3)( 4)( 5)
+(15)(14)( 1)            
+$
+SN:28.6
+
+[15]+HHP+P-HPPHHHP-
+
+ P+ 
+ -P+
+PHHH
+PHHH
+  -P
+
+$structure
+    ( 6)( 5)    
+    ( 7)( 4)( 1)
+( 9)( 8)( 3)( 2)
+(10)(11)(12)(13)
+        (15)(14)
+$
+SN:28.7
+
+[15]+HHP+P-HPPHHHP-
+
+  +P 
+ +P- 
+ HHHP
+ HHHP
+-P   
+
+$structure
+        ( 5)( 6)    
+    ( 1)( 4)( 7)    
+    ( 2)( 3)( 8)( 9)
+    (13)(12)(11)(10)
+(15)(14)            
+$
+SN:28.8
+
+[15]+HHP+P-HPPHHHP-
+
+  PP  
+  HH-P
+  HHP+
+-PHH+ 
+
+$structure
+        (10)( 9)        
+        (11)( 8)( 7)( 6)
+        (12)( 3)( 4)( 5)
+(15)(14)(13)( 2)( 1)    
+$
+SN:28.9
+
+[15]+HHP+P-HPPHHHP-
+
+  +P 
+  P- 
+  HHP
+ +HHP
+-PHH 
+
+$structure
+        ( 5)( 6)    
+        ( 4)( 7)    
+        ( 3)( 8)( 9)
+    ( 1)( 2)(11)(10)
+(15)(14)(13)(12)    
+$
+SN:28.10
+
+[15]+HHP+P-HPPHHHP-
+
+ +P- 
+ PHHP
+ +HHP
+-PHH 
+
+$structure
+    ( 5)( 6)( 7)    
+    ( 4)( 3)( 8)( 9)
+    ( 1)( 2)(11)(10)
+(15)(14)(13)(12)    
+$
+SN:28.11
+
+[15]+HHP+P-HPPHHHP-
+
+   +P 
+  +P- 
+  HHHP
+-PHHHP
+
+$structure
+            ( 5)( 6)    
+        ( 1)( 4)( 7)    
+        ( 2)( 3)( 8)( 9)
+(15)(14)(13)(12)(11)(10)
+$
+SN:28.12
+
+[15]+HHP+P-HPPHHHP-
+
+   +P 
+   P- 
+ +HHHP
+-PHHHP
+
+$structure
+            ( 5)( 6)    
+            ( 4)( 7)    
+    ( 1)( 2)( 3)( 8)( 9)
+(15)(14)(13)(12)(11)(10)
+$
+
+
+---------------------------------------------
+
+#29
+
+statistics:
+E: -0.970988, V: 0.834495
+Max: 0, Min: -6.75, Low Range counter: 12
+minStructIndex: 2706
+
+Low range SDV: -5.83649
+-5.83649 12
+-6.29325 4
+-6.4455 4
+-6.52162 2
+-6.5673 2
+-6.59775 2
+-6.6195 2
+-6.63581 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:29.1
+
+[15]++HPHPPHHHPH-P-
+
+PHH 
+PHHP
+ PHH
+ ++-
+  -P
+
+$structure
+( 7)( 8)( 9)    
+( 6)( 5)(10)(11)
+    ( 4)( 3)(12)
+    ( 1)( 2)(13)
+        (15)(14)
+$
+
+SN:29.2
+
+[15]++HPHPPHHHPH-P-
+
+PP  
+HHHH
+PHHP
+++- 
+ -P 
+
+$structure
+( 6)( 7)        
+( 5)( 8)( 9)(10)
+( 4)( 3)(12)(11)
+( 1)( 2)(13)    
+    (15)(14)    
+$
+
+
+---------------------------------------------
+
+#30
+
+statistics:
+E: -0.867367, V: 0.70103
+Max: 1, Min: -5.5, Low Range counter: 14
+minStructIndex: 32920
+
+Low range SDV: -4.66272
+-4.66272 21
+-5.08136 4
+-5.22091 4
+-5.29068 4
+-5.33254 4
+-5.36045 4
+-5.38039 4
+-5.39534 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:30.1
+
+[15]+HHHHPPPPP-+HH-
+
+   +
+-+HH
+P-HH
+PPHH
+PP  
+
+$structure
+            ( 1)
+(11)(12)(13)( 2)
+(10)(15)(14)( 3)
+( 9)( 6)( 5)( 4)
+( 8)( 7)        
+$
+
+SN:30.2
+
+[15]+HHHHPPPPP-+HH-
+
+-+HH+
+P-HH 
+PPHH 
+PP   
+
+$structure
+(11)(12)(13)( 2)( 1)
+(10)(15)(14)( 3)    
+( 9)( 6)( 5)( 4)    
+( 8)( 7)            
+$
+SN:30.3
+
+[15]+HHHHPPPPP-+HH-
+
+    +
+ -+HH
+PP-HH
+PPPHH
+
+$structure
+                ( 1)
+    (11)(12)(13)( 2)
+( 9)(10)(15)(14)( 3)
+( 8)( 7)( 6)( 5)( 4)
+$
+SN:30.4
+
+[15]+HHHHPPPPP-+HH-
+
+ -+HH+
+PP-HH 
+PPPHH 
+
+$structure
+    (11)(12)(13)( 2)( 1)
+( 9)(10)(15)(14)( 3)    
+( 8)( 7)( 6)( 5)( 4)    
+$
+
+
+---------------------------------------------
+
+#31
+
+statistics:
+E: -0.883323, V: 0.769201
+Max: 1, Min: -5.5, Low Range counter: 11
+minStructIndex: 22973
+
+Low range SDV: -4.62296
+-4.62296 11
+-5.06148 2
+-5.20765 2
+-5.28074 1
+-5.32459 1
+-5.35383 1
+-5.37471 1
+-5.39037 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:31.1
+
+[15]+HPP-HHHHPP+HP-
+
+PHH-
+PHHP
++HHP
+-P+ 
+
+$structure
+(10)( 9)( 6)( 5)
+(11)( 8)( 7)( 4)
+(12)(13)( 2)( 3)
+(15)(14)( 1)    
+$
+
+
+
+---------------------------------------------
+
+#32
+
+statistics:
+E: -1.11028, V: 1.05476
+Max: 2, Min: -5.75, Low Range counter: 136
+minStructIndex: 58851
+
+Low range SDV: -4.72298
+-4.72298 136
+-5.23649 29
+-5.40766 8
+-5.49325 8
+-5.5446 2
+-5.57883 2
+-5.60328 2
+-5.62162 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:32.1
+
+[15]+HH-PPHPH+PHPH-
+
+HHH+
+-+PP
+PPHH
+ -HP
+
+$structure
+( 3)( 2)( 9)(10)
+( 4)( 1)( 8)(11)
+( 5)( 6)( 7)(12)
+    (15)(14)(13)
+$
+
+SN:32.2
+
+[15]+HH-PPHPH+PHPH-
+
+H-P
+H+P
+HPH
++PH
+-HP
+
+$structure
+( 3)( 4)( 5)
+( 2)( 1)( 6)
+( 9)( 8)( 7)
+(10)(11)(12)
+(15)(14)(13)
+$
+
+
+---------------------------------------------
+
+#33
+
+statistics:
+E: -1.0521, V: 0.898423
+Max: 0, Min: -6, Low Range counter: 22
+minStructIndex: 85040
+
+Low range SDV: -5.05215
+-5.05215 22
+-5.52607 3
+-5.68405 3
+-5.76304 1
+-5.81043 1
+-5.84202 1
+-5.86459 1
+-5.88152 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:33.1
+
+[15]+HPH+PHPHP-HPH-
+
++HPH+
+PHPHP
+-HPH-
+
+$structure
+( 5)( 4)( 3)( 2)( 1)
+( 6)( 7)( 8)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+
+---------------------------------------------
+
+#34
+
+statistics:
+E: -1.04763, V: 0.927263
+Max: 2, Min: -5.75, Low Range counter: 84
+minStructIndex: 32908
+
+Low range SDV: -4.78705
+-4.78705 84
+-5.26853 26
+-5.42902 26
+-5.50926 5
+-5.55741 5
+-5.58951 5
+-5.61244 5
+-5.62963 5
+
+Additional minimal structures: 4
+Min structures:
+
+SN:34.1
+
+[15]+HPPHPH-P+HPHH-
+
+HPH
++-H
+PPH
+-HP
++HP
+
+$structure
+(11)(12)(13)
+(10)(15)(14)
+( 9)( 6)( 5)
+( 8)( 7)( 4)
+( 1)( 2)( 3)
+$
+
+SN:34.2
+
+[15]+HPPHPH-P+HPHH-
+
+ HPH
+P+-H
+-HPH
++HPP
+
+$structure
+    (11)(12)(13)
+( 9)(10)(15)(14)
+( 8)( 7)( 6)( 5)
+( 1)( 2)( 3)( 4)
+$
+SN:34.3
+
+[15]+HPPHPH-P+HPHH-
+
+HPH
+-+P
+PHP
++HP
+-HH
+
+$structure
+( 7)( 6)( 5)
+( 8)( 1)( 4)
+( 9)( 2)( 3)
+(10)(11)(12)
+(15)(14)(13)
+$
+SN:34.4
+
+[15]+HPPHPH-P+HPHH-
+
+ +-P  
+PHH+HP
+PHP-HH
+
+$structure
+    ( 1)( 8)( 9)        
+( 3)( 2)( 7)(10)(11)(12)
+( 4)( 5)( 6)(15)(14)(13)
+$
+SN:34.5
+
+[15]+HPPHPH-P+HPHH-
+
+ PHP
+ HHP
+P-+ 
++HP 
+-HH 
+
+$structure
+    ( 6)( 5)( 4)
+    ( 7)( 2)( 3)
+( 9)( 8)( 1)    
+(10)(11)(12)    
+(15)(14)(13)    
+$
+
+
+---------------------------------------------
+
+#35
+
+statistics:
+E: -0.719966, V: 0.775024
+Max: 1, Min: -5.5, Low Range counter: 25
+minStructIndex: 78356
+
+Low range SDV: -4.61965
+-4.61965 25
+-5.05982 7
+-5.20655 7
+-5.27991 7
+-5.32393 7
+-5.35327 7
+-5.37424 7
+-5.38996 7
+
+Additional minimal structures: 6
+Min structures:
+
+SN:35.1
+
+[15]+HPP-+PHPHHHHP-
+
+ +  
+ H  
+ P  
+-PPH
++PHH
+-PHH
+
+$structure
+    ( 1)        
+    ( 2)        
+    ( 3)        
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+
+SN:35.2
+
+[15]+HPP-+PHPHHHHP-
+
++H  
+ P  
+-PPH
++PHH
+-PHH
+
+$structure
+( 1)( 2)        
+    ( 3)        
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+SN:35.3
+
+[15]+HPP-+PHPHHHHP-
+
+ H+ 
+ P  
+-PPH
++PHH
+-PHH
+
+$structure
+    ( 2)( 1)    
+    ( 3)        
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+SN:35.4
+
+[15]+HPP-+PHPHHHHP-
+
++   
+HP  
+-PPH
++PHH
+-PHH
+
+$structure
+( 1)            
+( 2)( 3)        
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+SN:35.5
+
+[15]+HPP-+PHPHHHHP-
+
++HP  
+ -PPH
+ +PHH
+ -PHH
+
+$structure
+( 1)( 2)( 3)        
+    ( 5)( 4)( 9)(10)
+    ( 6)( 7)( 8)(11)
+    (15)(14)(13)(12)
+$
+SN:35.6
+
+[15]+HPP-+PHPHHHHP-
+
+  + 
+ PH 
+-PPH
++PHH
+-PHH
+
+$structure
+        ( 1)    
+    ( 3)( 2)    
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+SN:35.7
+
+[15]+HPP-+PHPHHHHP-
+
+ PH+
+-PPH
++PHH
+-PHH
+
+$structure
+    ( 3)( 2)( 1)
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+
+
+---------------------------------------------
+
+#36
+
+statistics:
+E: -0.607609, V: 0.660383
+Max: 1, Min: -4.75, Low Range counter: 33
+minStructIndex: 32449
+
+Low range SDV: -3.93736
+-3.93736 80
+-4.34368 10
+-4.47912 10
+-4.54684 3
+-4.58747 3
+-4.61456 3
+-4.63391 3
+-4.64842 3
+
+Additional minimal structures: 2
+Min structures:
+
+SN:36.1
+
+[15]+PHHHPPPH-+HPH-
+
+-HPP
++HPP
+ -HH
+ PHH
+ +  
+
+$structure
+(10)( 9)( 8)( 7)
+(11)(12)(13)( 6)
+    (15)(14)( 5)
+    ( 2)( 3)( 4)
+    ( 1)        
+$
+
+SN:36.2
+
+[15]+PHHHPPPH-+HPH-
+
+-HPP
++HPP
+ -HH
++PHH
+
+$structure
+(10)( 9)( 8)( 7)
+(11)(12)(13)( 6)
+    (15)(14)( 5)
+( 1)( 2)( 3)( 4)
+$
+SN:36.3
+
+[15]+PHHHPPPH-+HPH-
+
+HP+-+
+HPPHH
+HP-HP
+
+$structure
+( 3)( 2)( 1)(10)(11)
+( 4)( 7)( 8)( 9)(12)
+( 5)( 6)(15)(14)(13)
+$
+
+
+---------------------------------------------
+
+#37
+
+statistics:
+E: -0.704245, V: 0.543211
+Max: 1, Min: -3.75, Low Range counter: 146
+minStructIndex: 5551
+
+Low range SDV: -3.01297
+-3.01297 146
+-3.38149 100
+-3.50432 14
+-3.56574 14
+-3.60259 14
+-3.62716 14
+-3.64471 14
+-3.65787 14
+
+Additional minimal structures: 13
+Min structures:
+
+SN:37.1
+
+[15]+-+HPHPPHHPHPH-
+
+ PH  
+ HHH+
+ PPP-
+-HPH+
+
+$structure
+    (11)(10)        
+    (12)( 9)( 4)( 3)
+    (13)( 8)( 5)( 2)
+(15)(14)( 7)( 6)( 1)
+$
+
+SN:37.2
+
+[15]+-+HPHPPHHPHPH-
+
+ PH   
+ HHH+ 
+ PPP-+
+-HPH  
+
+$structure
+    (11)(10)            
+    (12)( 9)( 4)( 3)    
+    (13)( 8)( 5)( 2)( 1)
+(15)(14)( 7)( 6)        
+$
+SN:37.3
+
+[15]+-+HPHPPHHPHPH-
+
+ HPH  
+ PPHH+
+-HPHP-
+     +
+
+$structure
+    (12)(11)(10)        
+    (13)( 8)( 9)( 4)( 3)
+(15)(14)( 7)( 6)( 5)( 2)
+                    ( 1)
+$
+SN:37.4
+
+[15]+-+HPHPPHHPHPH-
+
+ +-+
+ HP 
+HHH 
+PPP 
+HP  
+-H  
+
+$structure
+    ( 3)( 2)( 1)
+    ( 4)( 5)    
+(10)( 9)( 6)    
+(11)( 8)( 7)    
+(12)(13)        
+(15)(14)        
+$
+SN:37.5
+
+[15]+-+HPHPPHHPHPH-
+
+  + 
+ +- 
+ HPH
+HHPP
+PHP 
+ -H 
+
+$structure
+        ( 1)    
+    ( 3)( 2)    
+    ( 4)( 5)( 6)
+(10)( 9)( 8)( 7)
+(11)(12)(13)    
+    (15)(14)    
+$
+SN:37.6
+
+[15]+-+HPHPPHHPHPH-
+
+ +-+
+ HPH
+HHPP
+PHP 
+ -H 
+
+$structure
+    ( 3)( 2)( 1)
+    ( 4)( 5)( 6)
+(10)( 9)( 8)( 7)
+(11)(12)(13)    
+    (15)(14)    
+$
+SN:37.7
+
+[15]+-+HPHPPHHPHPH-
+
++-+ 
+ PH 
+ HHH
+ PPP
+  PH
+ -H 
+
+$structure
+( 1)( 2)( 3)    
+    ( 5)( 4)    
+    ( 6)( 9)(10)
+    ( 7)( 8)(11)
+        (13)(12)
+    (15)(14)    
+$
+SN:37.8
+
+[15]+-+HPHPPHHPHPH-
+
+ +  
+ -+ 
+HPH 
+PPHH
+ PHP
+-H  
+
+$structure
+    ( 1)        
+    ( 2)( 3)    
+( 6)( 5)( 4)    
+( 7)( 8)( 9)(10)
+    (13)(12)(11)
+(15)(14)        
+$
+SN:37.9
+
+[15]+-+HPHPPHHPHPH-
+
++-+ 
+HPH 
+PPHH
+ PHP
+-H  
+
+$structure
+( 1)( 2)( 3)    
+( 6)( 5)( 4)    
+( 7)( 8)( 9)(10)
+    (13)(12)(11)
+(15)(14)        
+$
+SN:37.10
+
+[15]+-+HPHPPHHPHPH-
+
+  PH  
+  HHH+
+-HPPP-
+   PH+
+
+$structure
+        (11)(10)        
+        (12)( 9)( 4)( 3)
+(15)(14)(13)( 8)( 5)( 2)
+            ( 7)( 6)( 1)
+$
+SN:37.11
+
+[15]+-+HPHPPHHPHPH-
+
+ +  
+ -+ 
+ PH 
+ HHH
+ PPP
+-HPH
+
+$structure
+    ( 1)        
+    ( 2)( 3)    
+    ( 5)( 4)    
+    ( 6)( 9)(10)
+    ( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+SN:37.12
+
+[15]+-+HPHPPHHPHPH-
+
++-+ 
+ PH 
+ HHH
+ PPP
+-HPH
+
+$structure
+( 1)( 2)( 3)    
+    ( 5)( 4)    
+    ( 6)( 9)(10)
+    ( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+SN:37.13
+
+[15]+-+HPHPPHHPHPH-
+
+  +  
+  -+ 
+ HPH 
+ PPHH
+-HPHP
+
+$structure
+        ( 1)        
+        ( 2)( 3)    
+    ( 6)( 5)( 4)    
+    ( 7)( 8)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+SN:37.14
+
+[15]+-+HPHPPHHPHPH-
+
+ +-+ 
+ HPH 
+ PPHH
+-HPHP
+
+$structure
+    ( 1)( 2)( 3)    
+    ( 6)( 5)( 4)    
+    ( 7)( 8)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+---------------------------------------------
+
+#38
+
+statistics:
+E: -1.0693, V: 0.846283
+Max: 1, Min: -5.5, Low Range counter: 53
+minStructIndex: 37360
+
+Low range SDV: -4.58006
+-4.58006 53
+-5.04003 11
+-5.19335 11
+-5.27002 2
+-5.31601 2
+-5.34668 2
+-5.36858 2
+-5.38501 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:38.1
+
+[15]+HHPHHP+PP-HPH-
+
+P-HP
+P+-H
+ PPH
+ HHH
+   +
+
+$structure
+(10)(11)(12)(13)
+( 9)( 8)(15)(14)
+    ( 7)( 4)( 3)
+    ( 6)( 5)( 2)
+            ( 1)
+$
+
+SN:38.2
+
+[15]+HHPHHP+PP-HPH-
+
+P-HP 
+P+-H 
+ PPH 
+ HHH+
+
+$structure
+(10)(11)(12)(13)    
+( 9)( 8)(15)(14)    
+    ( 7)( 4)( 3)    
+    ( 6)( 5)( 2)( 1)
+$
+
+
+---------------------------------------------
+
+#39
+
+statistics:
+E: -0.647802, V: 0.673341
+Max: 1, Min: -4.75, Low Range counter: 32
+minStructIndex: 17554
+
+Low range SDV: -3.92943
+-3.92943 48
+-4.33971 11
+-4.47648 11
+-4.54486 1
+-4.58589 1
+-4.61324 1
+-4.63278 1
+-4.64743 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:39.1
+
+[15]+HPHHHHPP-+HPP-
+
+ H+ 
+ P-P
+-P+P
+ PHH
+ HHH
+
+$structure
+    (12)(11)    
+    (13)(10)( 9)
+(15)(14)( 1)( 8)
+    ( 3)( 2)( 7)
+    ( 4)( 5)( 6)
+$
+
+
+
+---------------------------------------------
+
+#40
+
+statistics:
+E: -0.947606, V: 0.683095
+Max: 1, Min: -4.5, Low Range counter: 81
+minStructIndex: 17451
+
+Low range SDV: -3.6735
+-3.6735 162
+-4.08675 38
+-4.2245 38
+-4.29338 10
+-4.3347 10
+-4.36225 10
+-4.38193 10
+-4.39669 10
+
+Additional minimal structures: 9
+Min structures:
+
+SN:40.1
+
+[15]+HHHHH+-HPPPPP-
+
+ PP-+
+ PPHH
+-P+HH
+   HH
+
+$structure
+    (12)(11)( 8)( 7)
+    (13)(10)( 9)( 6)
+(15)(14)( 1)( 2)( 5)
+            ( 3)( 4)
+$
+
+SN:40.2
+
+[15]+HHHHH+-HPPPPP-
+
+ PP-+ 
+ PPHHH
+-P+HHH
+
+$structure
+    (12)(11)( 8)( 7)    
+    (13)(10)( 9)( 6)( 5)
+(15)(14)( 1)( 2)( 3)( 4)
+$
+SN:40.3
+
+[15]+HHHHH+-HPPPPP-
+
+ HH
++HH
+-HH
+PP+
+PP 
+-P 
+
+$structure
+    ( 5)( 4)
+( 7)( 6)( 3)
+( 8)( 9)( 2)
+(11)(10)( 1)
+(12)(13)    
+(15)(14)    
+$
+SN:40.4
+
+[15]+HHHHH+-HPPPPP-
+
++HHH
+-HHH
+PP+ 
+PP  
+-P  
+
+$structure
+( 7)( 6)( 5)( 4)
+( 8)( 9)( 2)( 3)
+(11)(10)( 1)    
+(12)(13)        
+(15)(14)        
+$
+SN:40.5
+
+[15]+HHHHH+-HPPPPP-
+
+  HH
+ +HH
+PPHH
+PP-+
+-P  
+
+$structure
+        ( 3)( 4)
+    ( 1)( 2)( 5)
+(11)(10)( 9)( 6)
+(12)(13)( 8)( 7)
+(15)(14)        
+$
+SN:40.6
+
+[15]+HHHHH+-HPPPPP-
+
+ +HHH
+PPHHH
+PP-+ 
+-P   
+
+$structure
+    ( 1)( 2)( 3)( 4)
+(11)(10)( 9)( 6)( 5)
+(12)(13)( 8)( 7)    
+(15)(14)            
+$
+SN:40.7
+
+[15]+HHHHH+-HPPPPP-
+
+HH  
+HH+ 
+HH- 
++PPP
+ -PP
+
+$structure
+( 4)( 5)        
+( 3)( 6)( 7)    
+( 2)( 9)( 8)    
+( 1)(10)(11)(12)
+    (15)(14)(13)
+$
+SN:40.8
+
+[15]+HHHHH+-HPPPPP-
+
+HHH+ 
+HHH- 
+ +PPP
+  -PP
+
+$structure
+( 4)( 5)( 6)( 7)    
+( 3)( 2)( 9)( 8)    
+    ( 1)(10)(11)(12)
+        (15)(14)(13)
+$
+SN:40.9
+
+[15]+HHHHH+-HPPPPP-
+
+ HH 
+ HH+
+ HH-
+ +PP
+-PPP
+
+$structure
+    ( 4)( 5)    
+    ( 3)( 6)( 7)
+    ( 2)( 9)( 8)
+    ( 1)(10)(11)
+(15)(14)(13)(12)
+$
+SN:40.10
+
+[15]+HHHHH+-HPPPPP-
+
+HHH+
+HHH-
+ +PP
+-PPP
+
+$structure
+( 4)( 5)( 6)( 7)
+( 3)( 2)( 9)( 8)
+    ( 1)(10)(11)
+(15)(14)(13)(12)
+$
+
+
+---------------------------------------------
+
+#41
+
+statistics:
+E: -0.441514, V: 0.8878
+Max: 2, Min: -6.5, Low Range counter: 3
+minStructIndex: 47036
+
+Low range SDV: -5.55777
+-5.55777 3
+-6.02888 1
+-6.18592 1
+-6.26444 1
+-6.31155 1
+-6.34296 1
+-6.3654 1
+-6.38222 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:41.1
+
+[15]+HHPPPP+HHH-PH-
+
+ P-+
+-HHH
++HHH
+PPPP
+
+$structure
+    (13)(12)( 1)
+(15)(14)(11)( 2)
+( 8)( 9)(10)( 3)
+( 7)( 6)( 5)( 4)
+$
+
+
+
+---------------------------------------------
+
+#42
+
+statistics:
+E: -1.05119, V: 0.984565
+Max: 1, Min: -5.5, Low Range counter: 99
+minStructIndex: 27301
+
+Low range SDV: -4.50775
+-4.50775 99
+-5.00387 24
+-5.16925 24
+-5.25194 4
+-5.30155 4
+-5.33462 4
+-5.35825 4
+-5.37597 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:42.1
+
+[15]+HPHPHPHHPH+-P-
+
+PHP
+HHH
+HPP
++-H
+-P+
+
+$structure
+( 7)( 6)( 5)
+( 8)( 9)( 4)
+(11)(10)( 3)
+(12)(13)( 2)
+(15)(14)( 1)
+$
+
+SN:42.2
+
+[15]+HPHPHPHHPH+-P-
+
+  PHP
+ PHHH
++HHP 
+  +- 
+  -P 
+
+$structure
+        ( 5)( 6)( 7)
+    ( 3)( 4)( 9)( 8)
+( 1)( 2)(11)(10)    
+        (12)(13)    
+        (15)(14)    
+$
+SN:42.3
+
+[15]+HPHPHPHHPH+-P-
+
+PHH+-
+HHP-P
+PHPH+
+
+$structure
+( 7)( 8)(11)(12)(13)
+( 6)( 9)(10)(15)(14)
+( 5)( 4)( 3)( 2)( 1)
+$
+SN:42.4
+
+[15]+HPHPHPHHPH+-P-
+
+  +  
+ PH  
+PHH+-
+HHP-P
+PH   
+
+$structure
+        ( 1)        
+    ( 3)( 2)        
+( 5)( 4)(11)(12)(13)
+( 6)( 9)(10)(15)(14)
+( 7)( 8)            
+$
+
+
+---------------------------------------------
+
+#43
+
+statistics:
+E: -0.904591, V: 0.861589
+Max: 1, Min: -5.25, Low Range counter: 81
+minStructIndex: 8110
+
+Low range SDV: -4.32178
+-4.32178 81
+-4.78589 19
+-4.94059 19
+-5.01795 8
+-5.06436 8
+-5.0953 8
+-5.1174 8
+-5.13397 8
+
+Additional minimal structures: 7
+Min structures:
+
+SN:43.1
+
+[15]+PHPH+HPPHPHH--
+
+PH+ 
+PHHP
+ PHH
+  HP
+ --+
+
+$structure
+( 8)( 7)( 6)    
+( 9)(10)( 5)( 4)
+    (11)(12)( 3)
+        (13)( 2)
+    (15)(14)( 1)
+$
+
+SN:43.2
+
+[15]+PHPH+HPPHPHH--
+
+H+HP
+PPHH
+PHHP
+ --+
+
+$structure
+( 7)( 6)( 5)( 4)
+( 8)(11)(12)( 3)
+( 9)(10)(13)( 2)
+    (15)(14)( 1)
+$
+SN:43.3
+
+[15]+PHPH+HPPHPHH--
+
+ PPH
+ HP+
+ HHH
+--HP
+ +P 
+
+$structure
+    ( 9)( 8)( 7)
+    (10)(11)( 6)
+    (13)(12)( 5)
+(15)(14)( 3)( 4)
+    ( 1)( 2)    
+$
+SN:43.4
+
+[15]+PHPH+HPPHPHH--
+
+PH+H
+PHPP
+ HHH
+--+P
+
+$structure
+( 8)( 7)( 6)( 5)
+( 9)(10)(11)( 4)
+    (13)(12)( 3)
+(15)(14)( 1)( 2)
+$
+SN:43.5
+
+[15]+PHPH+HPPHPHH--
+
+   PP
+  PHH
+ HHH+
+--HP 
+ +P  
+
+$structure
+            ( 9)( 8)
+        (11)(10)( 7)
+    (13)(12)( 5)( 6)
+(15)(14)( 3)( 4)    
+    ( 1)( 2)        
+$
+SN:43.6
+
+[15]+PHPH+HPPHPHH--
+
+ PHPH
+ +HP+
+--HHH
+   PP
+
+$structure
+    ( 2)( 3)( 4)( 5)
+    ( 1)(12)(11)( 6)
+(15)(14)(13)(10)( 7)
+            ( 9)( 8)
+$
+SN:43.7
+
+[15]+PHPH+HPPHPHH--
+
+  PPH
+  HP+
+--HHH
+ +PHP
+
+$structure
+        ( 9)( 8)( 7)
+        (10)(11)( 6)
+(15)(14)(13)(12)( 5)
+    ( 1)( 2)( 3)( 4)
+$
+SN:43.8
+
+[15]+PHPH+HPPHPHH--
+
+    PP
+   PHH
+--HHH+
+ +PHP 
+
+$structure
+                ( 9)( 8)
+            (11)(10)( 7)
+(15)(14)(13)(12)( 5)( 6)
+    ( 1)( 2)( 3)( 4)    
+$
+
+
+---------------------------------------------
+
+#44
+
+statistics:
+E: -0.886069, V: 0.719615
+Max: 0, Min: -5.25, Low Range counter: 30
+minStructIndex: 28579
+
+Low range SDV: -4.4017
+-4.4017 68
+-4.82585 14
+-4.96723 14
+-5.03792 8
+-5.08034 8
+-5.10862 8
+-5.12881 8
+-5.14396 8
+
+Additional minimal structures: 7
+Min structures:
+
+SN:44.1
+
+[15]++HHPPPH-HHPHP-
+
+ HH-
+ PHH
+ -PP
+++PP
+ HH 
+
+$structure
+    (11)(10)( 9)
+    (12)(13)( 8)
+    (15)(14)( 7)
+( 1)( 2)( 5)( 6)
+    ( 3)( 4)    
+$
+
+SN:44.2
+
+[15]++HHPPPH-HHPHP-
+
+ HH-
++PHH
++-PP
+HHPP
+
+$structure
+    (11)(10)( 9)
+( 1)(12)(13)( 8)
+( 2)(15)(14)( 7)
+( 3)( 4)( 5)( 6)
+$
+SN:44.3
+
+[15]++HHPPPH-HHPHP-
+
+   +
+HH-+
+PHHH
+-PPH
+  PP
+
+$structure
+            ( 1)
+(11)(10)( 9)( 2)
+(12)(13)( 8)( 3)
+(15)(14)( 7)( 4)
+        ( 6)( 5)
+$
+SN:44.4
+
+[15]++HHPPPH-HHPHP-
+
+HH-++
+PHHH 
+-PPH 
+  PP 
+
+$structure
+(11)(10)( 9)( 2)( 1)
+(12)(13)( 8)( 3)    
+(15)(14)( 7)( 4)    
+        ( 6)( 5)    
+$
+SN:44.5
+
+[15]++HHPPPH-HHPHP-
+
+   + 
+HH-+ 
+PHHHH
+-PPPP
+
+$structure
+            ( 1)    
+(11)(10)( 9)( 2)    
+(12)(13)( 8)( 3)( 4)
+(15)(14)( 7)( 6)( 5)
+$
+SN:44.6
+
+[15]++HHPPPH-HHPHP-
+
+HH-++
+PHHHH
+-PPPP
+
+$structure
+(11)(10)( 9)( 2)( 1)
+(12)(13)( 8)( 3)( 4)
+(15)(14)( 7)( 6)( 5)
+$
+SN:44.7
+
+[15]++HHPPPH-HHPHP-
+
+  PH
+-PHH
+PPH-
+PHH+
+   +
+
+$structure
+        (12)(11)
+(15)(14)(13)(10)
+( 6)( 7)( 8)( 9)
+( 5)( 4)( 3)( 2)
+            ( 1)
+$
+SN:44.8
+
+[15]++HHPPPH-HHPHP-
+
+  PH 
+-PHH 
+PPH- 
+PHH++
+
+$structure
+        (12)(11)    
+(15)(14)(13)(10)    
+( 6)( 7)( 8)( 9)    
+( 5)( 4)( 3)( 2)( 1)
+$
+
+
+---------------------------------------------
+
+#45
+
+statistics:
+E: -0.757608, V: 0.661113
+Max: 1, Min: -4.5, Low Range counter: 49
+minStructIndex: 20249
+
+Low range SDV: -3.68691
+-3.68691 124
+-4.09346 7
+-4.22897 7
+-4.29673 4
+-4.33738 4
+-4.36449 4
+-4.38384 4
+-4.39836 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:45.1
+
+[15]+HP-HHP+PPPHHH-
+
+ HPPP
+ HHP+
+-HH-P
+   +H
+
+$structure
+    (12)(11)(10)( 9)
+    (13)( 6)( 7)( 8)
+(15)(14)( 5)( 4)( 3)
+            ( 1)( 2)
+$
+
+SN:45.2
+
+[15]+HP-HHP+PPPHHH-
+
+   + 
+PHHHP
+P-HH-
+P+PH 
+
+$structure
+            ( 1)    
+(11)(12)(13)( 2)( 3)
+(10)(15)(14)( 5)( 4)
+( 9)( 8)( 7)( 6)    
+$
+SN:45.3
+
+[15]+HP-HHP+PPPHHH-
+
+PPPH 
++-HH 
+PHHH+
+  -P 
+
+$structure
+( 9)(10)(11)(12)    
+( 8)(15)(14)(13)    
+( 7)( 6)( 5)( 2)( 1)
+        ( 4)( 3)    
+$
+SN:45.4
+
+[15]+HP-HHP+PPPHHH-
+
+HP+P
++-PP
+ HHP
+-HHH
+
+$structure
+( 2)( 3)( 8)( 9)
+( 1)( 4)( 7)(10)
+    ( 5)( 6)(11)
+(15)(14)(13)(12)
+$
+
+
+---------------------------------------------
+
+#46
+
+statistics:
+E: -0.9133, V: 0.557656
+Max: 0, Min: -4, Low Range counter: 240
+minStructIndex: 9871
+
+Low range SDV: -3.25324
+-3.25324 240
+-3.62662 139
+-3.75108 25
+-3.81331 25
+-3.85065 25
+-3.87554 25
+-3.89332 25
+-3.90665 25
+
+Additional minimal structures: 24
+Min structures:
+
+SN:46.1
+
+[15]+H-H+HPPHPPHPH-
+
+HP  
++PPH
+HHPP
+-H-H
+ +  
+
+$structure
+( 6)( 7)        
+( 5)( 8)(11)(12)
+( 4)( 9)(10)(13)
+( 3)( 2)(15)(14)
+    ( 1)        
+$
+
+SN:46.2
+
+[15]+H-H+HPPHPPHPH-
+
+ HP  
+ PPPH
+-HHP+
+  H-H
+  +  
+
+$structure
+    (12)(11)        
+    (13)(10)( 7)( 6)
+(15)(14)( 9)( 8)( 5)
+        ( 2)( 3)( 4)
+        ( 1)        
+$
+SN:46.3
+
+[15]+H-H+HPPHPPHPH-
+
+ HP  
+ PPPH
+-HHP+
+ +H-H
+
+$structure
+    (12)(11)        
+    (13)(10)( 7)( 6)
+(15)(14)( 9)( 8)( 5)
+    ( 1)( 2)( 3)( 4)
+$
+SN:46.4
+
+[15]+H-H+HPPHPPHPH-
+
+   PH
+ HPP+
+ PPHH
+-H+H-
+
+$structure
+            ( 7)( 6)
+    (12)(11)( 8)( 5)
+    (13)(10)( 9)( 4)
+(15)(14)( 1)( 2)( 3)
+$
+SN:46.5
+
+[15]+H-H+HPPHPPHPH-
+
+   +H
+ HPP-
+ PPHH
+-HPH+
+
+$structure
+            ( 1)( 2)
+    (12)(11)(10)( 3)
+    (13)( 8)( 9)( 4)
+(15)(14)( 7)( 6)( 5)
+$
+SN:46.6
+
+[15]+H-H+HPPHPPHPH-
+
+H-H+
++PHH
+ PPP
+ HP 
+ -H 
+
+$structure
+( 2)( 3)( 4)( 5)
+( 1)(10)( 9)( 6)
+    (11)( 8)( 7)
+    (12)(13)    
+    (15)(14)    
+$
+SN:46.7
+
+[15]+H-H+HPPHPPHPH-
+
+H+H-
+PPHH
+ PP+
+ HP 
+ -H 
+
+$structure
+( 6)( 5)( 4)( 3)
+( 7)( 8)( 9)( 2)
+    (11)(10)( 1)
+    (12)(13)    
+    (15)(14)    
+$
+SN:46.8
+
+[15]+H-H+HPPHPPHPH-
+
+ +H-
+PPHH
+HPP+
+-HPH
+
+$structure
+    ( 1)( 2)( 3)
+(11)(10)( 9)( 4)
+(12)(13)( 8)( 5)
+(15)(14)( 7)( 6)
+$
+SN:46.9
+
+[15]+H-H+HPPHPPHPH-
+
++H-H
+HHP+
+PPP 
+ PH 
+-H  
+
+$structure
+( 5)( 4)( 3)( 2)
+( 6)( 9)(10)( 1)
+( 7)( 8)(11)    
+    (13)(12)    
+(15)(14)        
+$
+SN:46.10
+
+[15]+H-H+HPPHPPHPH-
+
+-H+H
+HHPP
++PP 
+ PH 
+-H  
+
+$structure
+( 3)( 4)( 5)( 6)
+( 2)( 9)( 8)( 7)
+( 1)(10)(11)    
+    (13)(12)    
+(15)(14)        
+$
+SN:46.11
+
+[15]+H-H+HPPHPPHPH-
+
+H-  
++H+ 
+HHPP
+PPPH
+ -H 
+
+$structure
+( 4)( 3)        
+( 5)( 2)( 1)    
+( 6)( 9)(10)(11)
+( 7)( 8)(13)(12)
+    (15)(14)    
+$
+SN:46.12
+
+[15]+H-H+HPPHPPHPH-
+
+ -H 
++H+ 
+HHPP
+PPPH
+ -H 
+
+$structure
+    ( 3)( 2)    
+( 5)( 4)( 1)    
+( 6)( 9)(10)(11)
+( 7)( 8)(13)(12)
+    (15)(14)    
+$
+SN:46.13
+
+[15]+H-H+HPPHPPHPH-
+
+  + 
+  H 
++H- 
+HHPP
+PPPH
+ -H 
+
+$structure
+        ( 1)    
+        ( 2)    
+( 5)( 4)( 3)    
+( 6)( 9)(10)(11)
+( 7)( 8)(13)(12)
+    (15)(14)    
+$
+SN:46.14
+
+[15]+H-H+HPPHPPHPH-
+
+ +H 
++H- 
+HHPP
+PPPH
+ -H 
+
+$structure
+    ( 1)( 2)    
+( 5)( 4)( 3)    
+( 6)( 9)(10)(11)
+( 7)( 8)(13)(12)
+    (15)(14)    
+$
+SN:46.15
+
+[15]+H-H+HPPHPPHPH-
+
+  H+
++H- 
+HHPP
+PPPH
+ -H 
+
+$structure
+        ( 2)( 1)
+( 5)( 4)( 3)    
+( 6)( 9)(10)(11)
+( 7)( 8)(13)(12)
+    (15)(14)    
+$
+SN:46.16
+
+[15]+H-H+HPPHPPHPH-
+
+   +
++H-H
+HHPP
+PPPH
+ -H 
+
+$structure
+            ( 1)
+( 5)( 4)( 3)( 2)
+( 6)( 9)(10)(11)
+( 7)( 8)(13)(12)
+    (15)(14)    
+$
+SN:46.17
+
+[15]+H-H+HPPHPPHPH-
+
++H-H+
+HHPP 
+PPPH 
+ -H  
+
+$structure
+( 5)( 4)( 3)( 2)( 1)
+( 6)( 9)(10)(11)    
+( 7)( 8)(13)(12)    
+    (15)(14)        
+$
+SN:46.18
+
+[15]+H-H+HPPHPPHPH-
+
+H-H+ 
++HHPP
+ PPPH
+  -H 
+
+$structure
+( 4)( 3)( 2)( 1)    
+( 5)( 6)( 9)(10)(11)
+    ( 7)( 8)(13)(12)
+        (15)(14)    
+$
+SN:46.19
+
+[15]+H-H+HPPHPPHPH-
+
+ -H+ 
++HHPP
+HPPPH
+  -H 
+
+$structure
+    ( 3)( 2)( 1)    
+( 5)( 4)( 9)(10)(11)
+( 6)( 7)( 8)(13)(12)
+        (15)(14)    
+$
+SN:46.20
+
+[15]+H-H+HPPHPPHPH-
+
+  HP 
+-HPP+
+ PPHH
+ H+H-
+
+$structure
+        (12)(11)    
+(15)(14)(13)(10)( 1)
+    ( 7)( 8)( 9)( 2)
+    ( 6)( 5)( 4)( 3)
+$
+SN:46.21
+
+[15]+H-H+HPPHPPHPH-
+
+    PH
+  HPP+
+-HPPHH
+   +H-
+
+$structure
+                ( 7)( 6)
+        (12)(11)( 8)( 5)
+(15)(14)(13)(10)( 9)( 4)
+            ( 1)( 2)( 3)
+$
+SN:46.22
+
+[15]+H-H+HPPHPPHPH-
+
+    +H
+  HPP-
+-HPPHH
+   PH+
+
+$structure
+                ( 1)( 2)
+        (12)(11)(10)( 3)
+(15)(14)(13)( 8)( 9)( 4)
+            ( 7)( 6)( 5)
+$
+SN:46.23
+
+[15]+H-H+HPPHPPHPH-
+
+ +H-H
+ HHP+
+ PPP 
+-HPH 
+
+$structure
+    ( 5)( 4)( 3)( 2)
+    ( 6)( 9)(10)( 1)
+    ( 7)( 8)(11)    
+(15)(14)(13)(12)    
+$
+SN:46.24
+
+[15]+H-H+HPPHPPHPH-
+
+ -H+H
+ HHPP
+ +PP 
+-HPH 
+
+$structure
+    ( 3)( 4)( 5)( 6)
+    ( 2)( 9)( 8)( 7)
+    ( 1)(10)(11)    
+(15)(14)(13)(12)    
+$
+SN:46.25
+
+[15]+H-H+HPPHPPHPH-
+
+ H+H 
+ -PP 
++HHPP
+ -HPH
+
+$structure
+    ( 4)( 5)( 6)    
+    ( 3)( 8)( 7)    
+( 1)( 2)( 9)(10)(11)
+    (15)(14)(13)(12)
+$
+
+
+---------------------------------------------
+
+#47
+
+statistics:
+E: -0.632487, V: 0.440781
+Max: 0, Min: -4.5, Low Range counter: 26
+minStructIndex: 79144
+
+Low range SDV: -3.83609
+-3.83609 41
+-4.16804 26
+-4.2787 6
+-4.33402 6
+-4.36722 6
+-4.38935 6
+-4.40516 6
+-4.41701 6
+
+Additional minimal structures: 5
+Min structures:
+
+SN:47.1
+
+[15]++-HHPHPPPHHHP-
+
+   PP
+   HP
+-PHHH
++-HHP
++    
+
+$structure
+            (10)( 9)
+            (11)( 8)
+(15)(14)(13)(12)( 7)
+( 2)( 3)( 4)( 5)( 6)
+( 1)                
+$
+
+SN:47.2
+
+[15]++-HHPHPPPHHHP-
+
+    PP
+    HP
+ -PHHH
+++-HHP
+
+$structure
+                (10)( 9)
+                (11)( 8)
+    (15)(14)(13)(12)( 7)
+( 1)( 2)( 3)( 4)( 5)( 6)
+$
+SN:47.3
+
+[15]++-HHPHPPPHHHP-
+
+   HP
+-PHHP
++-HHP
++ HP 
+
+$structure
+            (11)(10)
+(15)(14)(13)(12)( 9)
+( 2)( 3)( 4)( 7)( 8)
+( 1)    ( 5)( 6)    
+$
+SN:47.4
+
+[15]++-HHPHPPPHHHP-
+
+    HP
+ -PHHP
+++-HHP
+   HP 
+
+$structure
+                (11)(10)
+    (15)(14)(13)(12)( 9)
+( 1)( 2)( 3)( 4)( 7)( 8)
+            ( 5)( 6)    
+$
+SN:47.5
+
+[15]++-HHPHPPPHHHP-
+
+   HPP
+-PHHHP
++-HHP 
++     
+
+$structure
+            (11)(10)( 9)
+(15)(14)(13)(12)( 7)( 8)
+( 2)( 3)( 4)( 5)( 6)    
+( 1)                    
+$
+SN:47.6
+
+[15]++-HHPHPPPHHHP-
+
++ HP  
++-HHPP
+-PHHHP
+
+$structure
+( 1)    ( 5)( 6)        
+( 2)( 3)( 4)( 7)( 8)( 9)
+(15)(14)(13)(12)(11)(10)
+$
+
+
+---------------------------------------------
+
+#48
+
+statistics:
+E: -0.833287, V: 0.811595
+Max: 1, Min: -6, Low Range counter: 13
+minStructIndex: 27974
+
+Low range SDV: -5.09911
+-5.09911 13
+-5.54956 2
+-5.6997 2
+-5.77478 2
+-5.81982 2
+-5.84985 2
+-5.8713 2
+-5.88739 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:48.1
+
+[15]+PPHH-PHPH+HHP-
+
+ PHP
++HH-
+HHH+
+-PPP
+
+$structure
+    ( 9)( 8)( 7)
+(11)(10)( 5)( 6)
+(12)(13)( 4)( 1)
+(15)(14)( 3)( 2)
+$
+
+SN:48.2
+
+[15]+PPHH-PHPH+HHP-
+
+  H+ 
+-PHHP
+ PHHH
+ P+-P
+
+$structure
+        (12)(11)    
+(15)(14)(13)(10)( 9)
+    ( 3)( 4)( 5)( 8)
+    ( 2)( 1)( 6)( 7)
+$
+
+
+---------------------------------------------
+
+#49
+
+statistics:
+E: -0.849496, V: 0.579121
+Max: 0, Min: -5, Low Range counter: 12
+minStructIndex: 1741
+
+Low range SDV: -4.239
+-4.239 35
+-4.6195 10
+-4.74633 10
+-4.80975 9
+-4.8478 9
+-4.87317 9
+-4.89129 9
+-4.90487 9
+
+Additional minimal structures: 8
+Min structures:
+
+SN:49.1
+
+[15]+HPPPPHHPHHH+--
+
+ HP  
+ HH  
+ HHPP
+ +HPP
+--+  
+
+$structure
+    (10)( 9)        
+    (11)( 8)        
+    (12)( 7)( 6)( 5)
+    (13)( 2)( 3)( 4)
+(15)(14)( 1)        
+$
+
+SN:49.2
+
+[15]+HPPPPHHPHHH+--
+
+  HP  
+  HH  
+ +HHPP
+--+HPP
+
+$structure
+        (10)( 9)        
+        (11)( 8)        
+    (13)(12)( 7)( 6)( 5)
+(15)(14)( 1)( 2)( 3)( 4)
+$
+SN:49.3
+
+[15]+HPPPPHHPHHH+--
+
+ +H  
+--HHP
+ +HHH
+  PP 
+  PP 
+
+$structure
+    (13)(12)        
+(15)(14)(11)(10)( 9)
+    ( 1)( 2)( 7)( 8)
+        ( 3)( 6)    
+        ( 4)( 5)    
+$
+SN:49.4
+
+[15]+HPPPPHHPHHH+--
+
+   HP
+ +HHH
+--+HH
+   PP
+   PP
+
+$structure
+            (10)( 9)
+    (13)(12)(11)( 8)
+(15)(14)( 1)( 2)( 7)
+            ( 3)( 6)
+            ( 4)( 5)
+$
+SN:49.5
+
+[15]+HPPPPHHPHHH+--
+
+ +HHHP
+--+HHH
+   PP 
+   PP 
+
+$structure
+    (13)(12)(11)(10)( 9)
+(15)(14)( 1)( 2)( 7)( 8)
+            ( 3)( 6)    
+            ( 4)( 5)    
+$
+SN:49.6
+
+[15]+HPPPPHHPHHH+--
+
+  HP
+PPHH
+PPHH
+  +H
+ --+
+
+$structure
+        ( 8)( 9)
+( 5)( 6)( 7)(10)
+( 4)( 3)( 2)(11)
+        ( 1)(12)
+    (15)(14)(13)
+$
+SN:49.7
+
+[15]+HPPPPHHPHHH+--
+
+PPHHP
+PPHHH
+  +H 
+ --+ 
+
+$structure
+( 5)( 6)( 7)( 8)( 9)
+( 4)( 3)( 2)(11)(10)
+        ( 1)(12)    
+    (15)(14)(13)    
+$
+SN:49.8
+
+[15]+HPPPPHHPHHH+--
+
+ PP  
+ PP  
+ HHHP
+ +HHH
+--+  
+
+$structure
+    ( 4)( 5)        
+    ( 3)( 6)        
+    ( 2)( 7)( 8)( 9)
+    ( 1)(12)(11)(10)
+(15)(14)(13)        
+$
+SN:49.9
+
+[15]+HPPPPHHPHHH+--
+
+  PP  
+  PP  
+ +HHHP
+--+HHH
+
+$structure
+        ( 4)( 5)        
+        ( 3)( 6)        
+    ( 1)( 2)( 7)( 8)( 9)
+(15)(14)(13)(12)(11)(10)
+$
+
+
+---------------------------------------------
+
+#50
+
+statistics:
+E: -0.749565, V: 0.483073
+Max: 0, Min: -4.5, Low Range counter: 73
+minStructIndex: 17728
+
+Low range SDV: -3.80497
+-3.80497 122
+-4.15248 73
+-4.26832 18
+-4.32624 18
+-4.36099 18
+-4.38416 18
+-4.40071 18
+-4.41312 18
+
+Additional minimal structures: 17
+Min structures:
+
+SN:50.1
+
+[15]+PPPHHHP-H+PHH-
+
+  P+ 
+  HH-
+ -HHP
++PHH 
+PP   
+
+$structure
+        (12)(11)    
+        (13)(10)( 9)
+    (15)(14)( 7)( 8)
+( 1)( 4)( 5)( 6)    
+( 2)( 3)            
+$
+
+SN:50.2
+
+[15]+PPPHHHP-H+PHH-
+
+  P+ 
++ HH-
+P-HHP
+PPHH 
+
+$structure
+        (12)(11)    
+( 1)    (13)(10)( 9)
+( 2)(15)(14)( 7)( 8)
+( 3)( 4)( 5)( 6)    
+$
+SN:50.3
+
+[15]+PPPHHHP-H+PHH-
+
+   P+ 
+   HH-
++P-HHP
+ PPHH 
+
+$structure
+            (12)(11)    
+            (13)(10)( 9)
+( 1)( 2)(15)(14)( 7)( 8)
+    ( 3)( 4)( 5)( 6)    
+$
+SN:50.4
+
+[15]+PPPHHHP-H+PHH-
+
+  P+ 
+  HH-
+ -HHP
+PPHH 
+P+   
+
+$structure
+        (12)(11)    
+        (13)(10)( 9)
+    (15)(14)( 7)( 8)
+( 3)( 4)( 5)( 6)    
+( 2)( 1)            
+$
+SN:50.5
+
+[15]+PPPHHHP-H+PHH-
+
+ -P
++HH
+PHH
+-HH
+ +P
+ PP
+
+$structure
+    ( 9)( 8)
+(11)(10)( 7)
+(12)(13)( 6)
+(15)(14)( 5)
+    ( 1)( 4)
+    ( 2)( 3)
+$
+SN:50.6
+
+[15]+PPPHHHP-H+PHH-
+
+ -P 
++HH 
+PHH 
+-HH 
+  P+
+  PP
+
+$structure
+    ( 9)( 8)    
+(11)(10)( 7)    
+(12)(13)( 6)    
+(15)(14)( 5)    
+        ( 4)( 1)
+        ( 3)( 2)
+$
+SN:50.7
+
+[15]+PPPHHHP-H+PHH-
+
+ -P
++HH
+PHH
+-HH
+ PP
+ P+
+
+$structure
+    ( 9)( 8)
+(11)(10)( 7)
+(12)(13)( 6)
+(15)(14)( 5)
+    ( 3)( 4)
+    ( 2)( 1)
+$
+SN:50.8
+
+[15]+PPPHHHP-H+PHH-
+
+ -P
++HH
+PHH
+-HH
+PPP
++  
+
+$structure
+    ( 9)( 8)
+(11)(10)( 7)
+(12)(13)( 6)
+(15)(14)( 5)
+( 2)( 3)( 4)
+( 1)        
+$
+SN:50.9
+
+[15]+PPPHHHP-H+PHH-
+
+  -P
+ +HH
+ PHH
+ -HH
++PPP
+
+$structure
+        ( 9)( 8)
+    (11)(10)( 7)
+    (12)(13)( 6)
+    (15)(14)( 5)
+( 1)( 2)( 3)( 4)
+$
+SN:50.10
+
+[15]+PPPHHHP-H+PHH-
+
+ -P 
++HH 
+PHH 
+-HH 
+  PP
+  +P
+
+$structure
+    ( 9)( 8)    
+(11)(10)( 7)    
+(12)(13)( 6)    
+(15)(14)( 5)    
+        ( 4)( 3)
+        ( 1)( 2)
+$
+SN:50.11
+
+[15]+PPPHHHP-H+PHH-
+
+ -P+
++HHP
+PHHP
+-HHP
+
+$structure
+    ( 9)( 8)( 1)
+(11)(10)( 7)( 2)
+(12)(13)( 6)( 3)
+(15)(14)( 5)( 4)
+$
+SN:50.12
+
+[15]+PPPHHHP-H+PHH-
+
+ -P  
++HH  
+PHHPP
+-HHP+
+
+$structure
+    ( 9)( 8)        
+(11)(10)( 7)        
+(12)(13)( 6)( 3)( 2)
+(15)(14)( 5)( 4)( 1)
+$
+SN:50.13
+
+[15]+PPPHHHP-H+PHH-
+
+ -P  
++HH  
+PHH  
+-HHP+
+   PP
+
+$structure
+    ( 9)( 8)        
+(11)(10)( 7)        
+(12)(13)( 6)        
+(15)(14)( 5)( 4)( 1)
+            ( 3)( 2)
+$
+SN:50.14
+
+[15]+PPPHHHP-H+PHH-
+
+ -P  
++HH  
+PHH+P
+-HHPP
+
+$structure
+    ( 9)( 8)        
+(11)(10)( 7)        
+(12)(13)( 6)( 1)( 2)
+(15)(14)( 5)( 4)( 3)
+$
+SN:50.15
+
+[15]+PPPHHHP-H+PHH-
+
+ -P  
++HH  
+PHH  
+-HHPP
+   +P
+
+$structure
+    ( 9)( 8)        
+(11)(10)( 7)        
+(12)(13)( 6)        
+(15)(14)( 5)( 4)( 3)
+            ( 1)( 2)
+$
+SN:50.16
+
+[15]+PPPHHHP-H+PHH-
+
+   P+ 
+ -HHH-
++PHHHP
+PP    
+
+$structure
+            (12)(11)    
+    (15)(14)(13)(10)( 9)
+( 1)( 4)( 5)( 6)( 7)( 8)
+( 2)( 3)                
+$
+SN:50.17
+
+[15]+PPPHHHP-H+PHH-
+
++  P+ 
+P-HHH-
+PPHHHP
+
+$structure
+( 1)        (12)(11)    
+( 2)(15)(14)(13)(10)( 9)
+( 3)( 4)( 5)( 6)( 7)( 8)
+$
+SN:50.18
+
+[15]+PPPHHHP-H+PHH-
+
+   P+ 
+ -HHH-
+PPHHHP
+P+    
+
+$structure
+            (12)(11)    
+    (15)(14)(13)(10)( 9)
+( 3)( 4)( 5)( 6)( 7)( 8)
+( 2)( 1)                
+$
+
+
+---------------------------------------------
+
+#51
+
+statistics:
+E: -0.705136, V: 0.845978
+Max: 2, Min: -5.5, Low Range counter: 7
+minStructIndex: 68511
+
+Low range SDV: -4.58023
+-4.58023 7
+-5.04011 2
+-5.19341 2
+-5.27006 2
+-5.31605 2
+-5.3467 2
+-5.3686 2
+-5.38503 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:51.1
+
+[15]+PHHPHHPP+H-HP-
+
+PHHH
+PHPP
++H-+
+-PH 
+
+$structure
+( 8)( 7)( 4)( 3)
+( 9)( 6)( 5)( 2)
+(10)(11)(12)( 1)
+(15)(14)(13)    
+$
+
+SN:51.2
+
+[15]+PHHPHHPP+H-HP-
+
+HHHP
+PPH+
+P+H-
+ -PH
+
+$structure
+( 7)( 6)( 3)( 2)
+( 8)( 5)( 4)( 1)
+( 9)(10)(11)(12)
+    (15)(14)(13)
+$
+
+
+---------------------------------------------
+
+#52
+
+statistics:
+E: -0.827821, V: 0.715521
+Max: 1, Min: -6, Low Range counter: 2
+minStructIndex: 68504
+
+Low range SDV: -5.15412
+-5.15412 4
+-5.57706 2
+-5.71804 2
+-5.78853 1
+-5.83082 1
+-5.85902 1
+-5.87916 1
+-5.89426 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:52.1
+
+[15]+P-PHHPPH+HHHP-
+
++P-
+PPP
+HHH
++HH
+-PH
+
+$structure
+( 1)( 2)( 3)
+( 8)( 7)( 4)
+( 9)( 6)( 5)
+(10)(11)(12)
+(15)(14)(13)
+$
+
+
+
+---------------------------------------------
+
+#53
+
+statistics:
+E: -0.650931, V: 0.572172
+Max: 1, Min: -6, Low Range counter: 8
+minStructIndex: 85040
+
+Low range SDV: -5.24358
+-5.24358 8
+-5.62179 3
+-5.74786 3
+-5.81089 1
+-5.84872 1
+-5.87393 1
+-5.89194 1
+-5.90545 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:53.1
+
+[15]+HHPPP-HHPPHH+-
+
+PPHH+
+P-HHP
+-+HHP
+
+$structure
+( 5)( 4)( 3)( 2)( 1)
+( 6)( 7)( 8)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+
+---------------------------------------------
+
+#54
+
+statistics:
+E: -0.895846, V: 0.839437
+Max: 1.25, Min: -6.75, Low Range counter: 5
+minStructIndex: 6134
+
+Low range SDV: -5.83379
+-5.83379 5
+-6.2919 2
+-6.4446 2
+-6.52095 2
+-6.56676 2
+-6.5973 2
+-6.61911 2
+-6.63547 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:54.1
+
+[15]+PHHP-PPH+PHHH-
+
+ P+  
+ HHPP
+ HHP-
+-HHP+
+
+$structure
+    (11)(10)        
+    (12)( 9)( 8)( 7)
+    (13)( 4)( 5)( 6)
+(15)(14)( 3)( 2)( 1)
+$
+
+SN:54.2
+
+[15]+PHHP-PPH+PHHH-
+
+ +-P 
+ PPP 
+ HHH+
+-HHHP
+
+$structure
+    ( 1)( 6)( 7)    
+    ( 2)( 5)( 8)    
+    ( 3)( 4)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+---------------------------------------------
+
+#55
+
+statistics:
+E: -0.642659, V: 0.418715
+Max: 0, Min: -3.5, Low Range counter: 92
+minStructIndex: 15916
+
+Low range SDV: -2.85292
+-2.85292 206
+-3.17646 92
+-3.28431 16
+-3.33823 16
+-3.37058 16
+-3.39215 16
+-3.40756 16
+-3.41911 16
+
+Additional minimal structures: 15
+Min structures:
+
+SN:55.1
+
+[15]+H+PHHPPPHPH-H-
+
+  HP
+ HPP
+ -HP
+-HHP
+  H+
+  + 
+
+$structure
+        (10)( 9)
+    (12)(11)( 8)
+    (13)( 6)( 7)
+(15)(14)( 5)( 4)
+        ( 2)( 3)
+        ( 1)    
+$
+
+SN:55.2
+
+[15]+H+PHHPPPHPH-H-
+
+  HP
+ HPP
+ -HP
+-HHP
+ +H+
+
+$structure
+        (10)( 9)
+    (12)(11)( 8)
+    (13)( 6)( 7)
+(15)(14)( 5)( 4)
+    ( 1)( 2)( 3)
+$
+SN:55.3
+
+[15]+H+PHHPPPHPH-H-
+
+ HPH 
+ -PP 
+-HPP+
+  HHH
+    +
+
+$structure
+    (12)(11)(10)    
+    (13)( 8)( 9)    
+(15)(14)( 7)( 4)( 3)
+        ( 6)( 5)( 2)
+                ( 1)
+$
+SN:55.4
+
+[15]+H+PHHPPPHPH-H-
+
+ HPH  
+ -PP  
+-HPP+ 
+  HHH+
+
+$structure
+    (12)(11)(10)        
+    (13)( 8)( 9)        
+(15)(14)( 7)( 4)( 3)    
+        ( 6)( 5)( 2)( 1)
+$
+SN:55.5
+
+[15]+H+PHHPPPHPH-H-
+
+   +
+  +H
+HPPH
+PPPH
+H-  
+-H  
+
+$structure
+            ( 1)
+        ( 3)( 2)
+(10)( 9)( 4)( 5)
+(11)( 8)( 7)( 6)
+(12)(13)        
+(15)(14)        
+$
+SN:55.6
+
+[15]+H+PHHPPPHPH-H-
+
+  +H+
+HPPH 
+PPPH 
+H-   
+-H   
+
+$structure
+        ( 3)( 2)( 1)
+(10)( 9)( 4)( 5)    
+(11)( 8)( 7)( 6)    
+(12)(13)            
+(15)(14)            
+$
+SN:55.7
+
+[15]+H+PHHPPPHPH-H-
+
+ HPH-
+ PP-H
++PP  
+HHH  
++    
+
+$structure
+    (10)(11)(12)(13)
+    ( 9)( 8)(15)(14)
+( 3)( 4)( 7)        
+( 2)( 5)( 6)        
+( 1)                
+$
+SN:55.8
+
+[15]+H+PHHPPPHPH-H-
+
+  HPH-
+  PP-H
+ +PP  
++HHH  
+
+$structure
+        (10)(11)(12)(13)
+        ( 9)( 8)(15)(14)
+    ( 3)( 4)( 7)        
+( 1)( 2)( 5)( 6)        
+$
+SN:55.9
+
+[15]+H+PHHPPPHPH-H-
+
++   
+H+  
+HPPH
+HPPP
+  -H
+ -H 
+
+$structure
+( 1)            
+( 2)( 3)        
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+        (13)(12)
+    (15)(14)    
+$
+SN:55.10
+
+[15]+H+PHHPPPHPH-H-
+
++H+  
+ HPPH
+ HPPP
+   -H
+  -H 
+
+$structure
+( 1)( 2)( 3)        
+    ( 5)( 4)( 9)(10)
+    ( 6)( 7)( 8)(11)
+            (13)(12)
+        (15)(14)    
+$
+SN:55.11
+
+[15]+H+PHHPPPHPH-H-
+
++    
+H+   
+HPPH 
+HPPPH
+  -H-
+
+$structure
+( 1)                
+( 2)( 3)            
+( 5)( 4)( 9)(10)    
+( 6)( 7)( 8)(11)(12)
+        (15)(14)(13)
+$
+SN:55.12
+
+[15]+H+PHHPPPHPH-H-
+
++H+   
+ HPPH 
+ HPPPH
+   -H-
+
+$structure
+( 1)( 2)( 3)            
+    ( 5)( 4)( 9)(10)    
+    ( 6)( 7)( 8)(11)(12)
+            (15)(14)(13)
+$
+SN:55.13
+
+[15]+H+PHHPPPHPH-H-
+
+  HPH 
+-H-PP 
+   PP+
+   HHH
+     +
+
+$structure
+        (12)(11)(10)    
+(15)(14)(13)( 8)( 9)    
+            ( 7)( 4)( 3)
+            ( 6)( 5)( 2)
+                    ( 1)
+$
+SN:55.14
+
+[15]+H+PHHPPPHPH-H-
+
++   
+H+  
+HPPH
+HPPP
+-H-H
+
+$structure
+( 1)            
+( 2)( 3)        
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+SN:55.15
+
+[15]+H+PHHPPPHPH-H-
+
++H+  
+ HPPH
+ HPPP
+ -H-H
+
+$structure
+( 1)( 2)( 3)        
+    ( 5)( 4)( 9)(10)
+    ( 6)( 7)( 8)(11)
+    (15)(14)(13)(12)
+$
+SN:55.16
+
+[15]+H+PHHPPPHPH-H-
+
+ +PPPP
++HHHPH
+ -H-H 
+
+$structure
+    ( 3)( 4)( 7)( 8)( 9)
+( 1)( 2)( 5)( 6)(11)(10)
+    (15)(14)(13)(12)    
+$
+
+
+---------------------------------------------
+
+#56
+
+statistics:
+E: -0.500395, V: 0.718003
+Max: 2, Min: -6.25, Low Range counter: 4
+minStructIndex: 78362
+
+Low range SDV: -5.40265
+-5.40265 4
+-5.82632 4
+-5.96755 4
+-6.03816 2
+-6.08053 2
+-6.10877 2
+-6.12895 2
+-6.14408 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:56.1
+
+[15]+HHHP+PHH-PPHP-
+
+ HH+
+PHH-
++PHP
+-PHP
+
+$structure
+    ( 3)( 2)( 1)
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+
+SN:56.2
+
+[15]+HHHP+PHH-PPHP-
+
+PHHH+
++PHH-
+-PHPP
+
+$structure
+( 5)( 4)( 3)( 2)( 1)
+( 6)( 7)( 8)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+---------------------------------------------
+
+#57
+
+statistics:
+E: -0.724741, V: 0.628278
+Max: 1, Min: -4.75, Low Range counter: 10
+minStructIndex: 25049
+
+Low range SDV: -3.95736
+-3.95736 12
+-4.35368 10
+-4.48579 10
+-4.55184 4
+-4.59147 4
+-4.61789 4
+-4.63677 4
+-4.65092 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:57.1
+
+[15]+HPHHHPHPHP+P--
+
+ HP 
+ P+P
+PH--
+HHH+
+ HP 
+
+$structure
+    (10)(11)    
+    ( 9)(12)(13)
+( 7)( 8)(15)(14)
+( 6)( 5)( 2)( 1)
+    ( 4)( 3)    
+$
+
+SN:57.2
+
+[15]+HPHHHPHPHP+P--
+
+ PHP
+PHHH
++PH 
+--P 
+ +H 
+
+$structure
+    ( 9)( 8)( 7)
+(11)(10)( 5)( 6)
+(12)(13)( 4)    
+(15)(14)( 3)    
+    ( 1)( 2)    
+$
+SN:57.3
+
+[15]+HPHHHPHPHP+P--
+
+  PH 
+HPHHH
+P+PHP
+ --+ 
+
+$structure
+        ( 7)( 6)    
+(10)( 9)( 8)( 5)( 4)
+(11)(12)(13)( 2)( 3)
+    (15)(14)( 1)    
+$
+SN:57.4
+
+[15]+HPHHHPHPHP+P--
+
+ P+P 
+PH--+
+HHHPH
+PH   
+
+$structure
+    (11)(12)(13)    
+( 9)(10)(15)(14)( 1)
+( 8)( 5)( 4)( 3)( 2)
+( 7)( 6)            
+$
+
+
+---------------------------------------------
+
+#58
+
+statistics:
+E: -0.863629, V: 1.05385
+Max: 2, Min: -5.5, Low Range counter: 60
+minStructIndex: 54520
+
+Low range SDV: -4.47343
+-4.47343 60
+-4.98671 2
+-5.15781 2
+-5.24336 2
+-5.29469 1
+-5.3289 1
+-5.35335 1
+-5.37168 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:58.1
+
+[15]+-P+PHHPHPHHPH-
+
+ PHH 
+-HHP+
+ HPP-
+ HP+ 
+
+$structure
+    (13)(12)(11)    
+(15)(14)( 9)(10)( 1)
+    ( 7)( 8)( 3)( 2)
+    ( 6)( 5)( 4)    
+$
+
+
+
+---------------------------------------------
+
+#59
+
+statistics:
+E: -1.00805, V: 0.921315
+Max: 1.75, Min: -5.5, Low Range counter: 54
+minStructIndex: 21188
+
+Low range SDV: -4.54015
+-4.54015 54
+-5.02007 12
+-5.18005 12
+-5.26004 4
+-5.30803 4
+-5.34002 4
+-5.36288 4
+-5.38002 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:59.1
+
+[15]+PHHPHH-PPH+HP-
+
+ +P
+P-H
+PHH
+HHP
++H 
+-P 
+
+$structure
+    ( 1)( 2)
+( 9)( 8)( 3)
+(10)( 7)( 4)
+(11)( 6)( 5)
+(12)(13)    
+(15)(14)    
+$
+
+SN:59.2
+
+[15]+PHHPHH-PPH+HP-
+
+P-+P
+PHHH
+HHP 
++H  
+-P  
+
+$structure
+( 9)( 8)( 1)( 2)
+(10)( 7)( 4)( 3)
+(11)( 6)( 5)    
+(12)(13)        
+(15)(14)        
+$
+SN:59.3
+
+[15]+PHHPHH-PPH+HP-
+
+P-H
+PPH
+HHH
++HP
+-P+
+
+$structure
+( 9)( 8)( 7)
+(10)( 5)( 6)
+(11)( 4)( 3)
+(12)(13)( 2)
+(15)(14)( 1)
+$
+SN:59.4
+
+[15]+PHHPHH-PPH+HP-
+
+ +PH
+P-HH
+PHHP
+ +H 
+ -P 
+
+$structure
+    ( 1)( 2)( 3)
+( 9)( 8)( 7)( 4)
+(10)(11)( 6)( 5)
+    (12)(13)    
+    (15)(14)    
+$
+
+
+---------------------------------------------
+
+#60
+
+statistics:
+E: -0.988122, V: 0.884515
+Max: 1, Min: -5.25, Low Range counter: 88
+minStructIndex: 10293
+
+Low range SDV: -4.30951
+-4.30951 88
+-4.77976 14
+-4.9365 14
+-5.01488 3
+-5.0619 3
+-5.09325 3
+-5.11564 3
+-5.13244 3
+
+Additional minimal structures: 2
+Min structures:
+
+SN:60.1
+
+[15]+HHPPPHPP+HH-H-
+
+ +  
+HHHH
+PP+-
+PP-H
+PH  
+
+$structure
+    ( 1)        
+( 3)( 2)(11)(12)
+( 4)( 9)(10)(13)
+( 5)( 8)(15)(14)
+( 6)( 7)        
+$
+
+SN:60.2
+
+[15]+HHPPPHPP+HH-H-
+
+  + 
+ HH 
+PPHH
+PP+-
+HP-H
+
+$structure
+        ( 1)    
+    ( 3)( 2)    
+( 5)( 4)(11)(12)
+( 6)( 9)(10)(13)
+( 7)( 8)(15)(14)
+$
+SN:60.3
+
+[15]+HHPPPHPP+HH-H-
+
+ HH+
+PPHH
+PP+-
+HP-H
+
+$structure
+    ( 3)( 2)( 1)
+( 5)( 4)(11)(12)
+( 6)( 9)(10)(13)
+( 7)( 8)(15)(14)
+$
+
+
+---------------------------------------------
+
+#61
+
+statistics:
+E: -1.07471, V: 0.867224
+Max: 1, Min: -5.25, Low Range counter: 69
+minStructIndex: 27835
+
+Low range SDV: -4.31875
+-4.31875 69
+-4.78438 16
+-4.93958 16
+-5.01719 2
+-5.06375 2
+-5.09479 2
+-5.11696 2
+-5.13359 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:61.1
+
+[15]+P-HP+HHHHPPHP-
+
+ HH 
+PHH+
+PHHP
+-P-P
+   +
+
+$structure
+    ( 9)( 8)    
+(11)(10)( 7)( 6)
+(12)(13)( 4)( 5)
+(15)(14)( 3)( 2)
+            ( 1)
+$
+
+SN:61.2
+
+[15]+P-HP+HHHHPPHP-
+
+ HH  
+PHH+ 
+PHHP 
+-P-P+
+
+$structure
+    ( 9)( 8)        
+(11)(10)( 7)( 6)    
+(12)(13)( 4)( 5)    
+(15)(14)( 3)( 2)( 1)
+$
+
+
+---------------------------------------------
+
+#62
+
+statistics:
+E: -1.05009, V: 0.678578
+Max: 0, Min: -5, Low Range counter: 29
+minStructIndex: 46257
+
+Low range SDV: -4.17624
+-4.17624 68
+-4.58812 8
+-4.72541 8
+-4.79406 3
+-4.83525 3
+-4.86271 3
+-4.88232 3
+-4.89703 3
+
+Additional minimal structures: 2
+Min structures:
+
+SN:62.1
+
+[15]+HHPHHPH-HPP+P-
+
+ +P+H
+-PPPH
+  HHH
+  -HP
+
+$structure
+    (13)(12)( 1)( 2)
+(15)(14)(11)( 4)( 3)
+        (10)( 5)( 6)
+        ( 9)( 8)( 7)
+$
+
+SN:62.2
+
+[15]+HHPHHPH-HPP+P-
+
+ +P  
+-PPH-
+ +PHH
+ HHHP
+
+$structure
+    (13)(12)        
+(15)(14)(11)(10)( 9)
+    ( 1)( 4)( 5)( 8)
+    ( 2)( 3)( 6)( 7)
+$
+SN:62.3
+
+[15]+HHPHHPH-HPP+P-
+
+PHHH
+HHP+
+-HPP
+ -P+
+
+$structure
+( 7)( 6)( 3)( 2)
+( 8)( 5)( 4)( 1)
+( 9)(10)(11)(12)
+    (15)(14)(13)
+$
+
+
+---------------------------------------------
+
+#63
+
+statistics:
+E: -0.816675, V: 0.647245
+Max: 1, Min: -4.25, Low Range counter: 238
+minStructIndex: 54658
+
+Low range SDV: -3.44548
+-3.44548 472
+-3.84774 34
+-3.98183 34
+-4.04887 7
+-4.0891 7
+-4.11591 7
+-4.13507 7
+-4.14944 7
+
+Additional minimal structures: 6
+Min structures:
+
+SN:63.1
+
+[15]+PPP+-HPHHHHHP-
+
+ HHH
+-PHH
+PPPH
++P+-
+
+$structure
+    (13)(12)(11)
+(15)(14)( 9)(10)
+( 2)( 3)( 8)( 7)
+( 1)( 4)( 5)( 6)
+$
+
+SN:63.2
+
+[15]+PPP+-HPHHHHHP-
+
++-HHH
+P+PHH
+PP-PH
+
+$structure
+( 1)( 6)( 7)(10)(11)
+( 2)( 5)( 8)( 9)(12)
+( 3)( 4)(15)(14)(13)
+$
+SN:63.3
+
+[15]+PPP+-HPHHHHHP-
+
++-HHH
+P+PHH
+PP-PH
+
+$structure
+( 5)( 6)( 7)(10)(11)
+( 4)( 1)( 8)( 9)(12)
+( 3)( 2)(15)(14)(13)
+$
+SN:63.4
+
+[15]+PPP+-HPHHHHHP-
+
+P+PH
+P-HH
+P+HH
+-PH 
+
+$structure
+( 4)( 5)( 8)( 9)
+( 3)( 6)( 7)(10)
+( 2)( 1)(12)(11)
+(15)(14)(13)    
+$
+SN:63.5
+
+[15]+PPP+-HPHHHHHP-
+
+P+PH
+P-HH
+P+HH
+-PH 
+
+$structure
+( 2)( 1)( 8)( 9)
+( 3)( 6)( 7)(10)
+( 4)( 5)(12)(11)
+(15)(14)(13)    
+$
+SN:63.6
+
+[15]+PPP+-HPHHHHHP-
+
+PP+PH
+P+-HH
+-PHHH
+
+$structure
+( 3)( 4)( 5)( 8)( 9)
+( 2)( 1)( 6)( 7)(10)
+(15)(14)(13)(12)(11)
+$
+SN:63.7
+
+[15]+PPP+-HPHHHHHP-
+
+PP+PH
+P+-HH
+-PHHH
+
+$structure
+( 3)( 2)( 1)( 8)( 9)
+( 4)( 5)( 6)( 7)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+---------------------------------------------
+
+#64
+
+statistics:
+E: -0.490473, V: 0.579002
+Max: 1, Min: -4.5, Low Range counter: 33
+minStructIndex: 3193
+
+Low range SDV: -3.73908
+-3.73908 62
+-4.11954 31
+-4.24636 31
+-4.30977 31
+-4.34782 31
+-4.37318 31
+-4.3913 31
+-4.40488 31
+
+Additional minimal structures: 30
+Min structures:
+
+SN:64.1
+
+[15]+H+HPPPHH-PHPH-
+
+ H+ 
+ +-P
+PHHH
+PPHP
+  -H
+
+$structure
+    ( 2)( 1)    
+    ( 3)(10)(11)
+( 5)( 4)( 9)(12)
+( 6)( 7)( 8)(13)
+        (15)(14)
+$
+
+SN:64.2
+
+[15]+H+HPPPHH-PHPH-
+
+  +H
+ P-+
+ HHH
+ PHP
+-HPP
+
+$structure
+        ( 1)( 2)
+    (11)(10)( 3)
+    (12)( 9)( 4)
+    (13)( 8)( 5)
+(15)(14)( 7)( 6)
+$
+SN:64.3
+
+[15]+H+HPPPHH-PHPH-
+
+  +H 
+ P-+ 
+ HHHP
+ PHPP
+-H   
+
+$structure
+        ( 1)( 2)    
+    (11)(10)( 3)    
+    (12)( 9)( 4)( 5)
+    (13)( 8)( 7)( 6)
+(15)(14)            
+$
+SN:64.4
+
+[15]+H+HPPPHH-PHPH-
+
+  PP
+H+HP
++-HH
+ PH 
+  P 
+ -H 
+
+$structure
+        ( 5)( 6)
+( 2)( 3)( 4)( 7)
+( 1)(10)( 9)( 8)
+    (11)(12)    
+        (13)    
+    (15)(14)    
+$
+SN:64.5
+
+[15]+H+HPPPHH-PHPH-
+
+H+HPP
++-HHP
+ PH  
+  P  
+ -H  
+
+$structure
+( 2)( 3)( 4)( 5)( 6)
+( 1)(10)( 9)( 8)( 7)
+    (11)(12)        
+        (13)        
+    (15)(14)        
+$
+SN:64.6
+
+[15]+H+HPPPHH-PHPH-
+
+PP  
+PH+H
+HH-+
+ HP 
+ P  
+-H  
+
+$structure
+( 6)( 5)        
+( 7)( 4)( 3)( 2)
+( 8)( 9)(10)( 1)
+    (12)(11)    
+    (13)        
+(15)(14)        
+$
+SN:64.7
+
+[15]+H+HPPPHH-PHPH-
+
+PPH+H
+PHH-+
+  HP 
+  P  
+ -H  
+
+$structure
+( 6)( 5)( 4)( 3)( 2)
+( 7)( 8)( 9)(10)( 1)
+        (12)(11)    
+        (13)        
+    (15)(14)        
+$
+SN:64.8
+
+[15]+H+HPPPHH-PHPH-
+
+H+  
++-P 
+HHHP
+PH-H
+PP  
+
+$structure
+( 2)( 1)        
+( 3)(10)(11)    
+( 4)( 9)(12)(13)
+( 5)( 8)(15)(14)
+( 6)( 7)        
+$
+SN:64.9
+
+[15]+H+HPPPHH-PHPH-
+
+ H+  
+ +-P 
+PHHHP
+PPH-H
+
+$structure
+    ( 2)( 1)        
+    ( 3)(10)(11)    
+( 5)( 4)( 9)(12)(13)
+( 6)( 7)( 8)(15)(14)
+$
+SN:64.10
+
+[15]+H+HPPPHH-PHPH-
+
+  PP
+H+HP
++-HH
+ PHP
+  -H
+
+$structure
+        ( 5)( 6)
+( 2)( 3)( 4)( 7)
+( 1)(10)( 9)( 8)
+    (11)(12)(13)
+        (15)(14)
+$
+SN:64.11
+
+[15]+H+HPPPHH-PHPH-
+
+H+HPP
++-HHP
+ PHP 
+  -H 
+
+$structure
+( 2)( 3)( 4)( 5)( 6)
+( 1)(10)( 9)( 8)( 7)
+    (11)(12)(13)    
+        (15)(14)    
+$
+SN:64.12
+
+[15]+H+HPPPHH-PHPH-
+
+   +H
+  P-+
+ PHHH
+-H HP
+   PP
+
+$structure
+            ( 1)( 2)
+        (11)(10)( 3)
+    (13)(12)( 9)( 4)
+(15)(14)    ( 8)( 5)
+            ( 7)( 6)
+$
+SN:64.13
+
+[15]+H+HPPPHH-PHPH-
+
+   +H 
+  P-+ 
+ PHHHP
+-H HPP
+
+$structure
+            ( 1)( 2)    
+        (11)(10)( 3)    
+    (13)(12)( 9)( 4)( 5)
+(15)(14)    ( 8)( 7)( 6)
+$
+SN:64.14
+
+[15]+H+HPPPHH-PHPH-
+
+ PH 
+-HP 
+HH-+
+PH+H
+PP  
+
+$structure
+    (13)(12)    
+(15)(14)(11)    
+( 8)( 9)(10)( 1)
+( 7)( 4)( 3)( 2)
+( 6)( 5)        
+$
+SN:64.15
+
+[15]+H+HPPPHH-PHPH-
+
+  PH 
+ -HP 
+PHH-+
+PPH+H
+
+$structure
+        (13)(12)    
+    (15)(14)(11)    
+( 7)( 8)( 9)(10)( 1)
+( 6)( 5)( 4)( 3)( 2)
+$
+SN:64.16
+
+[15]+H+HPPPHH-PHPH-
+
+   PP
+   HP
+ PHHH
+-HP-+
+   +H
+
+$structure
+            ( 7)( 6)
+            ( 8)( 5)
+    (13)(12)( 9)( 4)
+(15)(14)(11)(10)( 3)
+            ( 1)( 2)
+$
+SN:64.17
+
+[15]+H+HPPPHH-PHPH-
+
+   HPP
+ PHHHP
+-HP-+ 
+   +H 
+
+$structure
+            ( 8)( 7)( 6)
+    (13)(12)( 9)( 4)( 5)
+(15)(14)(11)(10)( 3)    
+            ( 1)( 2)    
+$
+SN:64.18
+
+[15]+H+HPPPHH-PHPH-
+
+ PP  
+ PH+H
+ HH-+
+ PHP 
+-H   
+
+$structure
+    ( 6)( 5)        
+    ( 7)( 4)( 3)( 2)
+    ( 8)( 9)(10)( 1)
+    (13)(12)(11)    
+(15)(14)            
+$
+SN:64.19
+
+[15]+H+HPPPHH-PHPH-
+
+PPH+H
+PHH-+
+ PHP 
+-H   
+
+$structure
+( 6)( 5)( 4)( 3)( 2)
+( 7)( 8)( 9)(10)( 1)
+    (13)(12)(11)    
+(15)(14)            
+$
+SN:64.20
+
+[15]+H+HPPPHH-PHPH-
+
+ PHP 
+-HH-+
+  H+H
+  PH 
+  PP 
+
+$structure
+    (13)(12)(11)    
+(15)(14)( 9)(10)( 1)
+        ( 8)( 3)( 2)
+        ( 7)( 4)    
+        ( 6)( 5)    
+$
+SN:64.21
+
+[15]+H+HPPPHH-PHPH-
+
+ PHP 
+-HH-+
+ PH+H
+ PPH 
+
+$structure
+    (13)(12)(11)    
+(15)(14)( 9)(10)( 1)
+    ( 7)( 8)( 3)( 2)
+    ( 6)( 5)( 4)    
+$
+SN:64.22
+
+[15]+H+HPPPHH-PHPH-
+
+  H+ 
+PH+-P
+PPHHH
+  -HP
+
+$structure
+        ( 2)( 1)    
+( 5)( 4)( 3)(10)(11)
+( 6)( 7)( 8)( 9)(12)
+        (15)(14)(13)
+$
+SN:64.23
+
+[15]+H+HPPPHH-PHPH-
+
+   +H
+  P-+
+  HHH
+-HPHP
+   PP
+
+$structure
+            ( 1)( 2)
+        (11)(10)( 3)
+        (12)( 9)( 4)
+(15)(14)(13)( 8)( 5)
+            ( 7)( 6)
+$
+SN:64.24
+
+[15]+H+HPPPHH-PHPH-
+
+   +H 
+  P-+ 
+  HHHP
+-HPHPP
+
+$structure
+            ( 1)( 2)    
+        (11)(10)( 3)    
+        (12)( 9)( 4)( 5)
+(15)(14)(13)( 8)( 7)( 6)
+$
+SN:64.25
+
+[15]+H+HPPPHH-PHPH-
+
+  PP
+H+HP
++-HH
+ PH 
+-HP 
+
+$structure
+        ( 5)( 6)
+( 2)( 3)( 4)( 7)
+( 1)(10)( 9)( 8)
+    (11)(12)    
+(15)(14)(13)    
+$
+SN:64.26
+
+[15]+H+HPPPHH-PHPH-
+
+H+HPP
++-HHP
+ PH  
+-HP  
+
+$structure
+( 2)( 3)( 4)( 5)( 6)
+( 1)(10)( 9)( 8)( 7)
+    (11)(12)        
+(15)(14)(13)        
+$
+SN:64.27
+
+[15]+H+HPPPHH-PHPH-
+
+ PP  
+ PH+H
+ HH-+
+  HP 
+-HP  
+
+$structure
+    ( 6)( 5)        
+    ( 7)( 4)( 3)( 2)
+    ( 8)( 9)(10)( 1)
+        (12)(11)    
+(15)(14)(13)        
+$
+SN:64.28
+
+[15]+H+HPPPHH-PHPH-
+
+PPH+H
+PHH-+
+  HP 
+-HP  
+
+$structure
+( 6)( 5)( 4)( 3)( 2)
+( 7)( 8)( 9)(10)( 1)
+        (12)(11)    
+(15)(14)(13)        
+$
+SN:64.29
+
+[15]+H+HPPPHH-PHPH-
+
+    +H
+   P-+
+-HPHHH
+    HP
+    PP
+
+$structure
+                ( 1)( 2)
+            (11)(10)( 3)
+(15)(14)(13)(12)( 9)( 4)
+                ( 8)( 5)
+                ( 7)( 6)
+$
+SN:64.30
+
+[15]+H+HPPPHH-PHPH-
+
+  PP  
+  PH+H
+  HH-+
+-HPHP 
+
+$structure
+        ( 6)( 5)        
+        ( 7)( 4)( 3)( 2)
+        ( 8)( 9)(10)( 1)
+(15)(14)(13)(12)(11)    
+$
+SN:64.31
+
+[15]+H+HPPPHH-PHPH-
+
+ PPH+H
+ PHH-+
+-HPHP 
+
+$structure
+    ( 6)( 5)( 4)( 3)( 2)
+    ( 7)( 8)( 9)(10)( 1)
+(15)(14)(13)(12)(11)    
+$
+
+
+---------------------------------------------
+
+#65
+
+statistics:
+E: -0.83405, V: 0.569404
+Max: 0, Min: -5, Low Range counter: 22
+minStructIndex: 26770
+
+Low range SDV: -4.24541
+-4.24541 43
+-4.62271 18
+-4.74847 18
+-4.81135 6
+-4.84908 6
+-4.87424 6
+-4.8922 6
+-4.90568 6
+
+Additional minimal structures: 5
+Min structures:
+
+SN:65.1
+
+[15]+HPP+P-PHHHPHH-
+
++P-
+PPP
++HH
+ HH
+ PH
+ -H
+
+$structure
+( 5)( 6)( 7)
+( 4)( 3)( 8)
+( 1)( 2)( 9)
+    (11)(10)
+    (12)(13)
+    (15)(14)
+$
+
+SN:65.2
+
+[15]+HPP+P-PHHHPHH-
+
+HHHP-
+PHHPP
+-H+P+
+
+$structure
+(11)(10)( 9)( 8)( 7)
+(12)(13)( 2)( 3)( 6)
+(15)(14)( 1)( 4)( 5)
+$
+SN:65.3
+
+[15]+HPP+P-PHHHPHH-
+
+  HP
+ -HH
+-PHH
+PPH 
++P+ 
+
+$structure
+        (13)(12)
+    (15)(14)(11)
+( 7)( 8)( 9)(10)
+( 6)( 3)( 2)    
+( 5)( 4)( 1)    
+$
+SN:65.4
+
+[15]+HPP+P-PHHHPHH-
+
+ HP+P+
+-HHHPP
+  HHP-
+
+$structure
+    (13)(12)( 1)( 4)( 5)
+(15)(14)(11)( 2)( 3)( 6)
+        (10)( 9)( 8)( 7)
+$
+SN:65.5
+
+[15]+HPP+P-PHHHPHH-
+
+-P+
+PPP
+HH+
+HHP
+-HH
+
+$structure
+( 7)( 6)( 5)
+( 8)( 3)( 4)
+( 9)( 2)( 1)
+(10)(11)(12)
+(15)(14)(13)
+$
+SN:65.6
+
+[15]+HPP+P-PHHHPHH-
+
++P+  
+PPH  
+-PHHH
+ -HHP
+
+$structure
+( 5)( 4)( 1)        
+( 6)( 3)( 2)        
+( 7)( 8)( 9)(10)(11)
+    (15)(14)(13)(12)
+$
+
+
+---------------------------------------------
+
+#66
+
+statistics:
+E: -1.27393, V: 1.16679
+Max: 1, Min: -6.25, Low Range counter: 70
+minStructIndex: 9934
+
+Low range SDV: -5.16982
+-5.16982 70
+-5.70991 20
+-5.88994 8
+-5.97996 8
+-6.03396 3
+-6.06997 3
+-6.09569 3
+-6.11498 3
+
+Additional minimal structures: 2
+Min structures:
+
+SN:66.1
+
+[15]+HPHPPHPH+PH-H-
+
+PHP 
+HHP 
++PPH
+ H+-
+  -H
+
+$structure
+( 3)( 4)( 5)    
+( 2)( 7)( 6)    
+( 1)( 8)(11)(12)
+    ( 9)(10)(13)
+        (15)(14)
+$
+
+SN:66.2
+
+[15]+HPHPPHPH+PH-H-
+
+PP   
+HHPPH
+PHH+-
+ + -H
+
+$structure
+( 5)( 6)            
+( 4)( 7)( 8)(11)(12)
+( 3)( 2)( 9)(10)(13)
+    ( 1)    (15)(14)
+$
+SN:66.3
+
+[15]+HPHPPHPH+PH-H-
+
+PHPPH
+PHH+-
+ PH-H
+  +  
+
+$structure
+( 6)( 7)( 8)(11)(12)
+( 5)( 4)( 9)(10)(13)
+    ( 3)( 2)(15)(14)
+        ( 1)        
+$
+
+
+---------------------------------------------
+
+#67
+
+statistics:
+E: -0.920707, V: 0.768871
+Max: 0, Min: -6.25, Low Range counter: 8
+minStructIndex: 44342
+
+Low range SDV: -5.37315
+-5.37315 8
+-5.81157 1
+-5.95772 1
+-6.03079 1
+-6.07463 1
+-6.10386 1
+-6.12474 1
+-6.14039 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:67.1
+
+[15]+P+HPPHHHHPHP--
+
+  PH 
+ PHHH
+--+HH
+ +PPP
+
+$structure
+        (11)(10)    
+    (13)(12)( 9)( 8)
+(15)(14)( 3)( 4)( 7)
+    ( 1)( 2)( 5)( 6)
+$
+
+
+
+---------------------------------------------
+
+#68
+
+statistics:
+E: -0.878981, V: 0.788414
+Max: 2, Min: -5, Low Range counter: 110
+minStructIndex: 24721
+
+Low range SDV: -4.11207
+-4.11207 110
+-4.55604 24
+-4.70402 24
+-4.77802 4
+-4.82241 4
+-4.85201 4
+-4.87315 4
+-4.88901 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:68.1
+
+[15]+PHHHPHHP-HPP+-
+
++-H 
+PPPP
+HH-+
+HH  
+HP  
+
+$structure
+( 1)(10)(11)    
+( 2)( 9)(12)(13)
+( 3)( 8)(15)(14)
+( 4)( 7)        
+( 5)( 6)        
+$
+
+SN:68.2
+
+[15]+PHHHPHHP-HPP+-
+
++PHHH
+-PHHP
+HPP  
+ -+  
+
+$structure
+( 1)( 2)( 3)( 4)( 5)
+(10)( 9)( 8)( 7)( 6)
+(11)(12)(13)        
+    (15)(14)        
+$
+SN:68.3
+
+[15]+PHHHPHHP-HPP+-
+
+HHP+
+HHP-
+PHPH
+-+P 
+
+$structure
+( 4)( 3)( 2)( 1)
+( 5)( 8)( 9)(10)
+( 6)( 7)(12)(11)
+(15)(14)(13)    
+$
+SN:68.4
+
+[15]+PHHHPHHP-HPP+-
+
+HHHP+
+PHHP-
+-+PPH
+
+$structure
+( 5)( 4)( 3)( 2)( 1)
+( 6)( 7)( 8)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+---------------------------------------------
+
+#69
+
+statistics:
+E: -0.797688, V: 0.726636
+Max: 2, Min: -4.75, Low Range counter: 35
+minStructIndex: 9934
+
+Low range SDV: -3.89757
+-3.89757 82
+-4.32379 27
+-4.46586 27
+-4.53689 9
+-4.57951 9
+-4.60793 9
+-4.62822 9
+-4.64345 9
+
+Additional minimal structures: 8
+Min structures:
+
+SN:69.1
+
+[15]+PHPHPP-HHPHH+-
+
+HPH 
+PPP 
++-PH
+ HHH
+  -+
+
+$structure
+( 3)( 4)( 5)    
+( 2)( 7)( 6)    
+( 1)( 8)(11)(12)
+    ( 9)(10)(13)
+        (15)(14)
+$
+
+SN:69.2
+
+[15]+PHPHPP-HHPHH+-
+
+  HPH
+  PPP
+ HP-+
+ HHH 
+-+   
+
+$structure
+        ( 5)( 4)( 3)
+        ( 6)( 7)( 2)
+    (12)(11)( 8)( 1)
+    (13)(10)( 9)    
+(15)(14)            
+$
+SN:69.3
+
+[15]+PHPHPP-HHPHH+-
+
+HP+ 
+PP-H
+HPPH
+  HH
+  -+
+
+$structure
+( 3)( 2)( 1)    
+( 4)( 7)( 8)( 9)
+( 5)( 6)(11)(10)
+        (12)(13)
+        (15)(14)
+$
+SN:69.4
+
+[15]+PHPHPP-HHPHH+-
+
+  +PH
+ H-PP
+ HPPH
+ HH  
+-+   
+
+$structure
+        ( 1)( 2)( 3)
+    ( 9)( 8)( 7)( 4)
+    (10)(11)( 6)( 5)
+    (13)(12)        
+(15)(14)            
+$
+SN:69.5
+
+[15]+PHPHPP-HHPHH+-
+
+ HHHPH
+-+PPPP
+  HH-+
+
+$structure
+    (13)(12)( 5)( 4)( 3)
+(15)(14)(11)( 6)( 7)( 2)
+        (10)( 9)( 8)( 1)
+$
+SN:69.6
+
+[15]+PHPHPP-HHPHH+-
+
++-HH
+PPPP
+HPHH
+ -+H
+
+$structure
+( 1)( 8)( 9)(10)
+( 2)( 7)( 6)(11)
+( 3)( 4)( 5)(12)
+    (15)(14)(13)
+$
+SN:69.7
+
+[15]+PHPHPP-HHPHH+-
+
++PH
+-PP
+HPH
+HPH
+-+H
+
+$structure
+( 1)( 2)( 3)
+( 8)( 7)( 4)
+( 9)( 6)( 5)
+(10)(11)(12)
+(15)(14)(13)
+$
+SN:69.8
+
+[15]+PHPHPP-HHPHH+-
+
+   HPH
+   PPP
+  HP-+
+-+HHH 
+
+$structure
+            ( 5)( 4)( 3)
+            ( 6)( 7)( 2)
+        (12)(11)( 8)( 1)
+(15)(14)(13)(10)( 9)    
+$
+SN:69.9
+
+[15]+PHPHPP-HHPHH+-
+
+   +PH
+  H-PP
+  HPPH
+-+HH  
+
+$structure
+            ( 1)( 2)( 3)
+        ( 9)( 8)( 7)( 4)
+        (10)(11)( 6)( 5)
+(15)(14)(13)(12)        
+$
+
+
+---------------------------------------------
+
+#70
+
+statistics:
+E: -0.843618, V: 0.99778
+Max: 1, Min: -5.75, Low Range counter: 26
+minStructIndex: 77561
+
+Low range SDV: -4.75111
+-4.75111 26
+-5.25056 5
+-5.41704 5
+-5.50028 1
+-5.55022 1
+-5.58352 1
+-5.6073 1
+-5.62514 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:70.1
+
+[15]+HH+PHPP-PHPHH-
+
+ PP-
+PH+P
++HHH
+-HHP
+
+$structure
+    ( 7)( 8)( 9)
+( 5)( 6)( 1)(10)
+( 4)( 3)( 2)(11)
+(15)(14)(13)(12)
+$
+
+
+
+---------------------------------------------
+
+#71
+
+statistics:
+E: -1.01695, V: 0.825847
+Max: 2, Min: -5, Low Range counter: 31
+minStructIndex: 47039
+
+Low range SDV: -4.09124
+-4.09124 31
+-4.54562 4
+-4.69708 4
+-4.77281 1
+-4.81825 1
+-4.84854 1
+-4.87018 1
+-4.8864 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:71.1
+
+[15]+-PPPHHPHPH+HH-
+
+ H+  
+-HH  
+PHPP-
+HHPP+
+
+$structure
+    (13)(12)        
+(15)(14)(11)        
+( 8)( 9)(10)( 3)( 2)
+( 7)( 6)( 5)( 4)( 1)
+$
+
+
+
+---------------------------------------------
+
+#72
+
+statistics:
+E: -0.435038, V: 0.866683
+Max: 2, Min: -5, Low Range counter: 27
+minStructIndex: 70850
+
+Low range SDV: -4.06904
+-4.06904 27
+-4.53452 7
+-4.68968 7
+-4.76726 1
+-4.81381 1
+-4.84484 1
+-4.86701 1
+-4.88363 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:72.1
+
+[15]+PPHH+PHHPP-HH-
+
++HHPP+
+PHHPP-
+   -HH
+
+$structure
+( 6)( 5)( 4)( 3)( 2)( 1)
+( 7)( 8)( 9)(10)(11)(12)
+            (15)(14)(13)
+$
+
+
+
+---------------------------------------------
+
+#73
+
+statistics:
+E: -1.29987, V: 1.03684
+Max: 1, Min: -6.25, Low Range counter: 100
+minStructIndex: 27720
+
+Low range SDV: -5.23175
+-5.23175 100
+-5.74087 24
+-5.91058 14
+-5.99544 14
+-6.04635 2
+-6.08029 2
+-6.10454 2
+-6.12272 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:73.1
+
+[15]+PH-PHHHPH+PHP-
+
+ PH  
++HH  
+PHHHP
+-PP-+
+
+$structure
+    ( 9)( 8)        
+(11)(10)( 7)        
+(12)(13)( 6)( 3)( 2)
+(15)(14)( 5)( 4)( 1)
+$
+
+SN:73.2
+
+[15]+PH-PHHHPH+PHP-
+
++HPP+
+PHHH-
+-PHHP
+
+$structure
+(11)(10)( 9)( 2)( 1)
+(12)(13)( 8)( 3)( 4)
+(15)(14)( 7)( 6)( 5)
+$
+
+
+---------------------------------------------
+
+#74
+
+statistics:
+E: -0.48659, V: 0.489656
+Max: 1, Min: -4.75, Low Range counter: 1
+minStructIndex: 66590
+
+Low range SDV: -4.05025
+-4.05025 8
+-4.40012 1
+-4.51675 1
+-4.57506 1
+-4.61005 1
+-4.63337 1
+-4.65004 1
+-4.66253 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:74.1
+
+[15]+PPH-+PHPHHHPH-
+
+ +   
+PPPH 
+HPHHH
+-+-HP
+
+$structure
+    ( 1)            
+( 3)( 2)( 9)(10)    
+( 4)( 7)( 8)(11)(12)
+( 5)( 6)(15)(14)(13)
+$
+
+
+
+---------------------------------------------
+
+#75
+
+statistics:
+E: -1.03847, V: 0.860191
+Max: 1, Min: -6, Low Range counter: 18
+minStructIndex: 34345
+
+Low range SDV: -5.07254
+-5.07254 18
+-5.53627 6
+-5.69085 6
+-5.76813 3
+-5.81451 3
+-5.84542 3
+-5.86751 3
+-5.88407 3
+
+Additional minimal structures: 2
+Min structures:
+
+SN:75.1
+
+[15]+H-PPHHPHPP+HH-
+
+    +
+HPP-H
+HPP+H
+ HP-H
+
+$structure
+                ( 1)
+( 6)( 5)( 4)( 3)( 2)
+( 7)( 8)(11)(12)(13)
+    ( 9)(10)(15)(14)
+$
+
+SN:75.2
+
+[15]+H-PPHHPHPP+HH-
+
+HPP-H+
+HPP+H 
+ HP-H 
+
+$structure
+( 6)( 5)( 4)( 3)( 2)( 1)
+( 7)( 8)(11)(12)(13)    
+    ( 9)(10)(15)(14)    
+$
+SN:75.3
+
+[15]+H-PPHHPHPP+HH-
+
+     +
+HHPP-H
+PHPP+H
+    -H
+
+$structure
+                    ( 1)
+( 7)( 6)( 5)( 4)( 3)( 2)
+( 8)( 9)(10)(11)(12)(13)
+                (15)(14)
+$
+
+
+---------------------------------------------
+
+#76
+
+statistics:
+E: -1.04135, V: 0.834893
+Max: 0, Min: -5.5, Low Range counter: 102
+minStructIndex: 29140
+
+Low range SDV: -4.58628
+-4.58628 102
+-5.04314 22
+-5.19543 22
+-5.27157 8
+-5.31726 8
+-5.34771 8
+-5.36947 8
+-5.38578 8
+
+Additional minimal structures: 7
+Min structures:
+
+SN:76.1
+
+[15]+PHHHPHHPP+HP--
+
+   HP
++PPHH
+HPPHH
+--+  
+
+$structure
+            ( 7)( 6)
+(11)(10)( 9)( 8)( 5)
+(12)(13)( 2)( 3)( 4)
+(15)(14)( 1)        
+$
+
+SN:76.2
+
+[15]+PHHHPHHPP+HP--
+
++PPHHP
+HPPHHH
+--+   
+
+$structure
+(11)(10)( 9)( 8)( 7)( 6)
+(12)(13)( 2)( 3)( 4)( 5)
+(15)(14)( 1)            
+$
+SN:76.3
+
+[15]+PHHHPHHPP+HP--
+
+ PH 
+--+ 
+ +P 
+ PP 
+ HHH
+ HHP
+
+$structure
+    (13)(12)    
+(15)(14)(11)    
+    ( 1)(10)    
+    ( 2)( 9)    
+    ( 3)( 8)( 7)
+    ( 4)( 5)( 6)
+$
+SN:76.4
+
+[15]+PHHHPHHPP+HP--
+
+ PH 
+--+P
+ +PP
+  HH
+  HH
+  HP
+
+$structure
+    (13)(12)    
+(15)(14)(11)(10)
+    ( 1)( 2)( 9)
+        ( 3)( 8)
+        ( 4)( 7)
+        ( 5)( 6)
+$
+SN:76.5
+
+[15]+PHHHPHHPP+HP--
+
+ PH  
+--+P 
+ +PP 
+  HHH
+  HHP
+
+$structure
+    (13)(12)        
+(15)(14)(11)(10)    
+    ( 1)( 2)( 9)    
+        ( 3)( 8)( 7)
+        ( 4)( 5)( 6)
+$
+SN:76.6
+
+[15]+PHHHPHHPP+HP--
+
+PHHP
+P+HH
+--PH
+ +PH
+
+$structure
+( 9)( 8)( 7)( 6)
+(10)(11)(12)( 5)
+(15)(14)(13)( 4)
+    ( 1)( 2)( 3)
+$
+SN:76.7
+
+[15]+PHHHPHHPP+HP--
+
+  H+
+--PP
+ +PP
+  HH
+  HH
+  HP
+
+$structure
+        (12)(11)
+(15)(14)(13)(10)
+    ( 1)( 2)( 9)
+        ( 3)( 8)
+        ( 4)( 7)
+        ( 5)( 6)
+$
+SN:76.8
+
+[15]+PHHHPHHPP+HP--
+
+  H+ 
+--PP 
+ +PP 
+  HHH
+  HHP
+
+$structure
+        (12)(11)    
+(15)(14)(13)(10)    
+    ( 1)( 2)( 9)    
+        ( 3)( 8)( 7)
+        ( 4)( 5)( 6)
+$
+
+
+---------------------------------------------
+
+#77
+
+statistics:
+E: -0.465574, V: 0.551246
+Max: 1, Min: -4.25, Low Range counter: 94
+minStructIndex: 2183
+
+Low range SDV: -3.50754
+-3.50754 94
+-3.87877 35
+-4.00251 16
+-4.06439 16
+-4.10151 16
+-4.12626 16
+-4.14393 16
+-4.15719 16
+
+Additional minimal structures: 15
+Min structures:
+
+SN:77.1
+
+[15]+HPH+PPHP-PHHH-
+
+PH 
+PP 
++-P
+H+H
+PHH
+ -H
+
+$structure
+( 7)( 8)    
+( 6)( 9)    
+( 5)(10)(11)
+( 4)( 1)(12)
+( 3)( 2)(13)
+    (15)(14)
+$
+
+SN:77.2
+
+[15]+HPH+PPHP-PHHH-
+
+PH 
+H+ 
++-P
+PPH
+PHH
+ -H
+
+$structure
+( 3)( 2)    
+( 4)( 1)    
+( 5)(10)(11)
+( 6)( 9)(12)
+( 7)( 8)(13)
+    (15)(14)
+$
+SN:77.3
+
+[15]+HPH+PPHP-PHHH-
+
+PH+ 
+H+-P
+ PPH
+ PHH
+  -H
+
+$structure
+( 3)( 2)( 1)    
+( 4)( 5)(10)(11)
+    ( 6)( 9)(12)
+    ( 7)( 8)(13)
+        (15)(14)
+$
+SN:77.4
+
+[15]+HPH+PPHP-PHHH-
+
+  HP
+  PP
+ P-+
+ H+H
+ HHP
+-H  
+
+$structure
+        ( 8)( 7)
+        ( 9)( 6)
+    (11)(10)( 5)
+    (12)( 1)( 4)
+    (13)( 2)( 3)
+(15)(14)        
+$
+SN:77.5
+
+[15]+HPH+PPHP-PHHH-
+
+  HP
+  +H
+ P-+
+ HPP
+ HHP
+-H  
+
+$structure
+        ( 2)( 3)
+        ( 1)( 4)
+    (11)(10)( 5)
+    (12)( 9)( 6)
+    (13)( 8)( 7)
+(15)(14)        
+$
+SN:77.6
+
+[15]+HPH+PPHP-PHHH-
+
+  +HP
+ P-+H
+ HPP 
+ HHP 
+-H   
+
+$structure
+        ( 1)( 2)( 3)
+    (11)(10)( 5)( 4)
+    (12)( 9)( 6)    
+    (13)( 8)( 7)    
+(15)(14)            
+$
+SN:77.7
+
+[15]+HPH+PPHP-PHHH-
+
+PP+HP
+HP-+H
+  PHH
+   -H
+
+$structure
+( 7)( 6)( 5)( 4)( 3)
+( 8)( 9)(10)( 1)( 2)
+        (11)(12)(13)
+            (15)(14)
+$
+SN:77.8
+
+[15]+HPH+PPHP-PHHH-
+
+PH  
+H+PP
++-PH
+ PHH
+  -H
+
+$structure
+( 3)( 4)        
+( 2)( 5)( 6)( 7)
+( 1)(10)( 9)( 8)
+    (11)(12)(13)
+        (15)(14)
+$
+SN:77.9
+
+[15]+HPH+PPHP-PHHH-
+
+PH+PP
+H+-PH
+  PHH
+   -H
+
+$structure
+( 3)( 4)( 5)( 6)( 7)
+( 2)( 1)(10)( 9)( 8)
+        (11)(12)(13)
+            (15)(14)
+$
+SN:77.10
+
+[15]+HPH+PPHP-PHHH-
+
+   HP
+ PP+H
+ HP-+
+ HHP 
+-H   
+
+$structure
+            ( 4)( 3)
+    ( 7)( 6)( 5)( 2)
+    ( 8)( 9)(10)( 1)
+    (13)(12)(11)    
+(15)(14)            
+$
+SN:77.11
+
+[15]+HPH+PPHP-PHHH-
+
+ PP+HP
+ HP-+H
+ HHP  
+-H    
+
+$structure
+    ( 7)( 6)( 5)( 4)( 3)
+    ( 8)( 9)(10)( 1)( 2)
+    (13)(12)(11)        
+(15)(14)                
+$
+SN:77.12
+
+[15]+HPH+PPHP-PHHH-
+
+ PH+PP
+ H+-PH
+ HHP  
+-H    
+
+$structure
+    ( 3)( 4)( 5)( 6)( 7)
+    ( 2)( 1)(10)( 9)( 8)
+    (13)(12)(11)        
+(15)(14)                
+$
+SN:77.13
+
+[15]+HPH+PPHP-PHHH-
+
+   HP
+   PP
+  P-+
+  H+H
+-HHHP
+
+$structure
+            ( 8)( 7)
+            ( 9)( 6)
+        (11)(10)( 5)
+        (12)( 1)( 4)
+(15)(14)(13)( 2)( 3)
+$
+SN:77.14
+
+[15]+HPH+PPHP-PHHH-
+
+   HP
+   +H
+  P-+
+  HPP
+-HHHP
+
+$structure
+            ( 2)( 3)
+            ( 1)( 4)
+        (11)(10)( 5)
+        (12)( 9)( 6)
+(15)(14)(13)( 8)( 7)
+$
+SN:77.15
+
+[15]+HPH+PPHP-PHHH-
+
+   +HP
+  P-+H
+  HPP 
+-HHHP 
+
+$structure
+            ( 1)( 2)( 3)
+        (11)(10)( 5)( 4)
+        (12)( 9)( 6)    
+(15)(14)(13)( 8)( 7)    
+$
+SN:77.16
+
+[15]+HPH+PPHP-PHHH-
+
+    HP
+  PP+H
+  HP-+
+-HHHP 
+
+$structure
+                ( 4)( 3)
+        ( 7)( 6)( 5)( 2)
+        ( 8)( 9)(10)( 1)
+(15)(14)(13)(12)(11)    
+$
+
+
+---------------------------------------------
+
+#78
+
+statistics:
+E: -1.01307, V: 0.825349
+Max: 2, Min: -5.25, Low Range counter: 59
+minStructIndex: 20628
+
+Low range SDV: -4.34151
+-4.34151 59
+-4.79576 6
+-4.94717 6
+-5.02288 1
+-5.0683 1
+-5.09859 1
+-5.12022 1
+-5.13644 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:78.1
+
+[15]+-HHPPHPPPH+HH-
+
+PH 
+PP+
+PP-
+HHH
++H 
+-H 
+
+$structure
+( 8)( 7)    
+( 9)( 6)( 1)
+(10)( 5)( 2)
+(11)( 4)( 3)
+(12)(13)    
+(15)(14)    
+$
+
+
+
+---------------------------------------------
+
+#79
+
+statistics:
+E: -0.680327, V: 0.686409
+Max: 1, Min: -5.5, Low Range counter: 8
+minStructIndex: 10293
+
+Low range SDV: -4.6715
+-4.6715 22
+-5.08575 5
+-5.22383 5
+-5.29288 2
+-5.3343 2
+-5.36192 2
+-5.38164 2
+-5.39644 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:79.1
+
+[15]+H-HPPP+HHHPHP-
+
+ +  
+-HHP
+HHHH
+P+-P
+PP  
+
+$structure
+    ( 1)        
+( 3)( 2)(11)(12)
+( 4)( 9)(10)(13)
+( 5)( 8)(15)(14)
+( 6)( 7)        
+$
+
+SN:79.2
+
+[15]+H-HPPP+HHHPHP-
+
+ -H+
+PHHP
+PHHH
+P+-P
+
+$structure
+    ( 3)( 2)( 1)
+( 5)( 4)(11)(12)
+( 6)( 9)(10)(13)
+( 7)( 8)(15)(14)
+$
+
+
+---------------------------------------------
+
+#80
+
+statistics:
+E: -0.673929, V: 0.601635
+Max: 1, Min: -5, Low Range counter: 8
+minStructIndex: 56376
+
+Low range SDV: -4.22435
+-4.22435 25
+-4.61217 4
+-4.74145 4
+-4.80609 4
+-4.84487 4
+-4.87072 4
+-4.88919 4
+-4.90304 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:80.1
+
+[15]+PHHPP+-PHPHHH-
+
+ HHPH
+-HHPP
+  H+-
+  PP+
+
+$structure
+    (13)(12)(11)(10)
+(15)(14)( 3)( 2)( 9)
+        ( 4)( 1)( 8)
+        ( 5)( 6)( 7)
+$
+
+SN:80.2
+
+[15]+PHHPP+-PHPHHH-
+
+ HHPHP
+-HHP+-
+  HPP+
+
+$structure
+    (13)(12)(11)(10)( 9)
+(15)(14)( 3)( 2)( 1)( 8)
+        ( 4)( 5)( 6)( 7)
+$
+SN:80.3
+
+[15]+PHHPP+-PHPHHH-
+
++-P
+P+H
+PPP
+HHH
+-HH
+
+$structure
+( 7)( 8)( 9)
+( 6)( 1)(10)
+( 5)( 2)(11)
+( 4)( 3)(12)
+(15)(14)(13)
+$
+SN:80.4
+
+[15]+PHHPP+-PHPHHH-
+
++-PH
+P+PP
+PHHH
+ -HH
+
+$structure
+( 7)( 8)( 9)(10)
+( 6)( 1)( 2)(11)
+( 5)( 4)( 3)(12)
+    (15)(14)(13)
+$
+
+
+---------------------------------------------
+
+#81
+
+statistics:
+E: -0.487547, V: 0.772862
+Max: 2, Min: -5.5, Low Range counter: 7
+minStructIndex: 10476
+
+Low range SDV: -4.62087
+-4.62087 7
+-5.06044 5
+-5.20696 5
+-5.28022 4
+-5.32417 4
+-5.35348 4
+-5.37441 4
+-5.39011 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:81.1
+
+[15]+PPHHHPHH+P-PH-
+
+ PP+
+HHP-
+HH+P
+PH-H
+
+$structure
+    ( 3)( 2)( 1)
+( 5)( 4)(11)(12)
+( 6)( 9)(10)(13)
+( 7)( 8)(15)(14)
+$
+
+SN:81.2
+
+[15]+PPHHHPHH+P-PH-
+
+  PP+
+HHHP-
+PHH+P
+   -H
+
+$structure
+        ( 3)( 2)( 1)
+( 6)( 5)( 4)(11)(12)
+( 7)( 8)( 9)(10)(13)
+            (15)(14)
+$
+SN:81.3
+
+[15]+PPHHHPHH+P-PH-
+
+HHPP+
+HH+P-
+PH-HP
+
+$structure
+( 5)( 4)( 3)( 2)( 1)
+( 6)( 9)(10)(11)(12)
+( 7)( 8)(15)(14)(13)
+$
+SN:81.4
+
+[15]+PPHHHPHH+P-PH-
+
+HHHPP+
+PHH+P-
+   -HP
+
+$structure
+( 6)( 5)( 4)( 3)( 2)( 1)
+( 7)( 8)( 9)(10)(11)(12)
+            (15)(14)(13)
+$
+
+
+---------------------------------------------
+
+#82
+
+statistics:
+E: -1.12426, V: 0.818709
+Max: 1, Min: -5.25, Low Range counter: 92
+minStructIndex: 17038
+
+Low range SDV: -4.34517
+-4.34517 92
+-4.79759 11
+-4.94839 11
+-5.02379 2
+-5.06903 2
+-5.0992 2
+-5.12074 2
+-5.1369 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:82.1
+
+[15]+HHPHPPH-PHHP+-
+
+ HHH+
+ PPHP
+-+-HH
+   PP
+
+$structure
+    (12)(11)( 2)( 1)
+    (13)(10)( 3)( 4)
+(15)(14)( 9)( 8)( 5)
+            ( 7)( 6)
+$
+
+SN:82.2
+
+[15]+HHPHPPH-PHHP+-
+
+PHP+
+PHHH
+ -PH
+-+PH
+
+$structure
+( 6)( 5)( 4)( 1)
+( 7)( 8)( 3)( 2)
+    ( 9)(10)(11)
+(15)(14)(13)(12)
+$
+
+
+---------------------------------------------
+
+#83
+
+statistics:
+E: -0.771637, V: 0.642517
+Max: 1, Min: -5.25, Low Range counter: 8
+minStructIndex: 67538
+
+Low range SDV: -4.44843
+-4.44843 13
+-4.84921 8
+-4.98281 8
+-5.04961 1
+-5.08969 1
+-5.1164 1
+-5.13549 1
+-5.1498 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:83.1
+
+[15]+-PHHHPPHHPH+P-
+
+  PP
+ HHH
+ PHH
+-P+H
+ +-P
+
+$structure
+        ( 8)( 7)
+    (10)( 9)( 6)
+    (11)(12)( 5)
+(15)(14)(13)( 4)
+    ( 1)( 2)( 3)
+$
+
+
+
+---------------------------------------------
+
+#84
+
+statistics:
+E: -0.692881, V: 0.684942
+Max: 2, Min: -4.75, Low Range counter: 50
+minStructIndex: 19430
+
+Low range SDV: -3.92239
+-3.92239 141
+-4.33619 24
+-4.47413 24
+-4.5431 16
+-4.58448 16
+-4.61206 16
+-4.63177 16
+-4.64655 16
+
+Additional minimal structures: 15
+Min structures:
+
+SN:84.1
+
+[15]+-HHHHPPHHPPP+-
+
+    +
+    -
+ PPHH
+ PPHH
+-+PHH
+
+$structure
+                ( 1)
+                ( 2)
+    (12)(11)(10)( 3)
+    (13)( 8)( 9)( 4)
+(15)(14)( 7)( 6)( 5)
+$
+
+SN:84.2
+
+[15]+-HHHHPPHHPPP+-
+
+   +-
+ PPHH
+ PPHH
+-+PHH
+
+$structure
+            ( 1)( 2)
+    (12)(11)(10)( 3)
+    (13)( 8)( 9)( 4)
+(15)(14)( 7)( 6)( 5)
+$
+SN:84.3
+
+[15]+-HHHHPPHHPPP+-
+
+    -+
+ PPHH 
+ PPHH 
+-+PHH 
+
+$structure
+                ( 2)( 1)
+    (12)(11)(10)( 3)    
+    (13)( 8)( 9)( 4)    
+(15)(14)( 7)( 6)( 5)    
+$
+SN:84.4
+
+[15]+-HHHHPPHHPPP+-
+
+     +
+ PPHH-
+ PPHH 
+-+PHH 
+
+$structure
+                    ( 1)
+    (12)(11)(10)( 3)( 2)
+    (13)( 8)( 9)( 4)    
+(15)(14)( 7)( 6)( 5)    
+$
+SN:84.5
+
+[15]+-HHHHPPHHPPP+-
+
+ PPHH-
+ PPHH+
+-+PHH 
+
+$structure
+    (12)(11)(10)( 3)( 2)
+    (13)( 8)( 9)( 4)( 1)
+(15)(14)( 7)( 6)( 5)    
+$
+SN:84.6
+
+[15]+-HHHHPPHHPPP+-
+
++-  
+ HHH
+ HHH
+ PPP
+ PP 
+ -+ 
+
+$structure
+( 1)( 2)        
+    ( 3)( 4)( 5)
+    (10)( 9)( 6)
+    (11)( 8)( 7)
+    (12)(13)    
+    (15)(14)    
+$
+SN:84.7
+
+[15]+-HHHHPPHHPPP+-
+
+-+ 
+HHH
+HHH
+PPP
+PP 
+-+ 
+
+$structure
+( 2)( 1)    
+( 3)( 4)( 5)
+(10)( 9)( 6)
+(11)( 8)( 7)
+(12)(13)    
+(15)(14)    
+$
+SN:84.8
+
+[15]+-HHHHPPHHPPP+-
+
++   
+-HHH
+ HHH
+ PPP
+ PP 
+ -+ 
+
+$structure
+( 1)            
+( 2)( 3)( 4)( 5)
+    (10)( 9)( 6)
+    (11)( 8)( 7)
+    (12)(13)    
+    (15)(14)    
+$
+SN:84.9
+
+[15]+-HHHHPPHHPPP+-
+
+-HHH
++HHH
+ PPP
+ PP 
+ -+ 
+
+$structure
+( 2)( 3)( 4)( 5)
+( 1)(10)( 9)( 6)
+    (11)( 8)( 7)
+    (12)(13)    
+    (15)(14)    
+$
+SN:84.10
+
+[15]+-HHHHPPHHPPP+-
+
++-HHH
+  HHH
+  PPP
+  PP 
+  -+ 
+
+$structure
+( 1)( 2)( 3)( 4)( 5)
+        (10)( 9)( 6)
+        (11)( 8)( 7)
+        (12)(13)    
+        (15)(14)    
+$
+SN:84.11
+
+[15]+-HHHHPPHHPPP+-
+
+   +
+   -
+ HHH
+ HHH
+ PPP
+-+PP
+
+$structure
+            ( 1)
+            ( 2)
+    ( 5)( 4)( 3)
+    ( 6)( 9)(10)
+    ( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+SN:84.12
+
+[15]+-HHHHPPHHPPP+-
+
+  +-
+ HHH
+ HHH
+ PPP
+-+PP
+
+$structure
+        ( 1)( 2)
+    ( 5)( 4)( 3)
+    ( 6)( 9)(10)
+    ( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+SN:84.13
+
+[15]+-HHHHPPHHPPP+-
+
+   -+
+ HHH 
+ HHH 
+ PPP 
+-+PP 
+
+$structure
+            ( 2)( 1)
+    ( 5)( 4)( 3)    
+    ( 6)( 9)(10)    
+    ( 7)( 8)(11)    
+(15)(14)(13)(12)    
+$
+SN:84.14
+
+[15]+-HHHHPPHHPPP+-
+
+    +
+ HHH-
+ HHH 
+ PPP 
+-+PP 
+
+$structure
+                ( 1)
+    ( 5)( 4)( 3)( 2)
+    ( 6)( 9)(10)    
+    ( 7)( 8)(11)    
+(15)(14)(13)(12)    
+$
+SN:84.15
+
+[15]+-HHHHPPHHPPP+-
+
+ HHH-
+ HHH+
+ PPP 
+-+PP 
+
+$structure
+    ( 5)( 4)( 3)( 2)
+    ( 6)( 9)(10)( 1)
+    ( 7)( 8)(11)    
+(15)(14)(13)(12)    
+$
+SN:84.16
+
+[15]+-HHHHPPHHPPP+-
+
+ HHH-+
+ HHH  
+ PPP  
+-+PP  
+
+$structure
+    ( 5)( 4)( 3)( 2)( 1)
+    ( 6)( 9)(10)        
+    ( 7)( 8)(11)        
+(15)(14)(13)(12)        
+$
+
+
+---------------------------------------------
+
+#85
+
+statistics:
+E: -0.850239, V: 0.850273
+Max: 2, Min: -5.25, Low Range counter: 38
+minStructIndex: 10387
+
+Low range SDV: -4.3279
+-4.3279 38
+-4.78895 8
+-4.94263 8
+-5.01947 3
+-5.06558 3
+-5.09632 3
+-5.11827 3
+-5.13474 3
+
+Additional minimal structures: 2
+Min structures:
+
+SN:85.1
+
+[15]+PP-HPH+HHHPHP-
+
+ HP 
+HHH 
++-P 
+HPPP
+ H-+
+
+$structure
+    (11)(12)    
+( 9)(10)(13)    
+( 8)(15)(14)    
+( 7)( 6)( 3)( 2)
+    ( 5)( 4)( 1)
+$
+
+SN:85.2
+
+[15]+PP-HPH+HHHPHP-
+
+P+ 
+P- 
+PH 
+HHH
++HP
+-PH
+
+$structure
+( 2)( 1)    
+( 3)( 4)    
+( 6)( 5)    
+( 7)(10)(11)
+( 8)( 9)(12)
+(15)(14)(13)
+$
+SN:85.3
+
+[15]+PP-HPH+HHHPHP-
+
+ P+ 
+ P- 
+HPH 
++HHH
+-PHP
+
+$structure
+    ( 2)( 1)    
+    ( 3)( 4)    
+( 7)( 6)( 5)    
+( 8)( 9)(10)(11)
+(15)(14)(13)(12)
+$
+
+
+---------------------------------------------
+
+#86
+
+statistics:
+E: -1.19673, V: 1.0456
+Max: 2, Min: -6.25, Low Range counter: 62
+minStructIndex: 20628
+
+Low range SDV: -5.22745
+-5.22745 62
+-5.73873 6
+-5.90915 5
+-5.99436 5
+-6.04549 2
+-6.07958 2
+-6.10392 2
+-6.12218 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:86.1
+
+[15]+PPHP-HHPPH+HH-
+
+HH 
+P-+
+PPP
+HHP
++H 
+-H 
+
+$structure
+( 8)( 7)    
+( 9)( 6)( 1)
+(10)( 5)( 2)
+(11)( 4)( 3)
+(12)(13)    
+(15)(14)    
+$
+
+SN:86.2
+
+[15]+PPHP-HHPPH+HH-
+
+ H-+
+PHPP
+PHHP
+ +H 
+ -H 
+
+$structure
+    ( 7)( 6)( 1)
+( 9)( 8)( 5)( 2)
+(10)(11)( 4)( 3)
+    (12)(13)    
+    (15)(14)    
+$
+
+
+---------------------------------------------
+
+#87
+
+statistics:
+E: -0.612114, V: 0.388157
+Max: 0, Min: -4, Low Range counter: 69
+minStructIndex: 1045
+
+Low range SDV: -3.37698
+-3.37698 97
+-3.68849 69
+-3.79233 17
+-3.84424 17
+-3.8754 17
+-3.89616 17
+-3.911 17
+-3.92212 17
+
+Additional minimal structures: 16
+Min structures:
+
+SN:87.1
+
+[15]+HHPPPPH+P-HHH-
+
+  +P
+PPH-
+PPHH
+ +HH
+  -H
+
+$structure
+        ( 9)(10)
+( 6)( 7)( 8)(11)
+( 5)( 4)( 3)(12)
+    ( 1)( 2)(13)
+        (15)(14)
+$
+
+SN:87.2
+
+[15]+HHPPPPH+P-HHH-
+
+ P+  
+ -HPP
+ HHPP
+ HH+ 
+-H   
+
+$structure
+    (10)( 9)        
+    (11)( 8)( 7)( 6)
+    (12)( 3)( 4)( 5)
+    (13)( 2)( 1)    
+(15)(14)            
+$
+SN:87.3
+
+[15]+HHPPPPH+P-HHH-
+
+ -P  
+ H+  
+ HHPP
+-HHPP
+  H+ 
+
+$structure
+    (11)(10)        
+    (12)( 9)        
+    (13)( 8)( 7)( 6)
+(15)(14)( 3)( 4)( 5)
+        ( 2)( 1)    
+$
+SN:87.4
+
+[15]+HHPPPPH+P-HHH-
+
+P+HPP
+-HHPP
+ HH+ 
+-H   
+
+$structure
+(10)( 9)( 8)( 7)( 6)
+(11)(12)( 3)( 4)( 5)
+    (13)( 2)( 1)    
+(15)(14)            
+$
+SN:87.5
+
+[15]+HHPPPPH+P-HHH-
+
+PPH+P
+PPHH-
+ +HH 
+  -H 
+
+$structure
+( 6)( 7)( 8)( 9)(10)
+( 5)( 4)( 3)(12)(11)
+    ( 1)( 2)(13)    
+        (15)(14)    
+$
+SN:87.6
+
+[15]+HHPPPPH+P-HHH-
+
+-P+  
+HHHPP
+-HHPP
+  H+ 
+
+$structure
+(11)(10)( 9)        
+(12)(13)( 8)( 7)( 6)
+(15)(14)( 3)( 4)( 5)
+        ( 2)( 1)    
+$
+SN:87.7
+
+[15]+HHPPPPH+P-HHH-
+
+ PP 
+ PP+
++HHH
+P-HH
+  -H
+
+$structure
+    ( 6)( 5)    
+    ( 7)( 4)( 1)
+( 9)( 8)( 3)( 2)
+(10)(11)(12)(13)
+        (15)(14)
+$
+SN:87.8
+
+[15]+HHPPPPH+P-HHH-
+
+  PP
+ +PP
+ HHH
+ HH+
+-H-P
+
+$structure
+        ( 5)( 6)
+    ( 1)( 4)( 7)
+    ( 2)( 3)( 8)
+    (13)(12)( 9)
+(15)(14)(11)(10)
+$
+SN:87.9
+
+[15]+HHPPPPH+P-HHH-
+
+  PP 
+ +PP 
+ HHH+
+ HH-P
+-H   
+
+$structure
+        ( 5)( 6)    
+    ( 1)( 4)( 7)    
+    ( 2)( 3)( 8)( 9)
+    (13)(12)(11)(10)
+(15)(14)            
+$
+SN:87.10
+
+[15]+HHPPPPH+P-HHH-
+
+    +H
+ HH-PP
+-HHPPP
+  H+  
+
+$structure
+                ( 9)( 8)
+    (13)(12)(11)(10)( 7)
+(15)(14)( 3)( 4)( 5)( 6)
+        ( 2)( 1)        
+$
+SN:87.11
+
+[15]+HHPPPPH+P-HHH-
+
+ PPH
+ PP+
++P- 
+HHH 
+-HH 
+
+$structure
+    ( 6)( 7)( 8)
+    ( 5)(10)( 9)
+( 1)( 4)(11)    
+( 2)( 3)(12)    
+(15)(14)(13)    
+$
+SN:87.12
+
+[15]+HHPPPPH+P-HHH-
+
+  P+  
+  -HPP
+  HHPP
+-HHH+ 
+
+$structure
+        (10)( 9)        
+        (11)( 8)( 7)( 6)
+        (12)( 3)( 4)( 5)
+(15)(14)(13)( 2)( 1)    
+$
+SN:87.13
+
+[15]+HHPPPPH+P-HHH-
+
+ P+HPP
+ -HHPP
+-HHH+ 
+
+$structure
+    (10)( 9)( 8)( 7)( 6)
+    (11)(12)( 3)( 4)( 5)
+(15)(14)(13)( 2)( 1)    
+$
+SN:87.14
+
+[15]+HHPPPPH+P-HHH-
+
+  H-
+-HHP
+HHH+
++PP 
+ PP 
+
+$structure
+        (12)(11)
+(15)(14)(13)(10)
+( 2)( 3)( 8)( 9)
+( 1)( 4)( 7)    
+    ( 5)( 6)    
+$
+SN:87.15
+
+[15]+HHPPPPH+P-HHH-
+
+   -P
+-HHH+
+  HHH
+  +PP
+   PP
+
+$structure
+            (11)(10)
+(15)(14)(13)(12)( 9)
+        ( 2)( 3)( 8)
+        ( 1)( 4)( 7)
+            ( 5)( 6)
+$
+SN:87.16
+
+[15]+HHPPPPH+P-HHH-
+
+ PP  
++PP  
+HHH+P
+-HHH-
+
+$structure
+    ( 5)( 6)        
+( 1)( 4)( 7)        
+( 2)( 3)( 8)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+SN:87.17
+
+[15]+HHPPPPH+P-HHH-
+
+   PP 
+  +PP 
+  HHH+
+-HHH-P
+
+$structure
+            ( 5)( 6)    
+        ( 1)( 4)( 7)    
+        ( 2)( 3)( 8)( 9)
+(15)(14)(13)(12)(11)(10)
+$
+
+
+---------------------------------------------
+
+#88
+
+statistics:
+E: -0.864465, V: 0.921918
+Max: 2, Min: -7, Low Range counter: 9
+minStructIndex: 69397
+
+Low range SDV: -6.03983
+-6.03983 9
+-6.51992 1
+-6.67994 1
+-6.75996 1
+-6.80797 1
+-6.83997 1
+-6.86283 1
+-6.87998 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:88.1
+
+[15]+HHHH-PHH+PPPP-
+
+HH+
+HH-
+HHP
++PP
+-PP
+
+$structure
+( 3)( 2)( 1)
+( 4)( 5)( 6)
+( 9)( 8)( 7)
+(10)(11)(12)
+(15)(14)(13)
+$
+
+
+
+---------------------------------------------
+
+#89
+
+statistics:
+E: -0.88007, V: 0.829158
+Max: 2, Min: -5.75, Low Range counter: 23
+minStructIndex: 21473
+
+Low range SDV: -4.83942
+-4.83942 23
+-5.29471 5
+-5.44647 5
+-5.52235 1
+-5.56788 1
+-5.59824 1
+-5.61992 1
+-5.63618 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:89.1
+
+[15]+HHHPPHPP-H+HP-
+
+PPHP
+-+HP
+HHH 
++H  
+-P  
+
+$structure
+( 9)( 8)( 7)( 6)
+(10)( 1)( 4)( 5)
+(11)( 2)( 3)    
+(12)(13)        
+(15)(14)        
+$
+
+
+
+---------------------------------------------
+
+#90
+
+statistics:
+E: -0.387982, V: 0.21094
+Max: 0, Min: -3, Low Range counter: 14
+minStructIndex: 24470
+
+Low range SDV: -2.54072
+-2.54072 94
+-2.77036 14
+-2.84691 14
+-2.88518 14
+-2.90814 14
+-2.92345 14
+-2.93439 14
+-2.94259 14
+
+Additional minimal structures: 13
+Min structures:
+
+SN:90.1
+
+[15]+HPH-H+PPPPHHH-
+
+ +H 
+PP- 
+PPHP
+ HHH
+ -H+
+
+$structure
+    ( 7)( 6)    
+( 9)( 8)( 5)    
+(10)(11)( 4)( 3)
+    (12)(13)( 2)
+    (15)(14)( 1)
+$
+
+SN:90.2
+
+[15]+HPH-H+PPPPHHH-
+
+ +H  
+PP-  
+PPHP 
+ HHH+
+ -H  
+
+$structure
+    ( 7)( 6)        
+( 9)( 8)( 5)        
+(10)(11)( 4)( 3)    
+    (12)(13)( 2)( 1)
+    (15)(14)        
+$
+SN:90.3
+
+[15]+HPH-H+PPPPHHH-
+
++H-HP
+PPHHH
+PP-H+
+
+$structure
+( 7)( 6)( 5)( 4)( 3)
+( 8)(11)(12)(13)( 2)
+( 9)(10)(15)(14)( 1)
+$
+SN:90.4
+
+[15]+HPH-H+PPPPHHH-
+
++H-HP 
+PPHHH+
+PP-H  
+
+$structure
+( 7)( 6)( 5)( 4)( 3)    
+( 8)(11)(12)(13)( 2)( 1)
+( 9)(10)(15)(14)        
+$
+SN:90.5
+
+[15]+HPH-H+PPPPHHH-
+
+ +H  
+PP-HP
+PPHHH
+  -H+
+
+$structure
+    ( 7)( 6)        
+( 9)( 8)( 5)( 4)( 3)
+(10)(11)(12)(13)( 2)
+        (15)(14)( 1)
+$
+SN:90.6
+
+[15]+HPH-H+PPPPHHH-
+
+ +H   
+PP-HP 
+PPHHH+
+  -H  
+
+$structure
+    ( 7)( 6)            
+( 9)( 8)( 5)( 4)( 3)    
+(10)(11)(12)(13)( 2)( 1)
+        (15)(14)        
+$
+SN:90.7
+
+[15]+HPH-H+PPPPHHH-
+
+  H+ 
+  -PP
+ PHPP
++HHH 
+ -H  
+
+$structure
+        ( 6)( 7)    
+        ( 5)( 8)( 9)
+    ( 3)( 4)(11)(10)
+( 1)( 2)(13)(12)    
+    (15)(14)        
+$
+SN:90.8
+
+[15]+HPH-H+PPPPHHH-
+
+   H+ 
+ PH-PP
++HHHPP
+ -H   
+
+$structure
+            ( 6)( 7)    
+    ( 3)( 4)( 5)( 8)( 9)
+( 1)( 2)(13)(12)(11)(10)
+    (15)(14)            
+$
+SN:90.9
+
+[15]+HPH-H+PPPPHHH-
+
+  PP 
+  PP+
+  H-H
+-HHH 
+  HP 
+  +  
+
+$structure
+        (10)( 9)    
+        (11)( 8)( 7)
+        (12)( 5)( 6)
+(15)(14)(13)( 4)    
+        ( 2)( 3)    
+        ( 1)        
+$
+SN:90.10
+
+[15]+HPH-H+PPPPHHH-
+
+  PP 
+  PP+
+  H-H
+-HHH 
+ +HP 
+
+$structure
+        (10)( 9)    
+        (11)( 8)( 7)
+        (12)( 5)( 6)
+(15)(14)(13)( 4)    
+    ( 1)( 2)( 3)    
+$
+SN:90.11
+
+[15]+HPH-H+PPPPHHH-
+
+PP+H
+PPH-
+-HHH
+  HP
+  + 
+
+$structure
+( 9)( 8)( 7)( 6)
+(10)(11)(12)( 5)
+(15)(14)(13)( 4)
+        ( 2)( 3)
+        ( 1)    
+$
+SN:90.12
+
+[15]+HPH-H+PPPPHHH-
+
+PP+H
+PPH-
+-HHH
+ +HP
+
+$structure
+( 9)( 8)( 7)( 6)
+(10)(11)(12)( 5)
+(15)(14)(13)( 4)
+    ( 1)( 2)( 3)
+$
+SN:90.13
+
+[15]+HPH-H+PPPPHHH-
+
+   PP 
+  HPP+
+-HHH-H
+  HP  
+  +   
+
+$structure
+            (10)( 9)    
+        (12)(11)( 8)( 7)
+(15)(14)(13)( 4)( 5)( 6)
+        ( 2)( 3)        
+        ( 1)            
+$
+SN:90.14
+
+[15]+HPH-H+PPPPHHH-
+
+   PP 
+  HPP+
+-HHH-H
+ +HP  
+
+$structure
+            (10)( 9)    
+        (12)(11)( 8)( 7)
+(15)(14)(13)( 4)( 5)( 6)
+    ( 1)( 2)( 3)        
+$
+
+
+---------------------------------------------
+
+#91
+
+statistics:
+E: -1.10023, V: 0.802209
+Max: 0, Min: -6, Low Range counter: 10
+minStructIndex: 5875
+
+Low range SDV: -5.10434
+-5.10434 10
+-5.55217 4
+-5.70145 4
+-5.77608 4
+-5.82087 4
+-5.85072 4
+-5.87205 4
+-5.88804 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:91.1
+
+[15]+HHPHPPHHPPH+--
+
+ PPPP
+ HHHH
+ +HHP
+--+  
+
+$structure
+    (11)(10)( 7)( 6)
+    (12)( 9)( 8)( 5)
+    (13)( 2)( 3)( 4)
+(15)(14)( 1)        
+$
+
+SN:91.2
+
+[15]+HHPHPPHHPPH+--
+
+  PPPP
+ +HHHH
+--+HHP
+
+$structure
+        (11)(10)( 7)( 6)
+    (13)(12)( 9)( 8)( 5)
+(15)(14)( 1)( 2)( 3)( 4)
+$
+SN:91.3
+
+[15]+HHPHPPHHPPH+--
+
+ PHP
+ HHP
+ HHP
+ +HP
+--+ 
+
+$structure
+    ( 4)( 5)( 6)
+    ( 3)( 8)( 7)
+    ( 2)( 9)(10)
+    ( 1)(12)(11)
+(15)(14)(13)    
+$
+SN:91.4
+
+[15]+HHPHPPHHPPH+--
+
+  PHP
+  HHP
+ +HHP
+--+HP
+
+$structure
+        ( 4)( 5)( 6)
+        ( 3)( 8)( 7)
+    ( 1)( 2)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+---------------------------------------------
+
+#92
+
+statistics:
+E: -0.683732, V: 0.551699
+Max: 1, Min: -4.5, Low Range counter: 17
+minStructIndex: 58819
+
+Low range SDV: -3.75724
+-3.75724 17
+-4.12862 8
+-4.25241 1
+-4.31431 1
+-4.35145 1
+-4.37621 1
+-4.39389 1
+-4.40715 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:92.1
+
+[15]+PPHPP-HHHHHP+-
+
+PHHH
+PPHH
++P-H
+ -+P
+
+$structure
+( 3)( 4)( 9)(10)
+( 2)( 5)( 8)(11)
+( 1)( 6)( 7)(12)
+    (15)(14)(13)
+$
+
+
+
+---------------------------------------------
+
+#93
+
+statistics:
+E: -0.981281, V: 0.989437
+Max: 2, Min: -6.5, Low Range counter: 8
+minStructIndex: 28809
+
+Low range SDV: -5.5053
+-5.5053 8
+-6.00265 3
+-6.16843 3
+-6.25132 1
+-6.30106 1
+-6.33422 1
+-6.3579 1
+-6.37566 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:93.1
+
+[15]+HHPPHHPH-H+PP-
+
+ +HHP
+H-HHP
++PPH 
+-P   
+
+$structure
+    ( 1)( 2)( 3)( 4)
+(11)(10)( 9)( 6)( 5)
+(12)(13)( 8)( 7)    
+(15)(14)            
+$
+
+
+
+---------------------------------------------
+
+#94
+
+statistics:
+E: -0.763704, V: 0.809349
+Max: 1, Min: -5.75, Low Range counter: 15
+minStructIndex: 73891
+
+Low range SDV: -4.85036
+-4.85036 15
+-5.30018 4
+-5.45012 4
+-5.52509 4
+-5.57007 4
+-5.60006 4
+-5.62148 4
+-5.63755 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:94.1
+
+[15]+HPP-+PHHHHPHP-
+
+  PH
+-PHH
++PHH
+-PPH
+   +
+
+$structure
+        (12)(11)
+(15)(14)(13)(10)
+( 6)( 7)( 8)( 9)
+( 5)( 4)( 3)( 2)
+            ( 1)
+$
+
+SN:94.2
+
+[15]+HPP-+PHHHHPHP-
+
+  PH 
+-PHH 
++PHH 
+-PPH+
+
+$structure
+        (12)(11)    
+(15)(14)(13)(10)    
+( 6)( 7)( 8)( 9)    
+( 5)( 4)( 3)( 2)( 1)
+$
+SN:94.3
+
+[15]+HPP-+PHHHHPHP-
+
+  + 
+ PH 
+-PHH
++PHH
+-PHP
+
+$structure
+        ( 1)    
+    ( 3)( 2)    
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+SN:94.4
+
+[15]+HPP-+PHHHHPHP-
+
+ PH+
+-PHH
++PHH
+-PHP
+
+$structure
+    ( 3)( 2)( 1)
+( 5)( 4)( 9)(10)
+( 6)( 7)( 8)(11)
+(15)(14)(13)(12)
+$
+
+
+---------------------------------------------
+
+#95
+
+statistics:
+E: -0.786275, V: 0.632586
+Max: 0, Min: -5, Low Range counter: 66
+minStructIndex: 28053
+
+Low range SDV: -4.20465
+-4.20465 92
+-4.60232 31
+-4.73488 31
+-4.80116 6
+-4.84093 6
+-4.86744 6
+-4.88638 6
+-4.90058 6
+
+Additional minimal structures: 5
+Min structures:
+
+SN:95.1
+
+[15]+HHP-PPHPH+HHP-
+
+ PHPP
++HHP-
+HHH  
+-P+  
+
+$structure
+    ( 9)( 8)( 7)( 6)
+(11)(10)( 3)( 4)( 5)
+(12)(13)( 2)        
+(15)(14)( 1)        
+$
+
+SN:95.2
+
+[15]+HHP-PPHPH+HHP-
+
+ PHPP
++HHP-
+HHH+ 
+-P   
+
+$structure
+    ( 9)( 8)( 7)( 6)
+(11)(10)( 3)( 4)( 5)
+(12)(13)( 2)( 1)    
+(15)(14)            
+$
+SN:95.3
+
+[15]+HHP-PPHPH+HHP-
+
+PPHP 
+-PHH+
+ +HHH
+  -P 
+
+$structure
+( 6)( 7)( 8)( 9)    
+( 5)( 4)( 3)(10)(11)
+    ( 1)( 2)(13)(12)
+        (15)(14)    
+$
+SN:95.4
+
+[15]+HHP-PPHPH+HHP-
+
+  H+
+-PHH
+PPHP
+-PH 
+ +H 
+
+$structure
+        (12)(11)
+(15)(14)(13)(10)
+( 6)( 7)( 8)( 9)
+( 5)( 4)( 3)    
+    ( 1)( 2)    
+$
+SN:95.5
+
+[15]+HHP-PPHPH+HHP-
+
+  H+ 
+-PHHP
+  HHH
+  +PP
+   -P
+
+$structure
+        (12)(11)    
+(15)(14)(13)(10)( 9)
+        ( 2)( 3)( 8)
+        ( 1)( 4)( 7)
+            ( 5)( 6)
+$
+SN:95.6
+
+[15]+HHP-PPHPH+HHP-
+
+  H+ 
+-PHHP
+ +HHH
+   PP
+   -P
+
+$structure
+        (12)(11)    
+(15)(14)(13)(10)( 9)
+    ( 1)( 2)( 3)( 8)
+            ( 4)( 7)
+            ( 5)( 6)
+$
+
+
+---------------------------------------------
+
+#96
+
+statistics:
+E: -0.870555, V: 0.826549
+Max: 2, Min: -5.75, Low Range counter: 40
+minStructIndex: 68523
+
+Low range SDV: -4.84085
+-4.84085 40
+-5.29543 20
+-5.44695 20
+-5.52271 2
+-5.56817 2
+-5.59848 2
+-5.62012 2
+-5.63636 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:96.1
+
+[15]+-HHHPHHP+PHPP-
+
+HH  
+PPHH
++PHH
+-PP-
+   +
+
+$structure
+( 8)( 7)        
+( 9)( 6)( 5)( 4)
+(10)(11)(12)( 3)
+(15)(14)(13)( 2)
+            ( 1)
+$
+
+SN:96.2
+
+[15]+-HHHPHHP+PHPP-
+
+HH   
+PPHH 
++PHH 
+-PP-+
+
+$structure
+( 8)( 7)            
+( 9)( 6)( 5)( 4)    
+(10)(11)(12)( 3)    
+(15)(14)(13)( 2)( 1)
+$
+
+
+---------------------------------------------
+
+#97
+
+statistics:
+E: -0.888394, V: 0.63046
+Max: 0, Min: -5, Low Range counter: 38
+minStructIndex: 22926
+
+Low range SDV: -4.20598
+-4.20598 54
+-4.60299 24
+-4.73533 24
+-4.8015 4
+-4.8412 4
+-4.86766 4
+-4.88657 4
+-4.90075 4
+
+Additional minimal structures: 3
+Min structures:
+
+SN:97.1
+
+[15]+H+HHH-PHPPPPH-
+
+ +H
++HH
+PHH
+PP-
+PP 
+-H 
+
+$structure
+    ( 3)( 4)
+( 1)( 2)( 5)
+(10)( 9)( 6)
+(11)( 8)( 7)
+(12)(13)    
+(15)(14)    
+$
+
+SN:97.2
+
+[15]+H+HHH-PHPPPPH-
+
+-HHH
+PHH+
+PP+ 
+PP  
+-H  
+
+$structure
+( 7)( 6)( 5)( 4)
+( 8)( 9)( 2)( 3)
+(11)(10)( 1)    
+(12)(13)        
+(15)(14)        
+$
+SN:97.3
+
+[15]+H+HHH-PHPPPPH-
+
+  +H
+ +HH
+PPHH
+PPP-
+-H  
+
+$structure
+        ( 3)( 4)
+    ( 1)( 2)( 5)
+(11)(10)( 9)( 6)
+(12)(13)( 8)( 7)
+(15)(14)        
+$
+SN:97.4
+
+[15]+H+HHH-PHPPPPH-
+
+H+  
+HH+ 
+HHPP
+-PPP
+ -H 
+
+$structure
+( 4)( 3)        
+( 5)( 2)( 1)    
+( 6)( 9)(10)(11)
+( 7)( 8)(13)(12)
+    (15)(14)    
+$
+
+
+---------------------------------------------
+
+#98
+
+statistics:
+E: -1.10352, V: 0.965252
+Max: 2, Min: -6.5, Low Range counter: 12
+minStructIndex: 28762
+
+Low range SDV: -5.51753
+-5.51753 12
+-6.00876 4
+-6.17251 4
+-6.25438 2
+-6.30351 2
+-6.33625 2
+-6.35965 2
+-6.37719 2
+
+Additional minimal structures: 1
+Min structures:
+
+SN:98.1
+
+[15]+HHPHHPPH-H+PP-
+
+  HP
+ +HH
+H-HH
++PPP
+-P  
+
+$structure
+        ( 3)( 4)
+    ( 1)( 2)( 5)
+(11)(10)( 9)( 6)
+(12)(13)( 8)( 7)
+(15)(14)        
+$
+
+SN:98.2
+
+[15]+HHPHHPPH-H+PP-
+
+ +HHP
+H-HHH
++PPP 
+-P   
+
+$structure
+    ( 1)( 2)( 3)( 4)
+(11)(10)( 9)( 6)( 5)
+(12)(13)( 8)( 7)    
+(15)(14)            
+$
+
+
+---------------------------------------------
+
+#99
+
+statistics:
+E: -0.801767, V: 0.573361
+Max: 1, Min: -5, Low Range counter: 21
+minStructIndex: 85040
+
+Low range SDV: -4.24279
+-4.24279 41
+-4.6214 7
+-4.7476 7
+-4.8107 1
+-4.84856 1
+-4.8738 1
+-4.89183 1
+-4.90535 1
+
+Additional minimal structures: 0
+Min structures:
+
+SN:99.1
+
+[15]+HHPPP-HHPHHP+-
+
+PPHH+
+P-HHP
+-+PHH
+
+$structure
+( 5)( 4)( 3)( 2)( 1)
+( 6)( 7)( 8)( 9)(10)
+(15)(14)(13)(12)(11)
+$
+
+
+
+---------------------------------------------
+No more sequences in file: ../seqSeeker/my_100_15mer_sequence_permutations.seq .
+Max size:100

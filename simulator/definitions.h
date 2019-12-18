@@ -1,0 +1,38 @@
+//definitions.h
+ 
+#ifndef PCSIMU_DEFINITIONS
+#define PCSIMU_DEFINITIONS
+
+#define BOX_SPACE 0	//have to be zero !!!
+
+#define WINDOW_SIZE_AVERAGE	1000
+
+#define ALPHA 0.999//0.99
+#define ALPHA_ITR 1000000//200000
+#define ALPHA_LOWER_BOND 0.001//0.15
+#define ALPHA_UPPER_BOND 0.4//2.0
+
+#define LOCAL_CONF_MIN_BOND	5
+#define LOCAL_CONF_ITR_FRACTION 0.125
+
+#define BUTTOM	0
+#define TOP 	1
+#define LEFT	2
+#define RIGHT	3
+
+#define NO_EFFECT		0
+#define POLAR_EFFECT		1
+#define HYDROPHOBIC_EFFECT	2
+
+#define NUM_OF_PRE_ITERATIONS 10000//1000000
+
+#define DEFAULT_SIDE_STRUCT_DB_SIZE 6
+#define BOX_SIDE_DENOMINATOR		2
+
+#define CONFINED_FOLD 0
+#define USE_PRE_FOLD 0
+#define WIDE_MEASURE 0
+#define WIDE_MCS_WINDOW_SIZE 100
+
+#endif //PCSIMU_DEFINITIONS
+

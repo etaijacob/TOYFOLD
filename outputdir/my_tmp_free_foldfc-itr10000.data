@@ -1,0 +1,169 @@
+#SEQ	+PP-HPH+HHHPHP-
+max mcs: 10000, maxRangeOfLocalConf: 5, edgesProbability: 16, simulationFactor: 1, Method: Version 23-08-11, V21 protchap.cpp foldToMinimumEnergy
+
+
+[15]+PP-HPH+HHHPHP-
+
+  HP-
+ HHHP
+ +H  
+PPP  
++-H  
+
+$structure
+        (11)(12)(15)
+    ( 9)(10)(13)(14)
+    ( 8)( 7)        
+( 2)( 3)( 6)        
+( 1)( 4)( 5)        
+$
+Struct Energy: -4.5, MCS: 914
+
+[15]+PP-HPH+HHHPHP-
+
+ H+H 
+HP-HH
+-PPHP
++P   
+
+$structure
+    ( 7)( 8)( 9)    
+( 5)( 6)(15)(10)(11)
+( 4)( 3)(14)(13)(12)
+( 1)( 2)            
+$
+Struct Energy: -5.25, MCS: 3026
+
+[15]+PP-HPH+HHHPHP-
+
+-PH 
+PPP 
++-H 
+ HHH
+ PH+
+
+$structure
+(15)(14)(13)    
+( 2)( 3)(12)    
+( 1)( 4)(11)    
+    ( 5)(10)( 9)
+    ( 6)( 7)( 8)
+$
+Struct Energy: -5, MCS: 2518
+
+[15]+PP-HPH+HHHPHP-
+
+PPPH+-
++-HHHP
+   HPH
+
+$structure
+( 2)( 3)( 6)( 7)( 8)(15)
+( 1)( 4)( 5)(10)( 9)(14)
+            (11)(12)(13)
+$
+Struct Energy: -5.25, MCS: 4473
+
+[15]+PP-HPH+HHHPHP-
+
+P+ 
+P- 
+PH 
+H+-
+ HP
+ HH
+ HP
+
+$structure
+( 2)( 1)    
+( 3)( 4)    
+( 6)( 5)    
+( 7)( 8)(15)
+    ( 9)(14)
+    (10)(13)
+    (11)(12)
+$
+Struct Energy: -4.25, MCS: 1919
+
+[15]+PP-HPH+HHHPHP-
+
+  -P 
+   HP
+HPHHH
+-P+H 
++P   
+
+$structure
+        (15)(14)    
+            (13)(12)
+( 5)( 6)( 7)(10)(11)
+( 4)( 3)( 8)( 9)    
+( 1)( 2)            
+$
+Struct Energy: -4.25, MCS: 1637
+
+[15]+PP-HPH+HHHPHP-
+
+  +P
+  -P
+  HP
+ HHH
+HPH+
+P-  
+
+$structure
+        ( 1)( 2)
+        ( 4)( 3)
+        ( 5)( 6)
+    (11)(10)( 7)
+(13)(12)( 9)( 8)
+(14)(15)        
+$
+Struct Energy: -4.25, MCS: 1918
+
+[15]+PP-HPH+HHHPHP-
+
+   P-
+   HP
+HPHHH
+-P+H 
++P   
+
+$structure
+            (14)(15)
+            (13)(12)
+( 5)( 6)( 7)(10)(11)
+( 4)( 3)( 8)( 9)    
+( 1)( 2)            
+$
+Struct Energy: -4.5, MCS: 2407
+
+[15]+PP-HPH+HHHPHP-
+
+PHP-
+HHH+
+ HPH
+ -+ 
+ PP 
+
+$structure
+(12)(13)(14)(15)
+(11)(10)( 9)( 8)
+    ( 5)( 6)( 7)
+    ( 4)( 1)    
+    ( 3)( 2)    
+$
+Struct Energy: -4.75, MCS: 1380
+
+[15]+PP-HPH+HHHPHP-
+
+P+ HPH
+P-HHHP
+  PH+-
+
+$structure
+( 2)( 1)    (11)(12)(13)
+( 3)( 4)( 5)(10)( 9)(14)
+        ( 6)( 7)( 8)(15)
+$
+Struct Energy: -4.5, MCS: 1033
