@@ -1,0 +1,13 @@
+Package: TOYFOLD
+Type: Software suite
+Title: TOYFOLD
+Version: 0.9
+Date: 2013-09-04
+Author: Etai Jacob
+Maintainer: Who to complain to <etai.jacob@gmail.com>
+License: MIT + file LICENSE
+Encoding: UTF-8
+Authors@R: person("Etai", "Jacob", email = "etai.jacob@gmail.com",
+  role = c("aut", "cre"))
+URL: https://github.com/etaijacob/TOYFOLD
+BugReports: https://github.com/etaijacob/TOYFOLD/issues
