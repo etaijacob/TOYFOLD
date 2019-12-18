@@ -11,11 +11,12 @@ The software includes the following tools:
 2) Randomly generate sequenes of length N from a given composition of H P + -
 3) Find the (global) minimal energy structure of a given sequence and the following energy matrix:
 
-/                           H       P       +       -
-											H   -1.0    0.0      0.0     0.0 
- 											P    0.0   -0.75    -0.25   -0.25 
-											+    0.0   -0.25    +1.0    -1.25
-											-    0.0   -0.25    -1.25   +1.0  
+|   | H    | P     | +     | -     |
+|---|------|-------|-------|-------|
+| H | -1.0 | 0.0   | 0.0   | 0.0   |
+| P | 0.0  | -0.75 | -0.25 | -0.25 |
+| + | 0.0  | -0.25 | +1.0  | -1.25 |
+| - | 0.0  | -0.25 | -1.25 | +1.0  |
 
 Other energy matrices could be configured also (currently it should be done hardcoded in the file "protchap.cpp")
 4) Run folding of single domain and double domain proteins.
