@@ -1,17 +1,16 @@
 
 # TOYFOLD
-## A Software suite to perform enumaration and simulations of a simplified model (i.e. toy model) of protein structure and folding process
+## A Software suite to perform enumeration and simulations of a simplified model (i.e. toy model) of protein structure and folding process
 
 All code is written in C++ and Perl. 
 Not all software features are currently documented. 
-In the future I plan to modify this software to an R package.
+In the future, I plan to modify this software to an R package.
 
 The software includes the following tools:
 1) Enumerate all possible configuration of a sequence of length N on a 2D lattice.
 2) Randomly generate sequenes of length N from a given composition of H P + -
 3) Find the (global) minimal energy structure of a given sequence and the following energy matrix:
-                          
-                          H       P       +       -
+                           H       P       +       -
 											H   -1.0    0.0      0.0     0.0 
  											P    0.0   -0.75    -0.25   -0.25 
 											+    0.0   -0.25    +1.0    -1.25
@@ -47,7 +46,7 @@ cd TOYFOLD/seqSeeker
 Generate binary for 2D enumaration (1):
 
 ```
-make enumerate
+make enumeration
 chmod +x ./noFixedStructEnum
 ```
 
