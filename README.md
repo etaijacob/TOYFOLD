@@ -10,7 +10,8 @@ The software includes the following tools:
 1) Enumerate all possible configuration of a sequence of length N on a 2D lattice.
 2) Randomly generate sequenes of length N from a given composition of H P + -
 3) Find the (global) minimal energy structure of a given sequence and the following energy matrix:
-                           H       P       +       -
+
+/                           H       P       +       -
 											H   -1.0    0.0      0.0     0.0 
  											P    0.0   -0.75    -0.25   -0.25 
 											+    0.0   -0.25    +1.0    -1.25
